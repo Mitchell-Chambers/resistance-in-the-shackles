@@ -47,4 +47,4 @@ Beast-folk names follow their peoples and their instincts: tengu collect *good w
 
 ---
 
-[← The Made](the-made.md) · [Contents](../README.md) · [Part Eight — Character Creation →](../08-character-creation.md)
+[← The Made](the-made.md) · [Contents](../README.md) · [Planetouched →](planetouched.md)

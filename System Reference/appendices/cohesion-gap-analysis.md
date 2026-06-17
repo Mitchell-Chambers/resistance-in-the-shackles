@@ -16,7 +16,7 @@ How each of Heart's major chapters is represented here:
 | Skills, Domains & Knacks | Part Three | ✅ Covered |
 | Resistances / Fallout | Part Four | ✅ Covered |
 | Character creation walkthrough | **Part Eight** | ✅ Covered |
-| Ancestries | **Part Seven (new)** | ✅ Covered (3 cultures + 5 kindreds) |
+| Ancestries | **Part Seven (new)** | ✅ Covered (3 cultures + 6 kindreds) |
 | Callings | Part Five | ✅ Covered |
 | Classes | Part Six | ✅ Covered |
 | Success & Failure | Part Two | ✅ Covered |
@@ -38,9 +38,9 @@ How each of Heart's major chapters is represented here:
 
 ### 1. Ancestries — *resolved (opening set), extensible*
 
-**Done:** [Part Seven — Ancestries](../07-ancestries/README.md) ships eight peoples in two tiers. Three **cultures** (for humans, elves and the like, who are defined by upbringing not species): **Shackleborn**, **Bonuwat**, **Chelaxian**. Five **kindreds** (peoples apart by nature): **Small Folk** (halfling/gnome/dwarf), **Goblinkin** (goblin/kobold — the monstrous small), **Big Folk** (half-orc/minotaur/hobgoblin), **The Made** (android/automaton/homunculus), **Beast-folk** (tengu/catfolk/ratfolk/merfolk/naga). All mechanics-free, per the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md).
+**Done:** [Part Seven — Ancestries](../07-ancestries/README.md) ships eight peoples in two tiers. Three **cultures** (for humans, elves and the like, who are defined by upbringing not species): **Shackleborn**, **Bonuwat**, **Chelaxian**. Six **kindreds** (peoples apart by nature): **Small Folk** (halfling/gnome/dwarf), **Goblinkin** (goblin/kobold — the monstrous small), **Big Folk** (half-orc/minotaur/hobgoblin), **The Made** (android/automaton/homunculus), **Beast-folk** (tengu/catfolk/ratfolk/merfolk/naga), **Planetouched** (tieflings/aasimars/elemental-blooded). All mechanics-free, per the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md).
 
-**Still open (optional expansion):** a **Planetouched** kindred (tieflings, aasimars, elemental-blooded), and more cultures (inland Mwangi, Mordant Spire elves, Vudrani/Tian diasporas). *Deliberately excluded:* a "drowned"/deep-folk ancestry — being claimed by the sea is the Tide track's gravest threat and must stay a *fate*, not a starting choice.
+**Still open (optional expansion):** more cultures (inland Mwangi, Mordant Spire elves, Vudrani/Tian diasporas). *Deliberately excluded:* a "drowned"/deep-folk ancestry — being claimed by the sea is the Tide track's gravest threat and must stay a *fate*, not a starting choice.
 
 ### 2. Running the Game — *resolved*
 

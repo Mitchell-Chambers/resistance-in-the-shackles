@@ -23,7 +23,7 @@ This reference serves the whole table, but only part of it belongs in front of *
 | Four — Stress Tracks | [`04-stress-tracks.md`](04-stress-tracks.md) | ✅ | Blood, Tide, Reputation, Luck, Gold — and their fallout |
 | Five — Callings | [`05-callings/`](05-callings/) | ✅ | The eight [callings](05-callings/README.md) and the shared Piracy calling |
 | Six — Classes | [`06-classes/`](06-classes/) | ✅ | The ten [classes](06-classes/README.md) |
-| Seven — Ancestries | [`07-ancestries/`](07-ancestries/) | ✅ | Who you are: three cultures + five [kindreds](07-ancestries/README.md) of the Shackles (no mechanics) |
+| Seven — Ancestries | [`07-ancestries/`](07-ancestries/) | ✅ | Who you are: three cultures + six [kindreds](07-ancestries/README.md) of the Shackles (no mechanics) |
 | Eight — Character Creation | [`08-character-creation.md`](08-character-creation.md) | ✅ | Make your pirate: the build steps, the crew, advancement |
 | Nine — Equipment & Resources | [`09-equipment-and-resources.md`](09-equipment-and-resources.md) | ◑ | Full equipment, quality, the tag glossary, resources, haggling |
 | Ten — Ships & the Sea | [`10-ships-and-the-sea/`](10-ships-and-the-sea/) | ⚙️ | [Ships](10-ships-and-the-sea/ships-of-the-shackles.md), the [Hull](10-ships-and-the-sea/hull-and-the-ship.md) track, [journeys](10-ships-and-the-sea/journeys-at-sea.md) |

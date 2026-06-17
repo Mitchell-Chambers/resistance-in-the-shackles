@@ -24,7 +24,7 @@ Pull these from the master, in this order. Each line notes the **source** and th
    *Source:* [`05-callings/`](../System%20Reference/05-callings/). *Trim:* none. Include the choosing guide and each calling's flavour, core ability, questions, beats, and carry table.
 7. **Classes** — the full set. Players choose one; this must be complete.
    *Source:* [`06-classes/`](../System%20Reference/06-classes/). *Trim:* none (design notes are already stripped). Keep the balance note short or cut it — it's designer-facing.
-8. **Ancestries** — the peoples of the Shackles (three cultures + five kindreds). Players choose one; include the lot.
+8. **Ancestries** — the peoples of the Shackles (three cultures + six kindreds). Players choose one; include the lot.
    *Source:* [`07-ancestries/`](../System%20Reference/07-ancestries/). *Trim:* none — each is short (lore, three questions, names, a trinket table) and fully player-facing.
 9. **Make Your Pirate** — the character-creation walkthrough.
    *Source:* [`08-character-creation.md`](../System%20Reference/08-character-creation.md). *Trim:* use the steps and the Quick Reference; you may cut the Advancement detail to a short "how you grow" paragraph for a session-zero primer.

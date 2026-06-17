@@ -43,7 +43,7 @@ Your ancestry is who you are before the dice hit the table. **It grants no mecha
 
 An ancestry is built from a short lore block, **three background questions**, a set of names, and a d20 **trinkets** table. To make a character: read your ancestry's lore, **answer one of its three background questions**, choose a **name**, and **roll twice on its trinkets table** (keep both).
 
-The Shackles ancestries are in **[Part Seven](07-ancestries/README.md)**, in two groups: **cultures** (Shackleborn, Bonuwat, Chelaxian — for humans, elves, and the like, who are defined by their upbringing rather than their species) and **kindreds** (Small Folk, Goblinkin, Big Folk, The Made, Beast-folk — peoples set apart by their very nature). Pick one; more are easily built with the [Ancestry Design Guide](../Game%20System/ancestry_design_guide.md). If none fits, describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
+The Shackles ancestries are in **[Part Seven](07-ancestries/README.md)**, in two groups: **cultures** (Shackleborn, Bonuwat, Chelaxian — for humans, elves, and the like, who are defined by their upbringing rather than their species) and **kindreds** (Small Folk, Goblinkin, Big Folk, The Made, Beast-folk, Planetouched — peoples set apart by their very nature). Pick one; more are easily built with the [Ancestry Design Guide](../Game%20System/ancestry_design_guide.md). If none fits, describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
 
 ## Step 5 — Your Resistances
 
@@ -99,4 +99,4 @@ The shape of advancement *is* the shape of the story. Minor advances are the tex
 
 ---
 
-[← Beast-folk](07-ancestries/beast-folk.md) · [Contents](README.md) · [Part Nine — Equipment & Resources →](09-equipment-and-resources.md)
+[← Planetouched](07-ancestries/planetouched.md) · [Contents](README.md) · [Part Nine — Equipment & Resources →](09-equipment-and-resources.md)

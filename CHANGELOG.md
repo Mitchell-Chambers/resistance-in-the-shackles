@@ -8,6 +8,12 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.9.1] — 2026-06-17
+
+### Added
+
+- **Planetouched** — a sixth ancestry kindred (tieflings, aasimars, and the elemental-blooded — ifrits, undines, oreads, sylphs): people marked at birth by a heritage they did not choose, who refuse to be the thing their blood says they are. Mechanics-free, with a lore block, three world-anchored questions, names, and a d20 trinkets table. Added to the ancestries index, character creation, README, primer spec, and navigation.
+
 ## [0.9.0] — 2026-06-17
 
 The last polish — the cohesion roadmap is now fully closed.
@@ -160,6 +166,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.9.1]: #091--2026-06-17
 [0.9.0]: #090--2026-06-17
 [0.8.0]: #080--2026-06-17
 [0.7.0]: #070--2026-06-17
