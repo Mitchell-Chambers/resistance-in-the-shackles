@@ -25,7 +25,7 @@ How each of Heart's major chapters is represented here:
 | Resources & Equipment | Part Nine | ✅ Covered |
 | Bonds | Part Eleven | ✅ Covered |
 | Exploration / Delves / The Map | Parts Ten, Eleven, Twelve | ✅ Covered |
-| Running the Game (GM) | — | ❌ **Missing** |
+| Running the Game (GM) | **Part Thirteen** | ✅ Covered |
 | The World (society, geography) | Part One (brief) | ◑ Light — no gazetteer |
 | Landmarks (worked examples by tier) | Part Eleven/Twelve (templates only) | ◑ No example landmarks |
 | Adversaries / Bestiary | Part Ten (ships only) | ❌ **Missing** (non-ship) |
@@ -40,11 +40,13 @@ How each of Heart's major chapters is represented here:
 
 **Done:** [Part Seven — Ancestries](../07-ancestries/README.md) ships eight peoples in two tiers. Three **cultures** (for humans, elves and the like, who are defined by upbringing not species): **Shackleborn**, **Bonuwat**, **Chelaxian**. Five **kindreds** (peoples apart by nature): **Small Folk** (halfling/gnome/dwarf), **Goblinkin** (goblin/kobold — the monstrous small), **Big Folk** (half-orc/minotaur/hobgoblin), **The Made** (android/automaton/homunculus), **Beast-folk** (tengu/catfolk/ratfolk/merfolk/naga). All mechanics-free, per the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md).
 
-**Still open (optional expansion):** a **Drowned** kindred (gillmen, merfolk-kin, undine, sahuagin-touched — the strongest next pick for Tide and *Cursed Tides*), a **Planetouched** kindred (tieflings, aasimars, elemental-blooded), and more cultures (inland Mwangi, Mordant Spire elves, Vudrani/Tian diasporas).
+**Still open (optional expansion):** a **Planetouched** kindred (tieflings, aasimars, elemental-blooded), and more cultures (inland Mwangi, Mordant Spire elves, Vudrani/Tian diasporas). *Deliberately excluded:* a "drowned"/deep-folk ancestry — being claimed by the sea is the Tide track's gravest threat and must stay a *fate*, not a starting choice.
 
-### 2. Running the Game — *missing, high priority*
+### 2. Running the Game — *resolved*
 
-There is no GM chapter. GM guidance currently lives scattered in asides (tier default stress, journey framing, "the GM frames it"). A cohesive game needs one consolidated **Running the Game** part covering: the GM's job and principles; **assigning stress and choosing the track**; setting difficulty (Standard/Risky/Dangerous); **framing fallout** as fiction; pacing the doom (how Luck and the callings' Downfalls are meant to land); building landmarks, haunts, and journeys from the templates; **session zero** (crew, ship, home port, tone, safety tools); and running engagements. Much of this can be assembled from rulings already implicit across Parts Two, Four, Ten–Twelve — it needs *gathering and front-matter*, not invention.
+**Done:** [Part Thirteen — Running the Game](../13-running-the-game.md) consolidates the GM front matter — principles, calling for rolls, difficulty, the craft of assigning stress and choosing the track, framing fallout, **pacing the doom**, building landmarks/haunts/journeys/adversaries, session zero with safety tools, and running beats. It gathers rulings already implicit across Parts Two, Four, and Ten–Twelve into one place.
+
+*(Original note retained for reference:)* There was no GM chapter. GM guidance currently lives scattered in asides (tier default stress, journey framing, "the GM frames it"). A cohesive game needs one consolidated **Running the Game** part covering: the GM's job and principles; **assigning stress and choosing the track**; setting difficulty (Standard/Risky/Dangerous); **framing fallout** as fiction; pacing the doom (how Luck and the callings' Downfalls are meant to land); building landmarks, haunts, and journeys from the templates; **session zero** (crew, ship, home port, tone, safety tools); and running engagements. Much of this can be assembled from rulings already implicit across Parts Two, Four, Ten–Twelve — it needs *gathering and front-matter*, not invention.
 
 ### 3. Adversaries & a Shackles Bestiary — *missing, medium-high*
 
@@ -74,13 +76,13 @@ The character sheet exists as a build brief in the *Personal* project folder, ou
 ## Suggested build order
 
 1. ~~**Ancestries**~~ — **done** (opening set of six in Part Seven; expansion optional).
-2. **Running the Game** (the biggest cohesion win; mostly gathering existing rulings).
+2. ~~**Running the Game**~~ — **done** (Part Thirteen).
 3. **Adversaries & bestiary** (makes the game runnable against opposition).
 4. **Combat + Healing consolidation** and the **quick-reference page** (small, high-utility).
 5. **Worked landmarks / gazetteer** (turns rules into a campaign).
 6. **Character sheet** into the tree.
 
-None of these require changing existing rules — they are additive. With items 2–3 written, the System Reference would stand on its own as a complete game rather than a rules-and-character toolkit that leans on Heart for the GM half.
+None of these require changing existing rules — they are additive. With item 3 (a bestiary) written, the System Reference would stand on its own as a complete game rather than a rules-and-character toolkit that leans on Heart for the GM half.
 
 <!-- nav -->
 

@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.6.0] — 2026-06-17
+
+Added the GM half of the game.
+
+### Added
+
+- **Part Thirteen — Running the Game** — the GM chapter, consolidating front matter that was previously scattered across the rules: the GM's job and principles; when to call for a roll; setting difficulty; the craft of **assigning stress and choosing the track**; **framing fallout** as concrete fiction; **pacing the doom** (running Luck and the callings' Downfalls honestly, and never telling a player their beats); building landmarks, haunts, journeys, and adversaries from the templates; a **session-zero** procedure with safety tools; and running beats and advancement. Ends with a first-session checklist.
+
+### Changed
+
+- **Ancestries:** removed the proposed "Drowned" expansion kindred and recorded the reason — being claimed by the sea and returning not-quite-human is the **Tide** track's gravest stake and the heart of *Cursed Tides*; it must remain a fate, never a character-creation option. Noted in the ancestries index and the gap analysis.
+- **Cohesion gap analysis** updated: Running the Game marked resolved; remaining roadmap is the adversary bestiary, then the smaller polish items.
+
 ## [0.5.0] — 2026-06-17
 
 Reworked Ancestries into a two-tier **cultures + kindreds** model.
@@ -104,6 +117,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.6.0]: #060--2026-06-17
 [0.5.0]: #050--2026-06-17
 [0.4.0]: #040--2026-06-17
 [0.3.0]: #030--2026-06-17

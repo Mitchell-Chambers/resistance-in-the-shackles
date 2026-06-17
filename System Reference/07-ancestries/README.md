@@ -45,7 +45,9 @@ At character creation (Part Eight, Step 4):
 
 ## Building your own — and what's coming
 
-Ancestries are mechanics-free, so making one with your GM is easy: follow the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md) (lore block · three world-anchored questions · names · a d20 trinkets table). Add a **culture** by naming a new upbringing (the inland **Mwangi**, the elf-courts of the **Mordant Spire**, a **Vudrani** or **Tian** trade-diaspora). Add a **kindred** by naming a people apart — the strongest next pick is the **Drowned** (gillmen, merfolk-kin, undine, and the sahuagin-touched of the trenches — a natural home for the Tide and the *Cursed Tides* calling), with **Planetouched** (tieflings, aasimars, and the elemental-blooded) close behind.
+Ancestries are mechanics-free, so making one with your GM is easy: follow the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md) (lore block · three world-anchored questions · names · a d20 trinkets table). Add a **culture** by naming a new upbringing (the inland **Mwangi**, the elf-courts of the **Mordant Spire**, a **Vudrani** or **Tian** trade-diaspora). Add a **kindred** by naming a people apart — a natural next pick is **Planetouched** (tieflings, aasimars, and the elemental-blooded, marked by a heritage they did not choose).
+
+> **One deliberate omission:** there is no "drowned" or deep-folk ancestry. Being claimed by the sea and coming back as something not-quite-human is the gravest stake of the **Tide** track and the **Cursed Tides** calling. If you could simply *start* as one of the deep's own, that fate would stop being frightening. The drowned remain a destination, never a starting point.
 
 <!-- nav -->
 
