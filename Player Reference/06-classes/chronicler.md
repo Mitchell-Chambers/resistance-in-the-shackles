@@ -105,3 +105,9 @@ _You carried too much of the record, and the record has opinions about being put
 
 ### THE UNFINISHED WORKING
 _Every drowned tradition died mid-sentence. You have found the end of one._ Once, you perform the final working of a dead civilisation — the one its practitioners were building toward when the sea took them. Define it with the GM, at the scale of the people who attempted it: a drowned city raised for a single day; the Eye quieted for a season; every restless dead of a vanished people settled at once. The working is titanic, and it takes its caster — as it took theirs, which you knew, because you read it, because that is why the tradition died and the working was never finished until you. The tradition is complete. So is your story.
+
+<!-- nav -->
+
+---
+
+[← Castaway](castaway.md) · [Contents](../README.md) · [Corsair →](corsair.md)

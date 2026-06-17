@@ -65,3 +65,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. A sketch of their face good enough to find them in any disguise
 9. The only surviving piece of what was taken from you
 10. A knotted cord counting the days since
+
+<!-- nav -->
+
+---
+
+[← Monument](monument.md) · [Contents](../README.md) · [Freedom →](freedom.md)

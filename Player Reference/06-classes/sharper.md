@@ -102,3 +102,9 @@ _Everything that appeared to be coincidence was arrangement._ You reveal — to 
 
 ### THE GRIFT ETERNAL
 _You con death itself._ You stage your own death so perfectly that everyone is convinced — enemies, allies, creditors, the sea, and whatever keeps the ledgers beyond it. The Sharper everyone knew is mourned, buried, and settled into legend; every debt dies with the name. You walk away as someone new entirely — new face, new port, new game — and your character retires from play. The truth of where you went exists in exactly one place: a sealed file, held by the person at the table you trusted most. Whether they ever open it is up to them.
+
+<!-- nav -->
+
+---
+
+[← Sawbone](sawbone.md) · [Contents](../README.md) · [Sin Bosun →](sin-bosun.md)

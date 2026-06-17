@@ -67,3 +67,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. Your dead predecessor's hat — it fits
 9. An IOU from the quartermaster, gathering interest
 10. A chart of home waters, corrected in your own blood at least once
+
+<!-- nav -->
+
+---
+
+[← Fellowship](fellowship.md) · [Contents](../README.md) · [Part Six — Classes →](../06-classes/README.md)

@@ -102,3 +102,9 @@ _You return to the place that exiled you, and conclude the argument with the ins
 
 ### THE SCHOOL FOUNDED
 _The tradition was carried across an ocean to arrive at this._ You formalise everything — the old form, and everything the Shackles taught you about what it was missing — into a living school: named, located, with students and a documented lineage that now ends in you. You retire as its master. For the remainder of the campaign, the school functions as a landmark and a faction: its students recognisable by form and footwork, its hall a place where formal challenge is sacrosanct, its doors open to the surviving player characters whenever they need shelter, instruction or a second who will not run. One day, long after you are gone, the colonial world will send its children here to train. You will not live to see it. You founded it anyway.
+
+<!-- nav -->
+
+---
+
+[← Daredevil](daredevil.md) · [Contents](../README.md) · [Powder Mage →](powder-mage.md)

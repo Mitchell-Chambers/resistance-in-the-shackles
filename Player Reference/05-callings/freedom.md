@@ -65,3 +65,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. Map of where you were held, drawn from memory, every door correct
 9. A small thing you were forbidden to have
 10. The scrap of paper where someone first wrote your name instead of your number
+
+<!-- nav -->
+
+---
+
+[← Vendetta](vendetta.md) · [Contents](../README.md) · [Cursed Tides →](cursed-tides.md)

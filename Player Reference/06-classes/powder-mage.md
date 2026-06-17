@@ -102,3 +102,9 @@ _The universe finally agrees that you are right._ Once, at a moment of your choo
 
 ### THE UNDYING SPARK
 _You stop carrying the fire and become it._ At the heart of a great burning — a magazine, a fireship, a battery in full roar — you let the boundary go. Your body is unmade, and what you were disperses into every charge of powder in the Shackles. From now on, when desperate gunners pray over a wet charge that fires anyway, when a pistol misfires in the hand of a murderer at exactly the right moment, when a powder mage yet unborn feels the first tingle behind their eyes — that is you, or what you have become. The GM determines when and how the spark shows itself. It never speaks. It always burns.
+
+<!-- nav -->
+
+---
+
+[← Errant](errant.md) · [Contents](../README.md) · [Sawbone →](sawbone.md)

@@ -29,3 +29,9 @@ Each part is a standalone Markdown file so changes are easy to review in version
 - **Classes**: `Game System/Version 5/` (the play-style rebalance — combat floor, spike trims, healing spread).
 
 When you change a rule, edit the relevant Part file and commit with a short message describing the change, so the history reads as a changelog.
+
+<!-- nav -->
+
+---
+
+[Primer →](00-primer.md)

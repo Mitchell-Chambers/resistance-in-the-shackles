@@ -262,3 +262,9 @@ Gold in pirate mythology is never just money — it's freedom, it's proof, it's 
 ### Clearing This Track
 
 > Gold stress clears through successful plunder. A good prize, a lucrative contract, a successful trade, or a debt settled clears Gold stress in proportion to the material gain. Port carousing and gambling can clear Minor Gold stress but risk adding more. Major Gold fallout requires a proper windfall — a significant prize, a found stash, or a successful long con — to resolve.
+
+<!-- nav -->
+
+---
+
+[← The Nine Domains](03-skills-and-domains/domains.md) · [Contents](README.md) · [Part Five — Callings →](05-callings/README.md)

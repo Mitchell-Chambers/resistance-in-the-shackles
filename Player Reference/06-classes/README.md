@@ -32,3 +32,9 @@ These classes are the **Version 5** rebalance. Three rules were enforced across 
 - **The combat floor** — combat is a protected axis; *every* class fights at par. Piracy is steel, smoke, and blood, so no class is a non-combatant.
 - **Identity, not spikes** — each class has one clear proficiency and at most one neglect, unless an "extreme" is a deliberate, on-theme choice (the Powder Mage's glass-cannon gunnery; the Castaway's wordless feral edge; the Sharper's information web; the Chronicler's drowned-lore scholarship).
 - **Healing spread** — party medicine is shared across five classes (Castaway, Corsair, Tidecaller, Sin Bosun, and the Sawbone), rather than concentrated on one. The Sawbone has turned ship-ward — the vessel's surgeon-engineer.
+
+<!-- nav -->
+
+---
+
+[← Piracy](../05-callings/piracy.md) · [Contents](../README.md) · [Castaway →](castaway.md)

@@ -124,3 +124,9 @@ Tags take effect when a player uses the item, except where noted.
 - **TRUSTY** — roll two dice for stress against a *journey*, keep the highest. Stacks.
 - **UNRELIABLE** — on a failed action, it can't be used again this situation (ashore) or this journey (at sea).
 - **WYRD** — when you inflict stress and roll the maximum, mark D6 Tide.
+
+<!-- nav -->
+
+---
+
+[← Part One — The World](01-the-world.md) · [Contents](README.md) · [Part Three — Skills & Domains →](03-skills-and-domains/README.md)

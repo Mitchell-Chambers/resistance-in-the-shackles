@@ -107,3 +107,9 @@ _You shed what little remains of your human form and ascend into something many-
 _Following the passing of a legendary survivor, sometimes the Interior — the green and waiting heart of every island, older than charts and indifferent to flags — surges out to claim their body as a prize._
 To activate this ability, die. The location you are currently occupying is overwhelmed by the wild: mangrove and strangler fig erupt through deck-planking and stonework, reefs rise where there was open water, swarms of bright and hungry creatures smash apart the world around them, and your body is subsumed into the black, fecund soil to be reborn. If you're on a journey, immediately establish a new landmark where you fell. This eruption will remain connected to the deep interior for a few hours before it is severed — then the growth will calcify into a dead garden of bleached coral, ill-auspiced and frequented only by gulls and ghosts.
 When you are reborn, you awaken in the Interior. You have an afterlife of hunting, feasting and listening to the green silence to look forward to.
+
+<!-- nav -->
+
+---
+
+[← Part Six — Classes](README.md) · [Contents](../README.md) · [Chronicler →](chronicler.md)

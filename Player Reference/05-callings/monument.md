@@ -66,3 +66,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. The Pirate Code, annotated with your corrections
 9. Key to a lock you haven't found yet
 10. An unsigned proclamation you are not yet ready to make
+
+<!-- nav -->
+
+---
+
+[← Hunger](hunger.md) · [Contents](../README.md) · [Vendetta →](vendetta.md)

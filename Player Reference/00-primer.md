@@ -13,3 +13,9 @@ You will have liberty. You will have light-hearted, spectacular, disreputable fu
 And then there is the reckoning. The good times are real, and so is what comes after. Luck runs out. The sea keeps its own ledger. The most honest endings available in the Shackles are rarely the quiet ones — and your character will get to choose what theirs is worth.
 
 The rest of this reference tells you how all of that works: the world you sail, the dice you roll, the harm you carry, the obsession that keeps you out here, and the hard-won expertise that has kept you alive so far.
+
+<!-- nav -->
+
+---
+
+[← Contents](README.md) · [Part One — The World →](01-the-world.md)

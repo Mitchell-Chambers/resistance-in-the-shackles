@@ -372,3 +372,9 @@ Vanish is not just about stealth in the physical sense. Concealing contraband in
 ### Overlaps & Distinctions
 
 > Vanish and Deceive are different: Vanish is about not being perceived, Deceive is about being perceived wrongly. They work together naturally — Vanish gets you into position, Deceive handles anyone who catches you there. Vanish and Plunder work in sequence: Vanish gets you into the space, Plunder gets you back out with the goods.
+
+<!-- nav -->
+
+---
+
+[← Part Three — Skills & Domains](README.md) · [Contents](../README.md) · [The Nine Domains →](domains.md)

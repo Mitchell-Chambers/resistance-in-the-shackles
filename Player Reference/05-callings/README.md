@@ -53,3 +53,9 @@ If you are torn between two callings, the question tells you which one fits.
 - **Cursed Tides or Legacy?** Can you negotiate with it? A legacy can be refused, honoured, or transformed. The call cannot.
 - **Legacy or Vendetta?** Vendetta has a heading; Legacy has ballast. One is in pursuit, the other under weight.
 - **Legacy or Fellowship?** The dead, or the living. Legacy faces what came before; Fellowship faces who is here.
+
+<!-- nav -->
+
+---
+
+[← Part Four — Stress Tracks](../04-stress-tracks.md) · [Contents](../README.md) · [Hunger →](hunger.md)

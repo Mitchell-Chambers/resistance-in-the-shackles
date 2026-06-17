@@ -295,3 +295,9 @@ The Shackles' islands range from tropical paradises to nightmarish jungle ecosys
 ### Fallout Flavour
 
 > Blood stress comes freely from the Wilderness. The jungle does not hate you. It is simply hungry, and you are warm.
+
+<!-- nav -->
+
+---
+
+[← The Eleven Skills](skills.md) · [Contents](../README.md) · [Part Four — Stress Tracks →](../04-stress-tracks.md)

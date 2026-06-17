@@ -66,3 +66,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. A tooth that matches no bestiary
 9. Mirror that runs half a second behind
 10. A name that isn't yours, burned into the sole of your foot
+
+<!-- nav -->
+
+---
+
+[← Freedom](freedom.md) · [Contents](../README.md) · [Legacy →](legacy.md)

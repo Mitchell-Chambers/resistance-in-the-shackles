@@ -103,3 +103,9 @@ _Cheating death has become a professional credential._ Ordinary violence, misfor
 
 ### THE LAST TRICK
 _To activate this ability, die — saving someone, mid-stunt, in front of witnesses._ The death is so audacious, so impossible, so perfectly timed that everyone who sees it is changed by it. All nearby allies remove all ongoing fallout and all stress marked to all resistances, and roll with mastery for the remainder of the situation: the crowd you played to your whole life finally moves the way you always moved. No body is ever recovered. No one who saw it can quite believe you're gone. Perhaps you aren't.
+
+<!-- nav -->
+
+---
+
+[← Corsair](corsair.md) · [Contents](../README.md) · [Errant →](errant.md)

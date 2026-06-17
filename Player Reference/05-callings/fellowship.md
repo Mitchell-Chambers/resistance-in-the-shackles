@@ -66,3 +66,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. The crew's accounts, quietly balanced from your own share for years
 9. Something of the lost one's, worn out of sight
 10. A memorial of this crew's deeds, written for whoever reads it after you
+
+<!-- nav -->
+
+---
+
+[← Legacy](legacy.md) · [Contents](../README.md) · [Piracy →](piracy.md)

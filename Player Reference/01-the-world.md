@@ -29,3 +29,9 @@ This is not a safe sea. But it is a magnificent one.
 ## The Crew
 
 The crew is everything. Not an abstraction, not a resource, not a means to an end — people, specific people, whose names you know and whose faces you could draw from memory in the dark. Pirates talk about freedom like it is a solo act. The best of them know better: the only real freedom most ever feel is the kind they share. Whatever your character's private obsession, the ship and the hands aboard her are the ground you stand on — and, in this game, the thing the sea will most reliably use to hurt you.
+
+<!-- nav -->
+
+---
+
+[← Primer](00-primer.md) · [Contents](README.md) · [Part Two — The System →](02-the-system.md)

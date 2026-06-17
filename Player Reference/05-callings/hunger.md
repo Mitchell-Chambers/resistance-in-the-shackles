@@ -66,3 +66,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. Spyglass with a cracked lens you refuse to replace
 9. Wax-sealed clay jar, contents unknown
 10. Three maps of the same coastline that don't agree
+
+<!-- nav -->
+
+---
+
+[← Part Five — Callings](README.md) · [Contents](../README.md) · [Monument →](monument.md)

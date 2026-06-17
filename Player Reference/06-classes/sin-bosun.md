@@ -104,3 +104,9 @@ _To activate this ability, die at sea, settling a debt the water was owed._ The 
 
 ### THE WAY THROUGH
 _The sea opens for you._ Once, you can navigate anywhere: through the heart of the Eye, into waters no chart has reached, to a place that exists only because your god made it and you are the only one who knows the way. Where you go and what you find is the final question your arc has been asking. The god promised passage to those who served it. You have served it. The passage is real. Whether coming back is part of it is a question the god has not answered, and may not answer until you arrive. Your character leaves the story.
+
+<!-- nav -->
+
+---
+
+[← Sharper](sharper.md) · [Contents](../README.md) · [Tidecaller →](tidecaller.md)

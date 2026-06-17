@@ -102,3 +102,9 @@ _The Eye itself acknowledges you._ Once, you may speak a permanent working into 
 
 ### WHAT THE EYE KEEPS
 _You sail into the Eye of Abendego and do not come out. Something else happens instead._ Choose a stretch of sea — a strait, a reef-maze, the waters around one island. You are omnipresent within it: while the situation lasts, you choose who lives and who drowns inside its borders. When the situation ends, the water is stained with you forever: it counts as one tier stranger than it was, its weather answers to no chart, and sailors learn to speak kindly when crossing it. You live on as the thing the locals leave offerings for. In a generation, someone desperate will stand at its edge and ask for terms. You will be interested in very specific things.
+
+<!-- nav -->
+
+---
+
+[← Sin Bosun](sin-bosun.md) · [Contents](../README.md)

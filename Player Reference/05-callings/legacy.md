@@ -66,3 +66,9 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 8. A deed to something someone else currently holds
 9. Their uncracked cipher; you've worked it for years
 10. Their name, tattooed on you before you could refuse
+
+<!-- nav -->
+
+---
+
+[← Cursed Tides](cursed-tides.md) · [Contents](../README.md) · [Fellowship →](fellowship.md)

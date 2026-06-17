@@ -108,3 +108,9 @@ _The Shackles has decided you belong to it permanently._ You retire as the unkil
 
 ### DOWN WITH THE SHIP
 _To activate this ability, go down with your ship._ The sea takes you both, and the sea keeps what it takes. Your vessel becomes a ghost ship and you its master, sailing the Shackles forever — glimpsed off storm-heads, becalmed in impossible fog, running before winds that touch nothing else. Once per campaign, when the surviving characters are at sea and beyond hope, your sails appear: one broadside, one rescue, or one escort through water that should kill them. Then you are gone over the horizon, where the dead keep their own watch and the wake never closes.
+
+<!-- nav -->
+
+---
+
+[← Chronicler](chronicler.md) · [Contents](../README.md) · [Daredevil →](daredevil.md)

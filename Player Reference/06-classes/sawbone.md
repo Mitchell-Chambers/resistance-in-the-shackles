@@ -108,3 +108,9 @@ _To activate this ability, give yourself to the work completely._ One vessel —
 
 ### EVERY PATIENT LIVES
 _To activate this ability, work yourself to death._ Once, when the dying outnumber the living — a battle's aftermath, a plague port, a fleet broken on a reef — you refuse all of it. You work through the night, the next day, the next night, performing surgery and salvage beyond what hands should manage, and at the end of it every patient brought to you survives: all nearby allies and every named character present recover all Blood stress and all Blood fallout. You do not. The Shackles' surgeons still argue about that night, and teach it. Every crew in these waters knows the toast: the sawbones pays the bill.
+
+<!-- nav -->
+
+---
+
+[← Powder Mage](powder-mage.md) · [Contents](../README.md) · [Sharper →](sharper.md)

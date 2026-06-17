@@ -10,3 +10,9 @@ The combination is what makes a character: *Tend + Deepwater* is a ship's surgeo
 
 - **[The Eleven Skills](skills.md)** — Brave, Carouse, Command, Deceive, Endure, Hunt, Navigate, Plunder, Reckon, Tend, Vanish.
 - **[The Nine Domains](domains.md)** — Deepwater, Shallows, Port, Outlaw, Colonial, Arcane, Faith, Ruins, Wilderness.
+
+<!-- nav -->
+
+---
+
+[← Part Two — The System](../02-the-system.md) · [Contents](../README.md) · [The Eleven Skills →](skills.md)
