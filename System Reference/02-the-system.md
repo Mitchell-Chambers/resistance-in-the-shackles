@@ -73,7 +73,7 @@ Timed effects are scoped to the fiction, never to a number of rounds: *"your nex
 
 ## Equipment, Resources & Tags
 
-Characters don't track coin or count ammunition. What you carry is described by **stress dice**, **quality**, and **tags**.
+Characters don't track coin or count ammunition. What you carry is described by **stress dice**, **quality**, and **tags**. This is the working summary; the full rules — buying and selling, haggling, armour, the resource generator — are in [Part Seven: Equipment & Resources](07-equipment-and-resources.md).
 
 ### Equipment
 

@@ -107,4 +107,4 @@ _You sail into the Eye of Abendego and do not come out. Something else happens i
 
 ---
 
-[← Sin Bosun](sin-bosun.md) · [Contents](../README.md)
+[← Sin Bosun](sin-bosun.md) · [Contents](../README.md) · [Part Seven — Equipment & Resources →](../07-equipment-and-resources.md)
