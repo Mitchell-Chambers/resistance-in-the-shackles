@@ -67,4 +67,4 @@ Two location categories sit outside the ladder, mirroring Heart's Fractures and 
 
 ---
 
-[← Part Nine — Ports, Havens & Haunts](09-ports-havens-and-haunts.md) · [Contents](README.md) · [Appendices — Design & Balance →](appendices/README.md)
+[← Part Ten — Ports, Havens & Haunts](10-ports-havens-and-haunts.md) · [Contents](README.md) · [Appendices — Design & Balance →](appendices/README.md)

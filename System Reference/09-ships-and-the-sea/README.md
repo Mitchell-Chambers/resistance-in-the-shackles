@@ -1,4 +1,4 @@
-# Part Eight — Ships & the Sea
+# Part Nine — Ships & the Sea
 
 The sea is the second board this game is played on. Where Parts Two through Seven describe characters, this part describes the **ship** they sail, the **passages** they make, and the **engagements** that find them out on the water. Three interlocking systems:
 
@@ -8,10 +8,10 @@ The sea is the second board this game is played on. Where Parts Two through Seve
 
 These sit on top of the same core engine as everything else — the D10 roll, the five tracks, fallout, the four timing gates. The sea adds one shared track (Hull) and one pacing tool (the chaos die); it changes nothing about how characters work.
 
-> Journey fundamentals shared with land travel — resistance, boons and banes, charted routes, abandonment — live in **[Part Nine: Ports, Havens & Haunts](../09-ports-havens-and-haunts.md)**. Regional danger and the statblock template live in **[Part Ten: Location Tiers](../10-location-tiers.md)**.
+> Journey fundamentals shared with land travel — resistance, boons and banes, charted routes, abandonment — live in **[Part Ten: Ports, Havens & Haunts](../10-ports-havens-and-haunts.md)**. Regional danger and the statblock template live in **[Part Eleven: Location Tiers](../11-location-tiers.md)**.
 
 <!-- nav -->
 
 ---
 
-[← Part Seven — Equipment & Resources](../07-equipment-and-resources.md) · [Contents](../README.md) · [Ships of the Shackles →](ships-of-the-shackles.md)
+[← Part Eight — Equipment & Resources](../08-equipment-and-resources.md) · [Contents](../README.md) · [Ships of the Shackles →](ships-of-the-shackles.md)

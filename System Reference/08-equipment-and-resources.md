@@ -133,4 +133,4 @@ GM: anything with potential value is a resource — gold, a fabulous diadem, the
 
 ---
 
-[← Tidecaller](06-classes/tidecaller.md) · [Contents](README.md) · [Part Eight — Ships & the Sea →](08-ships-and-the-sea/README.md)
+[← Part Seven — Character Creation](07-character-creation.md) · [Contents](README.md) · [Part Nine — Ships & the Sea →](09-ships-and-the-sea/README.md)

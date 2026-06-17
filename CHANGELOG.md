@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.3.0] — 2026-06-17
+
+Added character creation and an honest map of what's still missing.
+
+### Added
+
+- **Part Seven — Character Creation** ("Make Your Pirate") — the build walkthrough (concept → class → calling → ancestry → resistances → bonds → crew/ship/home port → finish), an Advancement section (beats → minor/major/zenith advances), and a one-glance Quick Reference.
+- **Appendix: [cohesion gap analysis](System%20Reference/appendices/cohesion-gap-analysis.md)** — a chapter-level comparison against Heart's structure identifying what the master still needs to be self-contained: **ancestries** (designed but unwritten), a **Running the Game / GM chapter**, an **adversary bestiary** (only ships are statted today), consolidated **healing & character-scale combat**, **worked landmarks/gazetteer**, a **quick-reference page**, and the **character sheet** in-tree — with a suggested build order.
+
+### Changed
+
+- **Renumbered** the back half to slot character creation into the player-facing block: Equipment & Resources → **Part Eight**, Ships & the Sea → **Part Nine**, Ports/Havens/Haunts → **Part Ten**, Location Tiers → **Part Eleven** (history preserved via `git mv`). README, cross-references, the primer spec, and all navigation footers updated to match.
+
 ## [0.2.0] — 2026-06-17
 
 Reframed the project from a player primer into the **master system reference**. The six-part player reference was the wrong scope — it is now the player-facing *subset* of a complete ruleset.
@@ -58,5 +71,6 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.3.0]: #030--2026-06-17
 [0.2.0]: #020--2026-06-17
 [0.1.0]: #010--2026-06-17

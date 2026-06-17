@@ -2,6 +2,10 @@
 
 These are the working documents behind the rules: the analyses, frameworks, and draft trails that explain *why* the system is shaped the way it is. They are **not player-facing** and are never part of a player primer. They live in their original folders in this repository; this index gathers and annotates them so the reasoning is one click away when you revise a rule.
 
+## Cohesion & Roadmap
+
+- [`cohesion-gap-analysis.md`](cohesion-gap-analysis.md) — a chapter-level comparison of the System Reference against Heart's structure, identifying what's still missing for the master to read as a complete, self-contained game (ancestries, a GM chapter, an adversary bestiary, and more), with a suggested build order.
+
 ## Design Frameworks
 
 - [`Game System/System Documents/the_median_class.md`](../../Game%20System/System%20Documents/the_median_class.md) — the zero-sum "identity vs. par" model used to keep classes balanced; the foundation of the Version 5 rebalance.
@@ -39,4 +43,4 @@ The full evolution of the classes lives in [`Game System/Version 2`](../../Game%
 
 ---
 
-[← Part Ten — Location Tiers](../10-location-tiers.md) · [Contents](../README.md)
+[← Part Eleven — Location Tiers](../11-location-tiers.md) · [Contents](../README.md)

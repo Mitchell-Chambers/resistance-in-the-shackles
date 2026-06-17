@@ -66,4 +66,4 @@ Bonds are where your name lives when you're not in the room. **When you visit a 
 
 ---
 
-[← Journeys at Sea](08-ships-and-the-sea/journeys-at-sea.md) · [Contents](README.md) · [Part Ten — Location Tiers →](10-location-tiers.md)
+[← Journeys at Sea](09-ships-and-the-sea/journeys-at-sea.md) · [Contents](README.md) · [Part Eleven — Location Tiers →](11-location-tiers.md)

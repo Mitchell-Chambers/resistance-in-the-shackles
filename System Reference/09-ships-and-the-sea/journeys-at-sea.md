@@ -64,4 +64,4 @@ The inland-tier rule means most island work is two journeys stitched together: a
 
 ---
 
-[← Hull & the Ship](hull-and-the-ship.md) · [Contents](../README.md) · [Part Nine — Ports, Havens & Haunts →](../09-ports-havens-and-haunts.md)
+[← Hull & the Ship](hull-and-the-ship.md) · [Contents](../README.md) · [Part Ten — Ports, Havens & Haunts →](../10-ports-havens-and-haunts.md)
