@@ -1,5 +1,7 @@
 # Bonuwat
 
+*A culture, not a species. Most Bonuwat are human, but the coast has long taken in elves, half-elves, and others who learned its waters; what makes you Bonuwat is the shore that raised you, not the shape of your blood.*
+
 Your people are the coast itself made into a nation — the seafaring folk of the western Mwangi shore, who were reading the currents and free-diving the reefs of these waters long before the first Chelish keel cut through them. To be Bonuwat is to belong to the sea in a way the colonisers will never understand and never stop trying to buy. You know the names of currents the charts do not record, the reefs that move, the islands that are only there at certain tides. The Aspis Consortium and the Chelish navy carved up your coast for timber, ivory, and worse, and called it trade; your grandparents called it what it was. Some of your people went pirate to take it all back one prize at a time; some went pirate because there was nothing left of the old life to stay for. Either way, the deep remembers you, and you have never once felt alone on the water.
 
 ## Background Questions

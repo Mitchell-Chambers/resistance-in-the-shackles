@@ -8,6 +8,26 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.5.0] — 2026-06-17
+
+Reworked Ancestries into a two-tier **cultures + kindreds** model.
+
+### Changed
+
+- **Part Seven — Ancestries** restructured. **Cultures** (for humans, elves, half-elves and the like — defined by upbringing, not species; there is no standalone "human" or "elf" ancestry): **Shackleborn**, **Bonuwat**, **Chelaxian**, each now noting it is a culture open to multiple species. **Kindreds** (peoples set apart by nature):
+  - **Small Folk** — merges halfling, gnome, and dwarf into the small "ordinary" peoples (was *Halfling*).
+  - **Big Folk** — merges half-orc, minotaur, and hobgoblin into the large martial peoples (was *Half-Orc*).
+  - **Beast-folk** — merges tengu, catfolk, ratfolk, merfolk, and naga into the animalistic peoples (was *Tengu*).
+
+### Added
+
+- **Goblinkin** (goblins, kobolds) — the "monstrous small," a deliberate contrast to Small Folk.
+- **The Made** (androids, automatons, homunculi) — constructed beings claiming a self.
+
+### Notes
+
+- Files renamed via `git mv` (`halfling`→`small-folk`, `half-orc`→`big-folk`, `tengu`→`beast-folk`). README, character creation, primer spec, gap analysis, and navigation updated. Expansion picks reframed as a future **Drowned** kindred (gillmen/merfolk-kin/undine/sahuagin-touched) and **Planetouched** kindred (tieflings/aasimars).
+
 ## [0.4.0] — 2026-06-17
 
 Added the third character pillar: **Ancestries**.
@@ -84,6 +104,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.5.0]: #050--2026-06-17
 [0.4.0]: #040--2026-06-17
 [0.3.0]: #030--2026-06-17
 [0.2.0]: #020--2026-06-17

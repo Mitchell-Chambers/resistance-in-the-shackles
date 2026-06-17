@@ -1,5 +1,7 @@
 # Shackleborn
 
+*A culture, not a species. There is no "human" or "elf" ancestry in this game — those peoples are defined by the culture that raised them, and the Shackleborn are whatever blood the islands have mixed: human, elf, half-elf, and every other baseline folk born to the tide.*
+
 You were born somewhere between two tides, on an island that flies no nation's flag, to parents who were themselves the leavings of a dozen coasts — a little Chelish, a little Mwangi, a little Tian, a little of whatever sailor passed through the season you were made. The Shackleborn are not an ancestry of blood but of place: the creole people of the islands, raised on salt fish and the Pirate Code, who learned to swim before they learned to walk and to lie before they learned to read. You have never had a homeland to lose, because the sea between the islands is the only home there has ever been. Outsiders call the Shackles lawless; you know it has more laws than anywhere, they are simply not written down, and breaking them costs more. You do not dream of escaping to a better life elsewhere — there is no elsewhere that would have you, and you would not go.
 
 ## Background Questions

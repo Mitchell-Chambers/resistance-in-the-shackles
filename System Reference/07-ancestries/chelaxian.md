@@ -1,5 +1,7 @@
 # Chelaxian
 
+*A culture, not a species. Chelish society is mostly human, with old elven and half-elven houses woven through its bloodlines; you are Chelaxian by upbringing and bearing, whatever your ancestry beneath it.*
+
 You were raised in the long shadow of the most disciplined and devil-haunted empire of the Inner Sea — pale, schooled, and taught from infancy that order is worth any price, including your soul and everyone else's. Cheliax made you to be useful: a naval officer, a factor's clerk, a duelist of good family, a cog in a machine that runs on contracts signed in something darker than ink. And then something broke the spell — a press-ganging, a disgrace, a conscience that arrived too late or right on time — and you ran for the one place in the world the empire cannot reach. You brought your education with you, which is more useful at sea than you would like to admit; you can forge a manifest, read a man-o-war's signals, and pass for a magistrate's adjutant in a way no Free Captain ever could. But the accent marks you, and so does the flinch when someone mentions a name you used to answer to.
 
 ## Background Questions
@@ -45,4 +47,4 @@ Chelish names are formal, layered, and faintly archaic — a given name, a house
 
 ---
 
-[← Bonuwat](bonuwat.md) · [Contents](../README.md) · [Half-Orc →](half-orc.md)
+[← Bonuwat](bonuwat.md) · [Contents](../README.md) · [Small Folk →](small-folk.md)

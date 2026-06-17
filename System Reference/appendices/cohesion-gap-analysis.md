@@ -16,7 +16,7 @@ How each of Heart's major chapters is represented here:
 | Skills, Domains & Knacks | Part Three | ✅ Covered |
 | Resistances / Fallout | Part Four | ✅ Covered |
 | Character creation walkthrough | **Part Eight** | ✅ Covered |
-| Ancestries | **Part Seven (new)** | ✅ Covered (opening set of 6) |
+| Ancestries | **Part Seven (new)** | ✅ Covered (3 cultures + 5 kindreds) |
 | Callings | Part Five | ✅ Covered |
 | Classes | Part Six | ✅ Covered |
 | Success & Failure | Part Two | ✅ Covered |
@@ -38,9 +38,9 @@ How each of Heart's major chapters is represented here:
 
 ### 1. Ancestries — *resolved (opening set), extensible*
 
-**Done:** [Part Seven — Ancestries](../07-ancestries/README.md) now ships an opening set of six, covering all five social positions in the design guide: **Shackleborn** (born to the islands), **Bonuwat** (dispossessed Mwangi seafarers), **Chelaxian** (colonial exile), **Half-Orc** (stateless/outlawed), **Halfling** (freed), and **Tengu** (diaspora). All are mechanics-free, per the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md).
+**Done:** [Part Seven — Ancestries](../07-ancestries/README.md) ships eight peoples in two tiers. Three **cultures** (for humans, elves and the like, who are defined by upbringing not species): **Shackleborn**, **Bonuwat**, **Chelaxian**. Five **kindreds** (peoples apart by nature): **Small Folk** (halfling/gnome/dwarf), **Goblinkin** (goblin/kobold — the monstrous small), **Big Folk** (half-orc/minotaur/hobgoblin), **The Made** (android/automaton/homunculus), **Beast-folk** (tengu/catfolk/ratfolk/merfolk/naga). All mechanics-free, per the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md).
 
-**Still open (optional expansion):** **Gillman** (drowned-Azlanti deep-folk — the strongest next pick, a natural fit for Tide and *Cursed Tides*), **Tiefling**, inland **Mwangi**, **Grippli** of the Sodden Lands, **Undine**, and **Sahuagin-touched** sea-folk.
+**Still open (optional expansion):** a **Drowned** kindred (gillmen, merfolk-kin, undine, sahuagin-touched — the strongest next pick for Tide and *Cursed Tides*), a **Planetouched** kindred (tieflings, aasimars, elemental-blooded), and more cultures (inland Mwangi, Mordant Spire elves, Vudrani/Tian diasporas).
 
 ### 2. Running the Game — *missing, high priority*
 
