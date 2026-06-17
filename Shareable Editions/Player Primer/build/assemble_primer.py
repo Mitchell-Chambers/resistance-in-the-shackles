@@ -105,6 +105,9 @@ qr=re.sub(r'\*The whole game.*?\*\n','',qr,count=1,flags=re.S)
 add("# Quick Reference\n"+qr)
 
 md="\n".join(OUT)
+# self-contained primer: turn internal relative links into plain text (keep http and in-page #anchors)
+import re as _re
+md=_re.sub(r'\[([^\]]+)\]\((?!https?:|#)[^)]*\)', r'\1', md)
 open("/sessions/zealous-happy-clarke/mnt/outputs/player-primer.md","w",encoding="utf-8").write(md)
 print("primer.md bytes:", len(md))
 print("H1 sections:", re.findall(r'(?m)^# (.+)$', md))

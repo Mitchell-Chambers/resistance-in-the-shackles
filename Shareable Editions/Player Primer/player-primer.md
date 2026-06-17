@@ -94,7 +94,7 @@ When you fail or partially succeed, you **mark stress** to a track. The GM choos
 
 **Protection** — from class abilities, circumstances, or the `Block` tag — reduces the number rolled before it is marked.
 
-Each character has **five stress tracks**: Blood, Tide, Reputation, Luck, and Gold (see [Part Four](04-stress-tracks.md)). The moment you mark stress, the GM rolls a **D12** and compares it to your **total** stress across all tracks:
+Each character has **five stress tracks**: Blood, Tide, Reputation, Luck, and Gold (see Part Four). The moment you mark stress, the GM rolls a **D12** and compares it to your **total** stress across all tracks:
 
 | D12 vs. total stress | Outcome |
 |---|---|
@@ -108,22 +108,22 @@ Fallout is the point of the system. It ranges from a passing inconvenience to a 
 
 ## Clearing Stress
 
-Each track clears differently, and that is deliberate — see each track's entry in [Part Four](04-stress-tracks.md) for the specifics. In short: **Blood** clears with rest, food, and a surgeon; **Gold** clears with plunder and good trades; **Reputation** clears with public, witnessed deeds (and through bonds and haunts); **Tide** resists clearing and usually needs ritual or arc-length story work; and **Luck** cannot be cleared by rest, coin, or carousing at all — it clears only when its fallout finally fires. Luck is the track that does not forgive. It is the mechanical promise at the centre of this game.
+Each track clears differently, and that is deliberate — see each track's entry in Part Four for the specifics. In short: **Blood** clears with rest, food, and a surgeon; **Gold** clears with plunder and good trades; **Reputation** clears with public, witnessed deeds (and through bonds and haunts); **Tide** resists clearing and usually needs ritual or arc-length story work; and **Luck** cannot be cleared by rest, coin, or carousing at all — it clears only when its fallout finally fires. Luck is the track that does not forgive. It is the mechanical promise at the centre of this game.
 
-**Three ways to recover.** When a track *can* be cleared, it happens one of three ways: a **Tend roll** with the right gear ([Part Nine](09-equipment-and-resources.md)) patches Blood, Gold, or the ship's Hull; a **haunt or a bond** in a friendly port ([Part Eleven](11-ports-havens-and-haunts.md)) buys back almost anything — including the stubborn Tide and Luck that nothing you can carry will touch; and ordinary **rest, plunder, and witnessed deeds** clear Blood, Gold, and Reputation over time. If you ever can't find "how do I heal this?", it is in one of those three.
+**Three ways to recover.** When a track *can* be cleared, it happens one of three ways: a **Tend roll** with the right gear (Part Nine) patches Blood, Gold, or the ship's Hull; a **haunt or a bond** in a friendly port (Part Eleven) buys back almost anything — including the stubborn Tide and Luck that nothing you can carry will touch; and ordinary **rest, plunder, and witnessed deeds** clear Blood, Gold, and Reputation over time. If you ever can't find "how do I heal this?", it is in one of those three.
 
 ## Combat at Character Scale
 
 A fight runs on the same loop as everything else — there is no separate combat minigame. You say what you do; you roll when it's uncertain and costly; the consequence lands. A few things worth stating plainly:
 
 - **No turn order.** Nobody waits for initiative. You act when the fiction hands you the spotlight; the enemy hurts you through your failed and partial rolls, and through the GM's framing when you stall or hide (see Timing, below).
-- **Taking a foe out.** Enemies are adversaries with a **Resistance** pool ([Part Fourteen](14-adversaries.md)). You don't track their wounds — you reduce that pool with your successes until it reaches 0, and then they break the way the fiction wants: dead, fled, surrendered, or cowed. Declare what you're trying to make happen; the same statline serves a kill or a capture.
+- **Taking a foe out.** Enemies are adversaries with a **Resistance** pool (Part Fourteen). You don't track their wounds — you reduce that pool with your successes until it reaches 0, and then they break the way the fiction wants: dead, fled, surrendered, or cowed. Declare what you're trying to make happen; the same statline serves a kill or a capture.
 - **Range and position are fiction.** Close in and a cutlass (Brave) is the tool; hold the distance and a pistol (Hunt) is. Tags carry the tactics — `Reload` buys the enemy a moment to close, `Ranged` lets you hurt what can't yet hurt you, `Brutal` and `Piercing` crack a tough target. Getting into the right position *is* the clever play that steps your difficulty down.
 - **Ganging up & helping.** Numbers and teamwork show up as **difficulty**, not extra dice — an ally setting it up, a flanking angle, a distraction can step a Risky strike to Standard. A pack or a squad is one Resistance, not a crowd to be counted.
-- **Fighting hurt.** Blood fallout — *Winded*, *Limping*, *Broken* ([Part Four](04-stress-tracks.md)) — is the price of staying in too long. You can push through it, but the tracks fill and the D12 is always watching. Knowing when to break off is a skill the Shackles teaches the hard way.
+- **Fighting hurt.** Blood fallout — *Winded*, *Limping*, *Broken* (Part Four) — is the price of staying in too long. You can push through it, but the tracks fill and the D12 is always watching. Knowing when to break off is a skill the Shackles teaches the hard way.
 - **Surrender, capture, mercy.** Not every fight ends in a body. Foes surrender or flee at Resistance 0; so can you. Being taken alive — a press-gang, a Chelish boarding — is a story, not a game over: the *Indentured*, *Seized*, or *Bounty* fallout made flesh.
 
-Full adversary rules and a bestiary are in [Part Fourteen](14-adversaries.md); ship-scale battle is [Part Ten](10-ships-and-the-sea/README.md).
+Full adversary rules and a bestiary are in Part Fourteen; ship-scale battle is Part Ten.
 
 ## Timing: No Rounds, No Initiative
 
@@ -178,18 +178,18 @@ Every calling in this set is something the character *chose to sail with*. Nobod
 
 ## The Set
 
-Everyone holds the shared **[Piracy](piracy.md)** calling alongside one personal calling:
+Everyone holds the shared **Piracy** calling alongside one personal calling:
 
 | Calling | The arc | Dominant track |
 |---|---|---|
-| **[Hunger](hunger.md)** | The chase — the wanting that the prize never fills | Luck / Gold |
-| **[Monument](monument.md)** | The build — making something that outlasts you | Reputation |
-| **[Vendetta](vendetta.md)** | The hunt of one — a single account to settle | Blood |
-| **[Freedom](freedom.md)** | The unfinished escape — every cage is yours to break | Blood |
-| **[Cursed Tides](cursed-tides.md)** | The claim — the sea has marked you for its own | Tide |
-| **[Legacy](legacy.md)** | The inheritance — a name that went to sea before you | Reputation |
-| **[Fellowship](fellowship.md)** | The bond tested — the crew is the only wealth you count | Luck |
-| **[Piracy](piracy.md)** *(shared)* | The crew's story — a campaign-length arc for the whole table | Blood / Gold / Luck / Reputation |
+| **Hunger** | The chase — the wanting that the prize never fills | Luck / Gold |
+| **Monument** | The build — making something that outlasts you | Reputation |
+| **Vendetta** | The hunt of one — a single account to settle | Blood |
+| **Freedom** | The unfinished escape — every cage is yours to break | Blood |
+| **Cursed Tides** | The claim — the sea has marked you for its own | Tide |
+| **Legacy** | The inheritance — a name that went to sea before you | Reputation |
+| **Fellowship** | The bond tested — the crew is the only wealth you count | Luck |
+| **Piracy** *(shared)* | The crew's story — a campaign-length arc for the whole table | Blood / Gold / Luck / Reputation |
 
 ## How Callings Work
 
@@ -786,16 +786,16 @@ Your class is the reason you are not dead yet. It is your particular expertise �
 
 | Class | Core skill · domain | In a line |
 |---|---|---|
-| **[Castaway](castaway.md)** | Endure · Wilderness | The wreck the wild Shackles kept and remade — a feral island survivor |
-| **[Chronicler](chronicler.md)** | Reckon · Ruins | A scholar of drowned civilisations who reads ruins like open books |
-| **[Corsair](corsair.md)** | Brave · Deepwater | A philosophy of controlled destruction; expensive to ignore |
-| **[Daredevil](daredevil.md)** | Vanish · Outlaw | Circus-trained escapologist who always has a way out |
-| **[Errant](errant.md)** | Hunt · Colonial | A formal duelist from somewhere with rules |
-| **[Powder Mage](powder-mage.md)** | Hunt · Arcane | An arcane gunner channelling force through iron and smoke |
-| **[Sawbone](sawbone.md)** | Tend · Deepwater | The same saw opens a chest and cuts a plank — surgeon and ship's carpenter |
-| **[Sharper](sharper.md)** | Deceive · Port | The one who plays the game beneath the game |
-| **[Sin Bosun](sin-bosun.md)** | Navigate · Faith | The ship's priest — found when someone is dying, and when the sky needs talking to |
-| **[Tidecaller](tidecaller.md)** | Command · Arcane | Bound by an unclear pact to something at the heart of the Eye |
+| **Castaway** | Endure · Wilderness | The wreck the wild Shackles kept and remade — a feral island survivor |
+| **Chronicler** | Reckon · Ruins | A scholar of drowned civilisations who reads ruins like open books |
+| **Corsair** | Brave · Deepwater | A philosophy of controlled destruction; expensive to ignore |
+| **Daredevil** | Vanish · Outlaw | Circus-trained escapologist who always has a way out |
+| **Errant** | Hunt · Colonial | A formal duelist from somewhere with rules |
+| **Powder Mage** | Hunt · Arcane | An arcane gunner channelling force through iron and smoke |
+| **Sawbone** | Tend · Deepwater | The same saw opens a chest and cuts a plank — surgeon and ship's carpenter |
+| **Sharper** | Deceive · Port | The one who plays the game beneath the game |
+| **Sin Bosun** | Navigate · Faith | The ship's priest — found when someone is dying, and when the sky needs talking to |
+| **Tidecaller** | Command · Arcane | Bound by an unclear pact to something at the heart of the Eye |
 
 ## How a Class Works
 
@@ -1909,20 +1909,20 @@ The peoples of the Shackles fall into two groups, and they answer the "who are y
 
 | Culture | In a line | Stands where, in the web of power |
 |---|---|---|
-| **[Shackleborn](shackleborn.md)** | Born to the islands, of every blood and none | The sea is home, not escape |
-| **[Bonuwat](bonuwat.md)** | The Mwangi coast's own seafarers | Indigenous to these waters; dispossessed by everyone who charts them |
-| **[Chelaxian](chelaxian.md)** | Children of the empire, turned against it | Colonial and privileged origin, now in exile |
+| **Shackleborn** | Born to the islands, of every blood and none | The sea is home, not escape |
+| **Bonuwat** | The Mwangi coast's own seafarers | Indigenous to these waters; dispossessed by everyone who charts them |
+| **Chelaxian** | Children of the empire, turned against it | Colonial and privileged origin, now in exile |
 
 ### Kindreds
 
 | Kindred | Gathers | In a line |
 |---|---|---|
-| **[Small Folk](small-folk.md)** | Halflings, gnomes, dwarves | The small "ordinary" peoples — overlooked, and armoured by it |
-| **[Goblinkin](goblinkin.md)** | Goblins, kobolds | The small the world calls *vermin* — hunted, and gleefully alive |
-| **[Big Folk](big-folk.md)** | Half-orcs, minotaurs, hobgoblins | The large and martial — feared on land, valued on a deck |
-| **[The Made](the-made.md)** | Androids, automatons, homunculi | Built rather than born, and claiming a self anyway |
-| **[Beast-folk](beast-folk.md)** | Tengu, catfolk, ratfolk, merfolk, naga | Animal shape, animal instinct, thinking mind |
-| **[Planetouched](planetouched.md)** | Tieflings, aasimars, the elemental-blooded | Marked by a heritage they did not choose |
+| **Small Folk** | Halflings, gnomes, dwarves | The small "ordinary" peoples — overlooked, and armoured by it |
+| **Goblinkin** | Goblins, kobolds | The small the world calls *vermin* — hunted, and gleefully alive |
+| **Big Folk** | Half-orcs, minotaurs, hobgoblins | The large and martial — feared on land, valued on a deck |
+| **The Made** | Androids, automatons, homunculi | Built rather than born, and claiming a self anyway |
+| **Beast-folk** | Tengu, catfolk, ratfolk, merfolk, naga | Animal shape, animal instinct, thinking mind |
+| **Planetouched** | Tieflings, aasimars, the elemental-blooded | Marked by a heritage they did not choose |
 
 ## How to use an ancestry
 
@@ -1935,7 +1935,7 @@ At character creation (Part Eight, Step 4):
 
 ## Building your own — and what's coming
 
-Ancestries are mechanics-free, so making one with your GM is easy: follow the [Ancestry Design Guide](../../Game%20System/ancestry_design_guide.md) (lore block · three world-anchored questions · names · a d20 trinkets table). Add a **culture** by naming a new upbringing (the inland **Mwangi**, the elf-courts of the **Mordant Spire**, a **Vudrani** or **Tian** trade-diaspora). Add another **kindred** by naming a people apart, or a **culture** by naming a new upbringing.
+Ancestries are mechanics-free, so making one with your GM is easy: follow the Ancestry Design Guide (lore block · three world-anchored questions · names · a d20 trinkets table). Add a **culture** by naming a new upbringing (the inland **Mwangi**, the elf-courts of the **Mordant Spire**, a **Vudrani** or **Tian** trade-diaspora). Add another **kindred** by naming a people apart, or a **culture** by naming a new upbringing.
 
 > **One deliberate omission:** there is no "drowned" or deep-folk ancestry. Being claimed by the sea and coming back as something not-quite-human is the gravest stake of the **Tide** track and the **Cursed Tides** calling. If you could simply *start* as one of the deep's own, that fate would stop being frightening. The drowned remain a destination, never a starting point.
 
@@ -2381,7 +2381,7 @@ Your calling is your engine. Pick one of the seven personal callings (Part Five)
 2. **Answer its four questions.** Two of them name other player characters — do this at the table, out loud, so your stories are already tangled before play begins.
 3. **Roll (or choose) on its d10 carry table** — the object you bring to mark this life. It is not equipment. It is evidence.
 
-Everyone also holds the shared **[Piracy](05-callings/piracy.md)** calling alongside their personal one; you will build its side of things with the whole crew in Step 7.
+Everyone also holds the shared **Piracy** calling alongside their personal one; you will build its side of things with the whole crew in Step 7.
 
 ## Step 4 — Choose an Ancestry
 
@@ -2389,7 +2389,7 @@ Your ancestry is who you are before the dice hit the table. **It grants no mecha
 
 An ancestry is built from a short lore block, **three background questions**, a set of names, and a d20 **trinkets** table. To make a character: read your ancestry's lore, **answer one of its three background questions**, choose a **name**, and **roll twice on its trinkets table** (keep both).
 
-The Shackles ancestries are in **[Part Seven](07-ancestries/README.md)**, in two groups: **cultures** (Shackleborn, Bonuwat, Chelaxian — for humans, elves, and the like, who are defined by their upbringing rather than their species) and **kindreds** (Small Folk, Goblinkin, Big Folk, The Made, Beast-folk, Planetouched — peoples set apart by their very nature). Pick one; more are easily built with the [Ancestry Design Guide](../Game%20System/ancestry_design_guide.md). If none fits, describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
+The Shackles ancestries are in **Part Seven**, in two groups: **cultures** (Shackleborn, Bonuwat, Chelaxian — for humans, elves, and the like, who are defined by their upbringing rather than their species) and **kindreds** (Small Folk, Goblinkin, Big Folk, The Made, Beast-folk, Planetouched — peoples set apart by their very nature). Pick one; more are easily built with the Ancestry Design Guide. If none fits, describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
 
 ## Step 5 — Your Resistances
 
@@ -2405,13 +2405,13 @@ You may begin with **one or two bonds** — real relationships in the Shackles w
 
 Piracy is not a solo act. As a table, build the thing you all share:
 
-1. **Answer the four crew questions** from the [Piracy calling](05-callings/piracy.md) together — the ship and what she cost, your first prize and what went wrong, your home port, and the enemy who already knows your flag.
+1. **Answer the four crew questions** from the Piracy calling together — the ship and what she cost, your first prize and what went wrong, your home port, and the enemy who already knows your flag.
 2. **Define the ship** — her **size** and **quality** (Part Ten: *Ships of the Shackles*). A sound working vessel starts at Hull protection 1; that is plenty to begin.
 3. **Name a home port** — a friendly landmark you can return to, heal at, and be hunted in (Part Eleven).
 
 ## Step 8 — Finishing Touches
 
-Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your **[character sheet](character-sheet.md)** and you are ready to sail.
+Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your **character sheet** and you are ready to sail.
 
 ---
 
@@ -2439,7 +2439,7 @@ The shape of advancement *is* the shape of the story. Minor advances are the tex
 5. **Resistances** — five tracks empty; protection 0 unless an ability grants it.
 6. **Bonds** — one or two to start (max three).
 7. **Crew & ship** — answer the Piracy crew questions; set ship size/quality and a home port.
-8. **Finish** — name, look, two active beats, fill the [sheet](character-sheet.md).
+8. **Finish** — name, look, two active beats, fill the sheet.
 
 # Quick Reference
 
@@ -2510,4 +2510,4 @@ End of session: choose **two active beats** from your **calling** or the shared 
 
 ---
 
-[Contents](README.md) · *Full rules: [Part Two — The System](02-the-system.md), [Part Four — Stress Tracks](04-stress-tracks.md)*
+Contents · *Full rules: Part Two — The System, Part Four — Stress Tracks*
