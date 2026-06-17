@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.8.0] — 2026-06-17
+
+Polish: a one-page card and a set of ready-to-run places.
+
+### Added
+
+- **Quick Reference** ([`quick-reference.md`](System%20Reference/quick-reference.md)) — the whole game on one page: the roll and result band, difficulty, marking stress and the fallout check, the five tracks (and how each clears), the four gates, the equipment ladder and common tags, the skills/domains lists, and beats/advancement. Linked from the top of the README; built to double as a shareable-edition back page. (Unnumbered card, outside the linear part order.)
+- **Part Fifteen — Worked Landmarks** — ready-to-run statblocks on the Part 11/12 templates: havens (Port Peril, Tidewater Cove, Bloodcove), the wild and the ruins (the Green Throat interior delve, the Drowned Vault of Azlant), and the deep (the Edge of the Eye, the Crosswind Shoals), each with a one-line "use," plus a build-your-own frame.
+
+### Changed
+
+- **Cohesion gap analysis** updated: the quick reference and worked landmarks are in; remaining is light polish (a short combat/recovery summary, and the character sheet in-tree).
+
 ## [0.7.0] — 2026-06-17
 
 The third and last structural gap closed: opposition to point at the crew.
@@ -133,6 +146,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.8.0]: #080--2026-06-17
 [0.7.0]: #070--2026-06-17
 [0.6.0]: #060--2026-06-17
 [0.5.0]: #050--2026-06-17

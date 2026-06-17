@@ -194,4 +194,4 @@ Adversaries do not have character sheets and do not roll dice. An adversary is a
 
 ---
 
-[← Part Thirteen — Running the Game](13-running-the-game.md) · [Contents](README.md) · [Appendices — Design & Balance →](appendices/README.md)
+[← Part Thirteen — Running the Game](13-running-the-game.md) · [Contents](README.md) · [Part Fifteen — Worked Landmarks →](15-worked-landmarks.md)

@@ -10,6 +10,8 @@ It is assembled from the latest canonical sources in this project: classes **Ver
 
 This reference serves the whole table, but only part of it belongs in front of **players at session zero**. The **Primer** column below marks the player-facing slice. A shareable *player primer* is compiled from the ✅ parts; the ⚙️ parts are full-system and GM material. See [`Shareable Editions/`](../Shareable%20Editions/) for the content spec and visual design language used to compile those primers.
 
+> 📋 **In a hurry?** The [**Quick Reference**](quick-reference.md) is the whole game on one page.
+
 ## Contents
 
 | Part | File | Primer | What it covers |
@@ -29,6 +31,8 @@ This reference serves the whole table, but only part of it belongs in front of *
 | Twelve — Location Tiers | [`12-location-tiers.md`](12-location-tiers.md) | ⚙️ | Regional danger 0–4, default stress, rewards, statblocks |
 | Thirteen — Running the Game | [`13-running-the-game.md`](13-running-the-game.md) | ⚙️ | The GM chapter: principles, difficulty, stress & fallout craft, pacing the doom, session zero |
 | Fourteen — Adversaries | [`14-adversaries.md`](14-adversaries.md) | ⚙️ | Adversary rules + a Shackles bestiary: people, beasts, the drowned, legendary threats |
+| Fifteen — Worked Landmarks | [`15-worked-landmarks.md`](15-worked-landmarks.md) | ⚙️ | Ready-to-run havens, ruins, and journeys (Port Peril, Bloodcove, the Eye's edge…) |
+| — Quick Reference | [`quick-reference.md`](quick-reference.md) | ✅ | The whole game on one page (table-side card) |
 | Appendices | [`appendices/`](appendices/) | ⚙️ | Design frameworks, balance reviews, draft trails (not player-facing) |
 
 *Primer key: ✅ core player content · ◑ partly (a condensed slice belongs in a primer) · ⚙️ full-system / GM only.*

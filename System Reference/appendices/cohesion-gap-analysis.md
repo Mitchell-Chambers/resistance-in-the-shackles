@@ -27,9 +27,9 @@ How each of Heart's major chapters is represented here:
 | Exploration / Delves / The Map | Parts Ten, Eleven, Twelve | ✅ Covered |
 | Running the Game (GM) | **Part Thirteen** | ✅ Covered |
 | The World (society, geography) | Part One (brief) | ◑ Light — no gazetteer |
-| Landmarks (worked examples by tier) | Part Eleven/Twelve (templates only) | ◑ No example landmarks |
+| Landmarks (worked examples by tier) | Part Eleven/Twelve + **Part Fifteen** | ✅ Covered (worked set) |
 | Adversaries / Bestiary | Part Ten (ships) + **Part Fourteen** | ✅ Covered |
-| Rules Summary / quick reference | — | ❌ Missing (minor) |
+| Rules Summary / quick reference | **quick-reference.md** | ✅ Covered |
 | Character Sheet | Build brief (separate folder) | ◑ Not in the tree |
 
 ---
@@ -61,13 +61,19 @@ Both exist but are spread thin:
 - **Healing** is defined in Part Four (clearing each track), Part Nine (Tend gear), and Part Eleven (Tend rolls, haunts, bonds). It works, but a player can't find "how do I heal?" in one place. *Fix:* a short consolidating section (in Part Two or Four) that points to all three, or a one-page "Recovery" summary.
 - **Combat at character scale** is implied by the core loop (no rounds, stress on fail) and the tags, but there is no section that says, in one place, how a fight *runs*: range and positioning as fiction, taking an NPC out (their Resistance hitting 0), surrender and capture, ganging up, fighting hurt. Heart devotes a short chapter to this. *Fix:* a one-page "Combat" section in Part Two.
 
-### 5. Worked examples & gazetteer — *light, medium*
+### 5. Worked examples & gazetteer — *resolved (worked set)*
+
+**Done:** [Part Fifteen — Worked Landmarks](../15-worked-landmarks.md) provides ready-to-run statblocks on the Part 11/12 templates — Port Peril, Tidewater Cove, Bloodcove, a jungle-interior delve, a Ghol-Gan ruin, the Eye's edge, and the Crosswind Shoals — plus a build-your-own frame. A full setting **gazetteer** (Part One expansion) remains optional.
+
+*(Original note retained for reference:)* light, medium —
 
 Parts Eleven and Twelve give the landmark/journey/haunt **templates** and one or two inline examples, but there is no set of **worked Shackles landmarks** — Port Peril, Quent, Bloodcove, a Ghol-Gan ruin, the Eye's edge — statted out as ready-to-use havens, haunts, and journeys. Likewise Part One is a tight setting primer with no **gazetteer**. Neither is strictly required to play, but both are what turn a rules document into a *campaign* you can run tonight. → a `gazetteer/` section or an expansion of Part Ten with examples.
 
-### 6. Rules Summary / quick reference — *missing, low*
+### 6. Rules Summary / quick reference — *resolved*
 
-A single **one-page cheat sheet** — the roll and result band, difficulty, marking stress, the fallout check, the four gates, and the d10 result table — would serve play and double as the back page of any shareable edition. Cheap to produce from Part Two.
+**Done:** [`quick-reference.md`](../quick-reference.md) is the whole game on one page (the roll, results, difficulty, stress & fallout, the five tracks, the four gates, equipment, skills/domains, beats, common tags), linked from the README and built to double as a shareable-edition back page.
+
+*(Original note:)* A single **one-page cheat sheet** — the roll and result band, difficulty, marking stress, the fallout check, the four gates, and the d10 result table — would serve play and double as the back page of any shareable edition. Cheap to produce from Part Two.
 
 ### 7. Character sheet in the tree — *low*
 
@@ -80,11 +86,11 @@ The character sheet exists as a build brief in the *Personal* project folder, ou
 1. ~~**Ancestries**~~ — **done** (opening set of six in Part Seven; expansion optional).
 2. ~~**Running the Game**~~ — **done** (Part Thirteen).
 3. ~~**Adversaries & bestiary**~~ — **done** (Part Fourteen).
-4. **Combat + Healing consolidation** and the **quick-reference page** (small, high-utility).
-5. **Worked landmarks / gazetteer** (turns rules into a campaign).
+4. **Combat + Healing consolidation** (the quick-reference page is **done**; a short in-text Combat/Recovery summary remains).
+5. ~~**Worked landmarks**~~ — **done** (Part Fifteen); a full setting gazetteer remains optional.
 6. **Character sheet** into the tree.
 
-None of these require changing existing rules — they are additive. The three structural gaps (ancestries, GM chapter, bestiary) are now closed — the System Reference stands on its own as a complete game. What remains (items 4–6) is polish: a consolidated combat/healing section, a one-page quick reference, worked landmarks/gazetteer, and pulling the character sheet into the tree.
+None of these require changing existing rules — they are additive. The three structural gaps (ancestries, GM chapter, bestiary) are now closed — the System Reference stands on its own as a complete game. What remains is light polish: a short consolidated combat/recovery summary (item 4) and pulling the character sheet into the tree (item 7). The quick reference and worked landmarks are now in.
 
 <!-- nav -->
 

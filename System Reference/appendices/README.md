@@ -43,4 +43,4 @@ The full evolution of the classes lives in [`Game System/Version 2`](../../Game%
 
 ---
 
-[← Part Fourteen — Adversaries](../14-adversaries.md) · [Contents](../README.md)
+[← Part Fifteen — Worked Landmarks](../15-worked-landmarks.md) · [Contents](../README.md)
