@@ -43,4 +43,4 @@ The full evolution of the classes lives in [`Game System/Version 2`](../../Game%
 
 ---
 
-[← Part Eleven — Location Tiers](../11-location-tiers.md) · [Contents](../README.md)
+[← Part Twelve — Location Tiers](../12-location-tiers.md) · [Contents](../README.md)

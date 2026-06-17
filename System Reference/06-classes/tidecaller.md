@@ -107,4 +107,4 @@ _You sail into the Eye of Abendego and do not come out. Something else happens i
 
 ---
 
-[← Sin Bosun](sin-bosun.md) · [Contents](../README.md) · [Part Seven — Character Creation →](../07-character-creation.md)
+[← Sin Bosun](sin-bosun.md) · [Contents](../README.md) · [Part Seven — Ancestries →](../07-ancestries/README.md)

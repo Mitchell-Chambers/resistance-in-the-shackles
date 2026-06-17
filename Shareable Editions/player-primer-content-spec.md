@@ -24,20 +24,22 @@ Pull these from the master, in this order. Each line notes the **source** and th
    *Source:* [`05-callings/`](../System%20Reference/05-callings/). *Trim:* none. Include the choosing guide and each calling's flavour, core ability, questions, beats, and carry table.
 7. **Classes** — the full set. Players choose one; this must be complete.
    *Source:* [`06-classes/`](../System%20Reference/06-classes/). *Trim:* none (design notes are already stripped). Keep the balance note short or cut it — it's designer-facing.
-8. **Make Your Pirate** — the character-creation walkthrough.
-   *Source:* [`07-character-creation.md`](../System%20Reference/07-character-creation.md). *Trim:* use the steps and the Quick Reference; you may cut the Advancement detail to a short "how you grow" paragraph for a session-zero primer.
-9. **The Character Sheet** — the print-and-play sheet.
+8. **Ancestries** — the six peoples of the Shackles. Players choose one; include the lot.
+   *Source:* [`07-ancestries/`](../System%20Reference/07-ancestries/). *Trim:* none — each is short (lore, three questions, names, a trinket table) and fully player-facing.
+9. **Make Your Pirate** — the character-creation walkthrough.
+   *Source:* [`08-character-creation.md`](../System%20Reference/08-character-creation.md). *Trim:* use the steps and the Quick Reference; you may cut the Advancement detail to a short "how you grow" paragraph for a session-zero primer.
+10. **The Character Sheet** — the print-and-play sheet.
    *Source:* the existing `Character Sheet — Designer Build Brief` (in the *Personal: Custom Pirate Themed Roleplaying System* folder). Embed the finished sheet or link it.
 
-> **The "◑ partly" rule.** Part Eight (Equipment & Resources) is the only ◑ part: a player needs *enough* of it to read a starting kit, but not buying/selling, haggling, armour, or the resource generator. Compress it to the gear box in item 3.
+> **The "◑ partly" rule.** Part Nine (Equipment & Resources) is the only ◑ part: a player needs *enough* of it to read a starting kit, but not buying/selling, haggling, armour, or the resource generator. Compress it to the gear box in item 3.
 
 ## 2. What stays out
 
 Never put these in a player primer — they are full-system or GM-facing:
 
-- **Part Nine — Ships & the Sea** (engagement ladder, chaos die, Hull repair, enemy statblocks). Players *experience* ship combat; they don't need to read it to start. A one-paragraph "your ship has a Hull track and the sea is its own kind of danger" teaser is the most a primer should carry.
-- **Part Ten — Ports, Havens & Haunts** (haunt economics, haunt upgrade maths, journey resistance, the bond fallout table). Players meet haunts and bonds in play; a short "you heal and make allies in port" note is plenty.
-- **Part Eleven — Location Tiers** (regional danger, reward maths, statblock templates) — entirely GM.
+- **Part Ten — Ships & the Sea** (engagement ladder, chaos die, Hull repair, enemy statblocks). Players *experience* ship combat; they don't need to read it to start. A one-paragraph "your ship has a Hull track and the sea is its own kind of danger" teaser is the most a primer should carry.
+- **Part Eleven — Ports, Havens & Haunts** (haunt economics, haunt upgrade maths, journey resistance, the bond fallout table). Players meet haunts and bonds in play; a short "you heal and make allies in port" note is plenty.
+- **Part Twelve — Location Tiers** (regional danger, reward maths, statblock templates) — entirely GM.
 - **The Appendices** (design frameworks, balance reviews, draft trails) — never.
 - **Design notes, errata lines, "status: drafted" provenance, watch-lists, playtest flags** — strip all.
 - **Enemy statblocks, GM "Distributing Resources" calibration, anything addressed to "the GM"**.
@@ -46,7 +48,7 @@ Never put these in a player primer — they are full-system or GM-facing:
 
 - **Target length:** Heart's own player primer is short — aim for **18–28 pages** at primer scale, the bulk of it the callings and classes (which carry most of the page count and can't be trimmed).
 - **Reading order is onboarding order:** premise → world → how to play → tracks → skills/domains → callings → classes → make your pirate → sheet. A player should be able to read top-to-bottom and end with a character.
-- **One voice:** second-person, present-tense, evocative but concrete — match the master's tone. No rules-lawyering, no cross-references a player can't follow, no "(see Part Ten)".
+- **One voice:** second-person, present-tense, evocative but concrete — match the master's tone. No rules-lawyering, no cross-references a player can't follow, no "(see Part Eleven)".
 - **Self-contained:** a primer must not depend on the reader having the master. Inline anything you reference.
 
 ## 4. Output format — solving the Discord/mobile problem
@@ -62,9 +64,9 @@ A print-style **PDF** is faithful but reflows badly on phones, and most of your 
 
 ## 5. Compile checklist
 
-- [ ] Assemble the Markdown from §1 in onboarding order (the **"Make Your Pirate"** section now lives in Part Seven).
+- [ ] Assemble the Markdown from §1 in onboarding order (the **"Make Your Pirate"** section now lives in Part Eight).
 - [ ] Apply every §2 exclusion; strip all designer/GM text and cross-references.
-- [ ] Compress Part Eight to the gear box; collapse the full fallout tables to examples.
+- [ ] Compress Part Nine to the gear box; collapse the full fallout tables to examples.
 - [ ] Apply the [design language](design-language.md): per-category colours, banners, typography.
 - [ ] Export the responsive **HTML** (primary) and the A5 single-column **PDF** (secondary) from the one source.
 - [ ] Proof on an actual phone in Discord before sharing.

@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.4.0] — 2026-06-17
+
+Added the third character pillar: **Ancestries**.
+
+### Added
+
+- **Part Seven — Ancestries** — who you are, before the dice. Mechanics-free, grounded in the Pathfinder *Golarion* Shackles, with an opening set of six peoples covering all five social positions from the design guide: **Shackleborn**, **Bonuwat**, **Chelaxian**, **Half-Orc**, **Halfling**, and **Tengu**. Each has a lore block, three world-anchored background questions, names with conventions, and a d20 trinkets table. The folder is extensible; the index lists strong next picks (Gillman, Tiefling, inland Mwangi, Grippli, Undine, sahuagin-touched).
+
+### Changed
+
+- **Renumbered** to slot Ancestries in as the third pillar (after Classes, before Character Creation): Character Creation → **Part Eight**, Equipment & Resources → **Part Nine**, Ships & the Sea → **Part Ten**, Ports/Havens/Haunts → **Part Eleven**, Location Tiers → **Part Twelve**. README, character creation, the ships intro, the primer spec, the cohesion gap analysis, and all navigation footers updated to match.
+- **Cohesion gap analysis** updated: Ancestries marked resolved (opening set), with remaining expansion picks noted; build order advanced to Running the Game next.
+
 ## [0.3.0] — 2026-06-17
 
 Added character creation and an honest map of what's still missing.
@@ -71,6 +84,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.4.0]: #040--2026-06-17
 [0.3.0]: #030--2026-06-17
 [0.2.0]: #020--2026-06-17
 [0.1.0]: #010--2026-06-17

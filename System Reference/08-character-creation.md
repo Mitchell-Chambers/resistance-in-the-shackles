@@ -1,4 +1,4 @@
-# Part Seven — Character Creation
+# Part Eight — Character Creation
 
 *Make your pirate.*
 
@@ -43,7 +43,7 @@ Your ancestry is who you are before the dice hit the table. **It grants no mecha
 
 An ancestry is built from a short lore block, **three background questions**, a set of names, and a d20 **trinkets** table. To make a character: read your ancestry's lore, **answer one of its three background questions**, choose a **name**, and **roll twice on its trinkets table** (keep both).
 
-> **The Shackles ancestry set is not yet written** (see the [cohesion gap analysis](appendices/cohesion-gap-analysis.md)). Until it is, build your ancestry with the GM using the [Ancestry Design Guide](../Game%20System/ancestry_design_guide.md), or simply describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
+The Shackles ancestries are in **[Part Seven](07-ancestries/README.md)** — six peoples to choose from (Shackleborn, Bonuwat, Chelaxian, Half-Orc, Halfling, Tengu), with more easily built using the [Ancestry Design Guide](../Game%20System/ancestry_design_guide.md). If none fits, describe where you are from and answer three questions freeform — it costs you nothing mechanically either way.
 
 ## Step 5 — Your Resistances
 
@@ -53,15 +53,15 @@ You have five **resistance tracks** (Part Four): **Blood, Tide, Reputation, Luck
 
 ## Step 6 — Bonds
 
-You may begin with **one or two bonds** — real relationships in the Shackles who carry your story when you are not in the room (a quartermaster who owes you, a tavern-keeper who keeps your seat, a rival who would be insulted if anyone else killed you). A bond is a strong relationship, not necessarily a kind one. You can hold **at most three**; leave room to make more in play. (Full bond rules in Part Ten.)
+You may begin with **one or two bonds** — real relationships in the Shackles who carry your story when you are not in the room (a quartermaster who owes you, a tavern-keeper who keeps your seat, a rival who would be insulted if anyone else killed you). A bond is a strong relationship, not necessarily a kind one. You can hold **at most three**; leave room to make more in play. (Full bond rules in Part Eleven.)
 
 ## Step 7 — The Crew, the Ship & the Home Port
 
 Piracy is not a solo act. As a table, build the thing you all share:
 
 1. **Answer the four crew questions** from the [Piracy calling](05-callings/piracy.md) together — the ship and what she cost, your first prize and what went wrong, your home port, and the enemy who already knows your flag.
-2. **Define the ship** — her **size** and **quality** (Part Nine: *Ships of the Shackles*). A sound working vessel starts at Hull protection 1; that is plenty to begin.
-3. **Name a home port** — a friendly landmark you can return to, heal at, and be hunted in (Part Ten).
+2. **Define the ship** — her **size** and **quality** (Part Ten: *Ships of the Shackles*). A sound working vessel starts at Hull protection 1; that is plenty to begin.
+3. **Name a home port** — a friendly landmark you can return to, heal at, and be hunted in (Part Eleven).
 
 ## Step 8 — Finishing Touches
 
@@ -99,4 +99,4 @@ The shape of advancement *is* the shape of the story. Minor advances are the tex
 
 ---
 
-[← Tidecaller](06-classes/tidecaller.md) · [Contents](README.md) · [Part Eight — Equipment & Resources →](08-equipment-and-resources.md)
+[← Tengu](07-ancestries/tengu.md) · [Contents](README.md) · [Part Nine — Equipment & Resources →](09-equipment-and-resources.md)

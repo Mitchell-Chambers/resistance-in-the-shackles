@@ -21,11 +21,12 @@ This reference serves the whole table, but only part of it belongs in front of *
 | Four — Stress Tracks | [`04-stress-tracks.md`](04-stress-tracks.md) | ✅ | Blood, Tide, Reputation, Luck, Gold — and their fallout |
 | Five — Callings | [`05-callings/`](05-callings/) | ✅ | The eight [callings](05-callings/README.md) and the shared Piracy calling |
 | Six — Classes | [`06-classes/`](06-classes/) | ✅ | The ten [classes](06-classes/README.md) |
-| Seven — Character Creation | [`07-character-creation.md`](07-character-creation.md) | ✅ | Make your pirate: the build steps, the crew, advancement |
-| Eight — Equipment & Resources | [`08-equipment-and-resources.md`](08-equipment-and-resources.md) | ◑ | Full equipment, quality, the tag glossary, resources, haggling |
-| Nine — Ships & the Sea | [`09-ships-and-the-sea/`](09-ships-and-the-sea/) | ⚙️ | [Ships](09-ships-and-the-sea/ships-of-the-shackles.md), the [Hull](09-ships-and-the-sea/hull-and-the-ship.md) track, [journeys](09-ships-and-the-sea/journeys-at-sea.md) |
-| Ten — Ports, Havens & Haunts | [`10-ports-havens-and-haunts.md`](10-ports-havens-and-haunts.md) | ⚙️ | Landmarks, journeys, haunts, removing stress, bonds |
-| Eleven — Location Tiers | [`11-location-tiers.md`](11-location-tiers.md) | ⚙️ | Regional danger 0–4, default stress, rewards, statblocks |
+| Seven — Ancestries | [`07-ancestries/`](07-ancestries/) | ✅ | Who you are: six [peoples](07-ancestries/README.md) of the Shackles (no mechanics) |
+| Eight — Character Creation | [`08-character-creation.md`](08-character-creation.md) | ✅ | Make your pirate: the build steps, the crew, advancement |
+| Nine — Equipment & Resources | [`09-equipment-and-resources.md`](09-equipment-and-resources.md) | ◑ | Full equipment, quality, the tag glossary, resources, haggling |
+| Ten — Ships & the Sea | [`10-ships-and-the-sea/`](10-ships-and-the-sea/) | ⚙️ | [Ships](10-ships-and-the-sea/ships-of-the-shackles.md), the [Hull](10-ships-and-the-sea/hull-and-the-ship.md) track, [journeys](10-ships-and-the-sea/journeys-at-sea.md) |
+| Eleven — Ports, Havens & Haunts | [`11-ports-havens-and-haunts.md`](11-ports-havens-and-haunts.md) | ⚙️ | Landmarks, journeys, haunts, removing stress, bonds |
+| Twelve — Location Tiers | [`12-location-tiers.md`](12-location-tiers.md) | ⚙️ | Regional danger 0–4, default stress, rewards, statblocks |
 | Appendices | [`appendices/`](appendices/) | ⚙️ | Design frameworks, balance reviews, draft trails (not player-facing) |
 
 *Primer key: ✅ core player content · ◑ partly (a condensed slice belongs in a primer) · ⚙️ full-system / GM only.*
