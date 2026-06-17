@@ -43,4 +43,4 @@ The full evolution of the classes lives in [`Game System/Version 2`](../../Game%
 
 ---
 
-[← Part Thirteen — Running the Game](../13-running-the-game.md) · [Contents](../README.md)
+[← Part Fourteen — Adversaries](../14-adversaries.md) · [Contents](../README.md)

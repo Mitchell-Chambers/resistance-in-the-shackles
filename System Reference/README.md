@@ -28,6 +28,7 @@ This reference serves the whole table, but only part of it belongs in front of *
 | Eleven — Ports, Havens & Haunts | [`11-ports-havens-and-haunts.md`](11-ports-havens-and-haunts.md) | ⚙️ | Landmarks, journeys, haunts, removing stress, bonds |
 | Twelve — Location Tiers | [`12-location-tiers.md`](12-location-tiers.md) | ⚙️ | Regional danger 0–4, default stress, rewards, statblocks |
 | Thirteen — Running the Game | [`13-running-the-game.md`](13-running-the-game.md) | ⚙️ | The GM chapter: principles, difficulty, stress & fallout craft, pacing the doom, session zero |
+| Fourteen — Adversaries | [`14-adversaries.md`](14-adversaries.md) | ⚙️ | Adversary rules + a Shackles bestiary: people, beasts, the drowned, legendary threats |
 | Appendices | [`appendices/`](appendices/) | ⚙️ | Design frameworks, balance reviews, draft trails (not player-facing) |
 
 *Primer key: ✅ core player content · ◑ partly (a condensed slice belongs in a primer) · ⚙️ full-system / GM only.*

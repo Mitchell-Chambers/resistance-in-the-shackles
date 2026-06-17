@@ -8,6 +8,22 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.7.0] — 2026-06-17
+
+The third and last structural gap closed: opposition to point at the crew.
+
+### Added
+
+- **Part Fourteen — Adversaries** — generalises the adversary statblock off the ship case (DIFFICULTY / RESISTANCE / PROTECTION / STRESS + tags / RESOURCES / MOVES; no rounds; mobs as one Resistance; Legendary threats as arc-length weather), with a calibration box for stat ranges. Includes an original starter bestiary of ~20 Shackles threats:
+  - **People of the Inner Sea** — Chelish naval officer, colonial marines, Aspis enforcer and factor, Rahadoumi Pure Legion zealot, press-gang, sea-witch.
+  - **Beasts of the Shackles** — reef shark pack, reef lurker, brine-scuttler, jungle predator, bloodfly swarm, great squid.
+  - **The Drowned & the Deep** — the Drowned, ghost-light, Ghol-Gan stone sentinel, trench-thing, revenant of the Code.
+  - **Legendary Threats** — *Old Sorrow* (a leviathan), *What the Eye Keeps* (a storm-bound horror), *The Lord-Admiral's Hound* (a pirate-hunter and her warship).
+
+### Changed
+
+- **Cohesion gap analysis** updated: all three structural gaps (ancestries, GM chapter, bestiary) now closed — the System Reference stands on its own as a complete game. Remaining items are polish (combat/healing consolidation, a quick-reference page, worked landmarks, the character sheet in-tree).
+
 ## [0.6.0] — 2026-06-17
 
 Added the GM half of the game.
@@ -117,6 +133,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.7.0]: #070--2026-06-17
 [0.6.0]: #060--2026-06-17
 [0.5.0]: #050--2026-06-17
 [0.4.0]: #040--2026-06-17

@@ -28,7 +28,7 @@ How each of Heart's major chapters is represented here:
 | Running the Game (GM) | **Part Thirteen** | ✅ Covered |
 | The World (society, geography) | Part One (brief) | ◑ Light — no gazetteer |
 | Landmarks (worked examples by tier) | Part Eleven/Twelve (templates only) | ◑ No example landmarks |
-| Adversaries / Bestiary | Part Ten (ships only) | ❌ **Missing** (non-ship) |
+| Adversaries / Bestiary | Part Ten (ships) + **Part Fourteen** | ✅ Covered |
 | Rules Summary / quick reference | — | ❌ Missing (minor) |
 | Character Sheet | Build brief (separate folder) | ◑ Not in the tree |
 
@@ -48,9 +48,11 @@ How each of Heart's major chapters is represented here:
 
 *(Original note retained for reference:)* There was no GM chapter. GM guidance currently lives scattered in asides (tier default stress, journey framing, "the GM frames it"). A cohesive game needs one consolidated **Running the Game** part covering: the GM's job and principles; **assigning stress and choosing the track**; setting difficulty (Standard/Risky/Dangerous); **framing fallout** as fiction; pacing the doom (how Luck and the callings' Downfalls are meant to land); building landmarks, haunts, and journeys from the templates; **session zero** (crew, ship, home port, tone, safety tools); and running engagements. Much of this can be assembled from rulings already implicit across Parts Two, Four, Ten–Twelve — it needs *gathering and front-matter*, not invention.
 
-### 3. Adversaries & a Shackles Bestiary — *missing, medium-high*
+### 3. Adversaries & a Shackles Bestiary — *resolved*
 
-Part Ten stats **enemy ships** as adversaries and gives the adversary statblock shape (Resistance, protection, difficulty, stress, resources). But there is no general **adversary chapter** for people and creatures, and no **bestiary**. A cohesive game needs: the adversary rules generalized off the ship case (one Resistance, protection, difficulty, stress dice, tags, resources-when-defeated), plus a **starter bestiary** of ~15–25 Shackles threats — colonial marines and a Chelish officer, an Aspis enforcer, a sea-witch, a Ghol-Gan guardian/construct, the undead of a drowned wreck, sharks and a krakenish thing, jungle megafauna, a rival pirate crew — and a couple of **legendary** threats (a named leviathan, something the Eye keeps). → a new **Adversaries** part, with original creatures.
+**Done:** [Part Fourteen — Adversaries](../14-adversaries.md) generalises the adversary statblock off the ship case (Resistance / protection / difficulty / stress+tags / resources / moves; no rounds; mobs; Legendary) and provides an original starter bestiary of ~20 threats across People of the Inner Sea, Beasts of the Shackles, the Drowned & the Deep, and three Legendary threats.
+
+*(Original note retained for reference:)* Part Ten stats **enemy ships** as adversaries and gives the adversary statblock shape (Resistance, protection, difficulty, stress, resources). But there is no general **adversary chapter** for people and creatures, and no **bestiary**. A cohesive game needs: the adversary rules generalized off the ship case (one Resistance, protection, difficulty, stress dice, tags, resources-when-defeated), plus a **starter bestiary** of ~15–25 Shackles threats — colonial marines and a Chelish officer, an Aspis enforcer, a sea-witch, a Ghol-Gan guardian/construct, the undead of a drowned wreck, sharks and a krakenish thing, jungle megafauna, a rival pirate crew — and a couple of **legendary** threats (a named leviathan, something the Eye keeps). → a new **Adversaries** part, with original creatures.
 
 ### 4. Healing & character-scale combat — *covered but scattered, medium*
 
@@ -77,12 +79,12 @@ The character sheet exists as a build brief in the *Personal* project folder, ou
 
 1. ~~**Ancestries**~~ — **done** (opening set of six in Part Seven; expansion optional).
 2. ~~**Running the Game**~~ — **done** (Part Thirteen).
-3. **Adversaries & bestiary** (makes the game runnable against opposition).
+3. ~~**Adversaries & bestiary**~~ — **done** (Part Fourteen).
 4. **Combat + Healing consolidation** and the **quick-reference page** (small, high-utility).
 5. **Worked landmarks / gazetteer** (turns rules into a campaign).
 6. **Character sheet** into the tree.
 
-None of these require changing existing rules — they are additive. With item 3 (a bestiary) written, the System Reference would stand on its own as a complete game rather than a rules-and-character toolkit that leans on Heart for the GM half.
+None of these require changing existing rules — they are additive. The three structural gaps (ancestries, GM chapter, bestiary) are now closed — the System Reference stands on its own as a complete game. What remains (items 4–6) is polish: a consolidated combat/healing section, a one-page quick reference, worked landmarks/gazetteer, and pulling the character sheet into the tree.
 
 <!-- nav -->
 

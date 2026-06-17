@@ -137,4 +137,4 @@ Before the first prize, build the things the whole table shares.
 
 ---
 
-[← Part Twelve — Location Tiers](12-location-tiers.md) · [Contents](README.md) · [Appendices — Design & Balance →](appendices/README.md)
+[← Part Twelve — Location Tiers](12-location-tiers.md) · [Contents](README.md) · [Part Fourteen — Adversaries →](14-adversaries.md)
