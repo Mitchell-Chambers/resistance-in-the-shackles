@@ -14,3 +14,7 @@
 probe_regular.txt
 .git_probe.txt
 index.lock.bak
+probe2.txt
+
+# Obsidian editor state
+.obsidian/
