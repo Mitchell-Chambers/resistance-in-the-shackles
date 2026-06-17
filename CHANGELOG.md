@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.10.0] — 2026-06-17
+
+The first shareable player primer.
+
+### Added
+
+- **`Shareable Editions/Player Primer/`** — *Blood, Water & Violent Wind*, the first compiled player primer, built per the content spec and design language:
+  - **`player-primer.html`** — a single-file, responsive, fully themed HTML edition (parchment, oxblood banners, the per-track and per-domain colour system, woodcut headers, compass motif). Best for Discord and phones; reflows to any screen.
+  - **`player-primer.pdf`** — an A5 single-column print PDF rendered from the same source (~165 pages).
+  - **`player-primer.md`** — the assembled Markdown source, and **`build/`** — the two scripts (`assemble_primer.py`, `theme_primer.py`) that regenerate both exports from the System Reference.
+  - Contents: premise, world, how-to-play, the five tracks, skills & domains, all callings, all classes, all ancestries, character creation, and a quick-reference card. GM-only material excluded.
+- **`.gitignore`** exception so the compiled primer PDF is tracked despite the global `*.pdf` rule.
+
 ## [0.9.1] — 2026-06-17
 
 ### Added
@@ -166,6 +179,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.10.0]: #0100--2026-06-17
 [0.9.1]: #091--2026-06-17
 [0.9.0]: #090--2026-06-17
 [0.8.0]: #080--2026-06-17

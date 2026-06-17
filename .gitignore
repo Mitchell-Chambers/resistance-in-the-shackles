@@ -8,3 +8,6 @@
 
 # Scratch
 *.tmp
+
+# Compiled shareable editions are kept (override the *.pdf rule above)
+!Shareable Editions/Player Primer/player-primer.pdf
