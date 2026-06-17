@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace*.json
+
+# Reference rulebooks & large binaries (copyrighted source material — kept local only)
+*.pdf
+*.epub
+
+# Scratch
+*.tmp
+
+# stray probe files (cannot be unlinked from build env; delete locally)
+probe_regular.txt
+.git_probe.txt
+index.lock.bak
