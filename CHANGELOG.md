@@ -8,6 +8,19 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.11.0] — 2026-06-17
+
+Made the designed-document build process reusable and repeatable.
+
+### Added
+
+- **`Shareable Editions/build/`** — a reusable toolkit for compiling any Markdown into a themed HTML + A5 print PDF:
+  - `build_designed_doc.py` — generic CLI builder (Markdown → themed, self-contained HTML → A5 PDF) with every markdown→print pitfall handled.
+  - `shackles_cards.py` — the per-track / per-domain / per-skill colour-card theme module.
+  - `shackles.css` — the full design-language stylesheet (screen + `@page` print; compass motif embedded).
+  - `BUILD.md` — the runbook and a **"do not repeat"** pitfalls list (no `nl2br`; inject raw HTML pre-conversion; demote headings vs. wrapper divs; neutralise internal links; A5 via `@page`; verify by rendering; the `.gitignore` `*.pdf` exception; the OneDrive lock-sweep).
+- Also packaged as an installable Cowork **skill** (`designed-document.skill`) delivered separately, so the same process can be invoked directly in future sessions.
+
 ## [0.10.0] — 2026-06-17
 
 The first shareable player primer.
@@ -179,6 +192,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.11.0]: #0110--2026-06-17
 [0.10.0]: #0100--2026-06-17
 [0.9.1]: #091--2026-06-17
 [0.9.0]: #090--2026-06-17
