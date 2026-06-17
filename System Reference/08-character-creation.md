@@ -65,7 +65,7 @@ Piracy is not a solo act. As a table, build the thing you all share:
 
 ## Step 8 — Finishing Touches
 
-Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your character sheet and you are ready to sail.
+Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your **[character sheet](character-sheet.md)** and you are ready to sail.
 
 ---
 
@@ -93,7 +93,7 @@ The shape of advancement *is* the shape of the story. Minor advances are the tex
 5. **Resistances** — five tracks empty; protection 0 unless an ability grants it.
 6. **Bonds** — one or two to start (max three).
 7. **Crew & ship** — answer the Piracy crew questions; set ship size/quality and a home port.
-8. **Finish** — name, look, two active beats, fill the sheet.
+8. **Finish** — name, look, two active beats, fill the [sheet](character-sheet.md).
 
 <!-- nav -->
 

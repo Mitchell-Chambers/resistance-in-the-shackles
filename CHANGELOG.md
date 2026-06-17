@@ -8,6 +8,20 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.9.0] — 2026-06-17
+
+The last polish — the cohesion roadmap is now fully closed.
+
+### Added
+
+- **Part Two — Combat at Character Scale** — a short section making the fight-running loop explicit: no turn order, taking a foe out at Resistance 0, range and position as fiction, ganging up via difficulty, fighting hurt, and surrender/capture. Points to Parts Ten and Fourteen.
+- **Part Two — "Three ways to recover"** — a one-paragraph pointer consolidating where healing lives (Tend gear, haunts & bonds, rest), so "how do I heal this?" is findable in one place.
+- **Character sheet in the tree** — the [`character-sheet.md`](System%20Reference/character-sheet.md) build brief now lives in the repo, framed as the sheet spec and linked from Part Eight and the README; drop the generated sheet beside it when produced.
+
+### Changed
+
+- **Cohesion gap analysis** marked **complete**: every identified gap is closed and the System Reference is a self-contained game. The only remaining work is deliberately optional (more ancestries; a full setting gazetteer).
+
 ## [0.8.0] — 2026-06-17
 
 Polish: a one-page card and a set of ready-to-run places.
@@ -146,6 +160,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.9.0]: #090--2026-06-17
 [0.8.0]: #080--2026-06-17
 [0.7.0]: #070--2026-06-17
 [0.6.0]: #060--2026-06-17

@@ -20,8 +20,8 @@ How each of Heart's major chapters is represented here:
 | Callings | Part Five | ✅ Covered |
 | Classes | Part Six | ✅ Covered |
 | Success & Failure | Part Two | ✅ Covered |
-| Healing | Part Four + Part Eleven | ◑ Covered but scattered |
-| Combat | Part Two + Part Ten | ◑ Character-scale combat thin |
+| Healing | Part Four + **Part Two (Recovery)** | ✅ Covered |
+| Combat | **Part Two (Combat at Character Scale)** + Parts Ten/Fourteen | ✅ Covered |
 | Resources & Equipment | Part Nine | ✅ Covered |
 | Bonds | Part Eleven | ✅ Covered |
 | Exploration / Delves / The Map | Parts Ten, Eleven, Twelve | ✅ Covered |
@@ -30,7 +30,7 @@ How each of Heart's major chapters is represented here:
 | Landmarks (worked examples by tier) | Part Eleven/Twelve + **Part Fifteen** | ✅ Covered (worked set) |
 | Adversaries / Bestiary | Part Ten (ships) + **Part Fourteen** | ✅ Covered |
 | Rules Summary / quick reference | **quick-reference.md** | ✅ Covered |
-| Character Sheet | Build brief (separate folder) | ◑ Not in the tree |
+| Character Sheet | **`character-sheet.md`** (in tree) | ✅ Covered |
 
 ---
 
@@ -54,9 +54,11 @@ How each of Heart's major chapters is represented here:
 
 *(Original note retained for reference:)* Part Ten stats **enemy ships** as adversaries and gives the adversary statblock shape (Resistance, protection, difficulty, stress, resources). But there is no general **adversary chapter** for people and creatures, and no **bestiary**. A cohesive game needs: the adversary rules generalized off the ship case (one Resistance, protection, difficulty, stress dice, tags, resources-when-defeated), plus a **starter bestiary** of ~15–25 Shackles threats — colonial marines and a Chelish officer, an Aspis enforcer, a sea-witch, a Ghol-Gan guardian/construct, the undead of a drowned wreck, sharks and a krakenish thing, jungle megafauna, a rival pirate crew — and a couple of **legendary** threats (a named leviathan, something the Eye keeps). → a new **Adversaries** part, with original creatures.
 
-### 4. Healing & character-scale combat — *covered but scattered, medium*
+### 4. Healing & character-scale combat — *resolved*
 
-Both exist but are spread thin:
+**Done:** [Part Two](../02-the-system.md) now carries a **Combat at Character Scale** section (no turn order, taking a foe out at Resistance 0, range/position as fiction, ganging up via difficulty, fighting hurt, surrender & capture) and a **"Three ways to recover"** pointer consolidating Tend gear, haunts & bonds, and rest in one findable place.
+
+*(Original note retained for reference:)* Both existed but were spread thin:
 
 - **Healing** is defined in Part Four (clearing each track), Part Nine (Tend gear), and Part Eleven (Tend rolls, haunts, bonds). It works, but a player can't find "how do I heal?" in one place. *Fix:* a short consolidating section (in Part Two or Four) that points to all three, or a one-page "Recovery" summary.
 - **Combat at character scale** is implied by the core loop (no rounds, stress on fail) and the tags, but there is no section that says, in one place, how a fight *runs*: range and positioning as fiction, taking an NPC out (their Resistance hitting 0), surrender and capture, ganging up, fighting hurt. Heart devotes a short chapter to this. *Fix:* a one-page "Combat" section in Part Two.
@@ -75,9 +77,9 @@ Parts Eleven and Twelve give the landmark/journey/haunt **templates** and one or
 
 *(Original note:)* A single **one-page cheat sheet** — the roll and result band, difficulty, marking stress, the fallout check, the four gates, and the d10 result table — would serve play and double as the back page of any shareable edition. Cheap to produce from Part Two.
 
-### 7. Character sheet in the tree — *low*
+### 7. Character sheet in the tree — *resolved*
 
-The character sheet exists as a build brief in the *Personal* project folder, outside this repo. For cohesion, the finished sheet (or a link to it) should live with the reference, referenced from Part Eight.
+**Done:** the character-sheet build brief now lives in the repo at [`character-sheet.md`](../character-sheet.md), framed as the sheet spec, linked from Part Eight and the README. Drop the generated PDF/PNG beside it when produced.
 
 ---
 
@@ -86,11 +88,11 @@ The character sheet exists as a build brief in the *Personal* project folder, ou
 1. ~~**Ancestries**~~ — **done** (opening set of six in Part Seven; expansion optional).
 2. ~~**Running the Game**~~ — **done** (Part Thirteen).
 3. ~~**Adversaries & bestiary**~~ — **done** (Part Fourteen).
-4. **Combat + Healing consolidation** (the quick-reference page is **done**; a short in-text Combat/Recovery summary remains).
+4. ~~**Combat + Healing consolidation**~~ — **done** (Part Two: Combat at Character Scale + Recovery pointer; quick-reference card).
 5. ~~**Worked landmarks**~~ — **done** (Part Fifteen); a full setting gazetteer remains optional.
-6. **Character sheet** into the tree.
+6. ~~**Character sheet**~~ — **done** (`character-sheet.md` in tree).
 
-None of these require changing existing rules — they are additive. The three structural gaps (ancestries, GM chapter, bestiary) are now closed — the System Reference stands on its own as a complete game. What remains is light polish: a short consolidated combat/recovery summary (item 4) and pulling the character sheet into the tree (item 7). The quick reference and worked landmarks are now in.
+**Roadmap complete.** Every identified gap — the three structural ones (ancestries, GM chapter, bestiary) and all the polish items (combat/recovery consolidation, quick reference, worked landmarks, character sheet) — is now closed. The System Reference is a complete, self-contained game. The only items left are deliberately *optional* expansions, noted in place above: more ancestries (a Planetouched kindred; further cultures) and a full setting **gazetteer**.
 
 <!-- nav -->
 

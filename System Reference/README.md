@@ -33,6 +33,7 @@ This reference serves the whole table, but only part of it belongs in front of *
 | Fourteen — Adversaries | [`14-adversaries.md`](14-adversaries.md) | ⚙️ | Adversary rules + a Shackles bestiary: people, beasts, the drowned, legendary threats |
 | Fifteen — Worked Landmarks | [`15-worked-landmarks.md`](15-worked-landmarks.md) | ⚙️ | Ready-to-run havens, ruins, and journeys (Port Peril, Bloodcove, the Eye's edge…) |
 | — Quick Reference | [`quick-reference.md`](quick-reference.md) | ✅ | The whole game on one page (table-side card) |
+| — Character Sheet | [`character-sheet.md`](character-sheet.md) | ✅ | The printable two-page sheet (build brief / spec) |
 | Appendices | [`appendices/`](appendices/) | ⚙️ | Design frameworks, balance reviews, draft trails (not player-facing) |
 
 *Primer key: ✅ core player content · ◑ partly (a condensed slice belongs in a primer) · ⚙️ full-system / GM only.*

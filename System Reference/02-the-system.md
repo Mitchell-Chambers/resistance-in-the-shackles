@@ -54,6 +54,21 @@ Fallout is the point of the system. It ranges from a passing inconvenience to a 
 
 Each track clears differently, and that is deliberate — see each track's entry in [Part Four](04-stress-tracks.md) for the specifics. In short: **Blood** clears with rest, food, and a surgeon; **Gold** clears with plunder and good trades; **Reputation** clears with public, witnessed deeds (and through bonds and haunts); **Tide** resists clearing and usually needs ritual or arc-length story work; and **Luck** cannot be cleared by rest, coin, or carousing at all — it clears only when its fallout finally fires. Luck is the track that does not forgive. It is the mechanical promise at the centre of this game.
 
+**Three ways to recover.** When a track *can* be cleared, it happens one of three ways: a **Tend roll** with the right gear ([Part Nine](09-equipment-and-resources.md)) patches Blood, Gold, or the ship's Hull; a **haunt or a bond** in a friendly port ([Part Eleven](11-ports-havens-and-haunts.md)) buys back almost anything — including the stubborn Tide and Luck that nothing you can carry will touch; and ordinary **rest, plunder, and witnessed deeds** clear Blood, Gold, and Reputation over time. If you ever can't find "how do I heal this?", it is in one of those three.
+
+## Combat at Character Scale
+
+A fight runs on the same loop as everything else — there is no separate combat minigame. You say what you do; you roll when it's uncertain and costly; the consequence lands. A few things worth stating plainly:
+
+- **No turn order.** Nobody waits for initiative. You act when the fiction hands you the spotlight; the enemy hurts you through your failed and partial rolls, and through the GM's framing when you stall or hide (see Timing, below).
+- **Taking a foe out.** Enemies are adversaries with a **Resistance** pool ([Part Fourteen](14-adversaries.md)). You don't track their wounds — you reduce that pool with your successes until it reaches 0, and then they break the way the fiction wants: dead, fled, surrendered, or cowed. Declare what you're trying to make happen; the same statline serves a kill or a capture.
+- **Range and position are fiction.** Close in and a cutlass (Brave) is the tool; hold the distance and a pistol (Hunt) is. Tags carry the tactics — `Reload` buys the enemy a moment to close, `Ranged` lets you hurt what can't yet hurt you, `Brutal` and `Piercing` crack a tough target. Getting into the right position *is* the clever play that steps your difficulty down.
+- **Ganging up & helping.** Numbers and teamwork show up as **difficulty**, not extra dice — an ally setting it up, a flanking angle, a distraction can step a Risky strike to Standard. A pack or a squad is one Resistance, not a crowd to be counted.
+- **Fighting hurt.** Blood fallout — *Winded*, *Limping*, *Broken* ([Part Four](04-stress-tracks.md)) — is the price of staying in too long. You can push through it, but the tracks fill and the D12 is always watching. Knowing when to break off is a skill the Shackles teaches the hard way.
+- **Surrender, capture, mercy.** Not every fight ends in a body. Foes surrender or flee at Resistance 0; so can you. Being taken alive — a press-gang, a Chelish boarding — is a story, not a game over: the *Indentured*, *Seized*, or *Bounty* fallout made flesh.
+
+Full adversary rules and a bestiary are in [Part Fourteen](14-adversaries.md); ship-scale battle is [Part Ten](10-ships-and-the-sea/README.md).
+
 ## Timing: No Rounds, No Initiative
 
 Play is paced by the fiction, not by a clock. There are **no rounds, no turns, and no initiative order** — at any scale, including ship-to-ship engagements. Adversaries never "take a turn." They inflict stress through your results (your failures and partial successes) and through the GM's framing when you stall, hide, or do nothing.
