@@ -1,0 +1,101 @@
+site_name: Resistance in the Shackles
+site_description: A living reference for the Shackles pirate roleplaying system — Heart & Wildsea in Golarion.
+# IMPORTANT: replace with your GitHub Pages URL once the repo is up, e.g.
+# https://<your-username>.github.io/<your-repo>/
+site_url: ""
+
+# Publish only the System Reference, not the rest of the vault.
+docs_dir: System Reference
+site_dir: site
+
+# Use README.md as the index/landing page in each folder.
+use_directory_urls: true
+
+theme:
+  name: material
+  language: en
+  font:
+    text: EB Garamond
+    code: Roboto Mono
+  icon:
+    logo: material/skull-crossbones
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant      # SPA-style instant page loads
+    - navigation.instant.progress
+    - navigation.tracking     # URL updates with the active anchor
+    - navigation.sections     # render top-level dirs as grouped sections
+    - navigation.indexes      # a folder's README becomes its landing page
+    - navigation.top          # back-to-top button
+    - navigation.footer       # prev/next links
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    # Light — the parchment "aged sea chart" look (default)
+    - media: "(prefers-color-scheme: light)"
+      scheme: shackles-light
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to the dark below-decks theme
+    # Dark — lantern-lit below decks
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to the parchment theme
+
+extra_css:
+  - assets/shackles-site.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Link to this section
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.smartsymbols
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+  - search
+  # Auto-builds the nav from the file tree (so new files appear automatically),
+  # while letting a tiny `.nav.yml` in a folder set a nice section title.
+  - awesome-nav
+
+# Many reference pages cross-link to private design docs that live outside the
+# published folder (Game System/, Ideation/, Shareable Editions/, CHANGELOG).
+# Those are intentionally not published, so treat such links as informational
+# rather than build-failing. Genuine in-tree issues still surface.
+validation:
+  links:
+    not_found: info
+    absolute_links: info
+    unrecognized_links: info
+
+# Auto-generated nav: no `nav:` key is intentional. MkDocs builds the
+# sidebar from the file tree under System Reference/. Files are numbered
+# (00-, 01-, ...) so they sort correctly, and nav labels come from each
+# file's H1. Drop in a new class/ancestry/calling file and it appears
+# automatically — nothing to maintain here.
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: ""
