@@ -24,12 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Turns on GitHub Pages (source = GitHub Actions) on the first run using
-      # the workflow's own token, so no manual repo-settings toggle is needed.
+      # Pages must be enabled once manually (Settings -> Pages -> Source:
+      # GitHub Actions); after that this step just reads the existing config.
       - name: Configure Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/setup-python@v5
         with:
