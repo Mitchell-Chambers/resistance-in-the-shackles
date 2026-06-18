@@ -1,8 +1,6 @@
 site_name: Resistance in the Shackles
 site_description: A living reference for the Shackles pirate roleplaying system — Heart & Wildsea in Golarion.
-# IMPORTANT: replace with your GitHub Pages URL once the repo is up, e.g.
-# https://<your-username>.github.io/<your-repo>/
-site_url: ""
+site_url: "https://mitchell-chambers.github.io/resistance-in-the-shackles/"
 
 # Publish only the System Reference, not the rest of the vault.
 docs_dir: System Reference

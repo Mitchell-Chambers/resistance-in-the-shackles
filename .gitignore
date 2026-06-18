@@ -2,6 +2,9 @@
 .DS_Store
 .obsidian/
 
+# Local Claude Code session settings (machine-specific)
+.claude/settings.local.json
+
 # Reference rulebooks & large binaries (copyrighted source material — kept local only)
 *.pdf
 *.epub
