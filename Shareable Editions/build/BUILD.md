@@ -35,6 +35,7 @@ These cost real time the first build. The bundled scripts already handle them; h
 7. **OneDrive-mounted repos:** in the build VM, `rm`/unlink fails ("Operation not permitted") but rename works. Before each `git` op, sweep stale locks: `find .git -name '*.lock' | while read f; do mv "$f" ".git/.junk/$(basename "$f").$RANDOM"; done`. Pipe git output through `grep -v 'unable to unlink'`. File deletion can be enabled via the cowork delete-permission tool.
 8. **A5 paging comes from `@page{ size:A5; margin:... }` in the CSS**, which WeasyPrint honours. Two-column grids collapse to one column at A5 width automatically (their media queries don't trigger). Always render a contact sheet (pdftoppm → montage) and *look* before declaring done.
 9. **Fonts:** the HTML `@import`s *Cinzel* + *EB Garamond* from Google Fonts and degrades to serif offline; WeasyPrint embeds whatever it can fetch at build time. Don't assume the fancy face is present — keep serif fallbacks.
+10. **A list needs a blank line before it.** If a sub-list (e.g. a major ability's sub-abilities) directly follows a paragraph with no blank line, python-markdown folds it into the paragraph and it renders as a run-on **block of text**. `ensure_blank_before_lists` inserts the blank line; honour it in any hand-rolled variant.
 
 ## The design language (what `shackles.css` encodes)
 

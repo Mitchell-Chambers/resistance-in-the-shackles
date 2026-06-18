@@ -8,6 +8,16 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.12.0] — 2026-06-17
+
+Reworked the player primer to read as a surface-level mystery, and fixed sub-ability formatting.
+
+### Changed
+
+- **Player primer is now strictly player-facing.** The assembler strips all design/balance commentary and the mechanical scaffolding that pulled back the curtain — the beats/zenith framing, the **Downfall** explanation, "a character does not know they have beats", and the per-class balance notes. Each calling's **zenith beats** and each class's **zenith abilities** are cut from the primer (kept in the System Reference), so the endgame stays a mystery revealed in play. Curated, in-fiction chapter intros replace the structural README sections; the callings' "choosing" guide, the class list, and the ancestry culture/kindred tables are retained.
+- **Class sub-abilities format correctly.** A major ability's sub-options now render as a proper list — each on its own line with a **bold name** — instead of a run-on block. Root cause (markdown needs a blank line before a list) is fixed both in the assembler and, generally, in the reusable builder (`ensure_blank_before_lists`), and recorded as pitfall #10 in `Shareable Editions/build/BUILD.md`.
+- Rebuilt `player-primer.{md,html,pdf}` accordingly (~154 A5 pages).
+
 ## [0.11.0] — 2026-06-17
 
 Made the designed-document build process reusable and repeatable.
@@ -192,6 +202,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.12.0]: #0120--2026-06-17
 [0.11.0]: #0110--2026-06-17
 [0.10.0]: #0100--2026-06-17
 [0.9.1]: #091--2026-06-17

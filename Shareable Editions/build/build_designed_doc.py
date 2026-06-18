@@ -23,6 +23,17 @@ def load_theme_module(path):
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     return m
 
+def ensure_blank_before_lists(md):
+    """PITFALL 10: markdown needs a blank line before a list. Insert one wherever a
+    list item directly follows a non-blank, non-list line, or sub-lists render as a
+    run-on block of text."""
+    lines=md.split("\n"); out=[]; li=re.compile(r"^\s*([-*+]|\d+\.)\s")
+    for i,l in enumerate(lines):
+        if li.match(l) and i>0 and lines[i-1].strip() and not li.match(lines[i-1]):
+            out.append("")
+        out.append(l)
+    return "\n".join(out)
+
 def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-') or "section"
 
@@ -54,6 +65,7 @@ def main():
 
     # PITFALL 1: never use the 'nl2br' extension — it breaks block parsing and silently
     # drops most of the document. Use this safe extension set:
+    md = ensure_blank_before_lists(md)
     html = markdown.markdown(md, extensions=['sane_lists', 'attr_list', 'tables', 'toc'],
                              output_format='html5')
 

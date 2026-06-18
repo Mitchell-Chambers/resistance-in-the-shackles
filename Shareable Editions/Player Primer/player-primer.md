@@ -4,7 +4,7 @@
 
 *Resistance in the Shackles — liberty, and the reckoning that follows.*
 
-<div class="cover-note">A pirate campaign in the Pathfinder Shackles, run on the Resistance engine of <em>Heart: the City Beneath</em>. This primer is everything a player needs to roll up a pirate and understand a roll. The full rules live in the System Reference; the doom lives in the dice.</div>
+<div class="cover-note">A pirate campaign in the Pathfinder Shackles. This primer is everything you need to make a pirate and understand a roll. What it costs to live this life, you will discover at sea.</div>
 
 # The Pitch
 
@@ -144,26 +144,24 @@ Timed effects are scoped to the fiction, never to a number of rounds: *"your nex
 
 ## Reading Your Gear
 
-You don't track coins or count shots. A piece of equipment is just a **stress die** (how big a hit it lands or heals) and maybe a **tag**. No suitable gear means a **D4**. The ladder runs **D4** improvised · **D6** civilian · **D8** professional · **D10** exotic · **D12** legendary. The tags you'll meet in a starting kit:
+You don't track coins or count shots. A piece of equipment is a **stress die** (how big a hit it lands or heals) and maybe a **tag**. No suitable gear means a **D4**. The ladder runs **D4** improvised · **D6** civilian · **D8** professional · **D10** exotic · **D12** legendary. The tags you'll meet in a starting kit:
 
 - **Brutal** — roll two stress dice, keep the highest.
 - **Piercing** — ignores armour (Blood protection).
-- **Ranged** — works at a distance. **Reload** — needs reloading between shots, so the enemy gets a moment.
+- **Ranged** — works at a distance. **Reload** — needs reloading between shots.
 - **Tiring** — its die drops a step when you fail with it.
 - **Block** — +1 Blood protection (the only gear that adds protection).
 - **Wyrd** — roll the max and you mark Tide; the deep noticed.
 
-*(The full equipment, quality, and resource rules are in the System Reference.)*
-
 # The Five Tracks
 
-Stress is the toll the Shackles takes — not a health bar, but the slow accumulation of pain, bad luck, supernatural attention, and lost coin. Every character carries five tracks. The GM marks stress to whichever one the *fiction* points at, and when a track's fallout fires, something concrete goes wrong. Four of the five can be cleared. One cannot — not until it collects.
+Stress is the toll the Shackles takes — not a health bar, but the slow accumulation of pain, bad luck, supernatural attention, and lost coin. Every character carries five tracks. The GM marks stress to whichever one the *fiction* points at, and when a track's fallout fires, something concrete goes wrong. Some of it you can mend. Some of it, you cannot — not until it collects.
 
 <!--TRACKS_START--><!--TRACKS_END-->
 
 # Skills & Domains
 
-A **skill** is what you can do; a **domain** is where you know it and who you know there. When one is relevant, add a die and keep the highest. Both apply? Roll two. Gain either a second time and you get a **knack** — roll that narrow thing with mastery (an extra die). The combination is the character: *Tend + Deepwater* is a ship's surgeon; *Tend + Ruins* patches people up in collapsing Ghol-Gan chambers.
+A **skill** is what you can do; a **domain** is where you know it and who you know there. When one is relevant, add a die and keep the highest. Both apply? Roll two. Gain either a second time and you get a **knack** — roll that narrow thing with mastery. The combination is the character: *Tend + Deepwater* is a ship's surgeon; *Tend + Ruins* patches people up in collapsing Ghol-Gan chambers.
 
 <!--SKILLS_START--><!--SKILLS_END-->
 
@@ -171,43 +169,18 @@ A **skill** is what you can do; a **domain** is where you know it and who you kn
 
 # Callings — Why You Sail
 
+Your calling is your reason for sailing — the obsession that keeps you from a quiet life ashore. It is not a class or a profession; it is closer to a wound that has set into a direction. Choose the one that names what your character cannot stop wanting; it will deepen as you play, in ways you cannot yet see. Everyone also carries the shared **Piracy** calling alongside their own.
 
-Your calling is your reason for sailing — the obsession that keeps you from a quiet life ashore. It is not a class, a background, or a profession; it is closer to a wound that has organised itself into a direction. The calling tells you what your character cannot stop wanting. Everything else follows from that.
-
-Every calling in this set is something the character *chose to sail with*. Nobody here is a pirate by sentence or by penance — the Shackles are entered by choice, and the tragedy is that the choice was real.
-
-## The Set
-
-Everyone holds the shared **Piracy** calling alongside one personal calling:
-
-| Calling | The arc | Dominant track |
-|---|---|---|
-| **Hunger** | The chase — the wanting that the prize never fills | Luck / Gold |
-| **Monument** | The build — making something that outlasts you | Reputation |
-| **Vendetta** | The hunt of one — a single account to settle | Blood |
-| **Freedom** | The unfinished escape — every cage is yours to break | Blood |
-| **Cursed Tides** | The claim — the sea has marked you for its own | Tide |
-| **Legacy** | The inheritance — a name that went to sea before you | Reputation |
-| **Fellowship** | The bond tested — the crew is the only wealth you count | Luck |
-| **Piracy** *(shared)* | The crew's story — a campaign-length arc for the whole table | Blood / Gold / Luck / Reputation |
-
-## How Callings Work
-
-Each calling grants a **core ability**, four **character questions**, and **beats**. At the end of each session, choose **two active beats** from your personal calling or the shared Piracy calling — the pools are combined. When you hit a beat, take an advance from your class at the appropriate level. You can hold only two active beats at a time, and you cannot hit more than one in a single situation.
-
-- **Minor beats** resolve within a session — the texture of the life (Act One).
-- **Major beats** take two or three sessions — the turning points (Act Two).
-- **Zenith beats** begin the end: one or two sessions remain for that character (Act Three). Every calling offers two zeniths — one fulfilment, one inversion — and neither is named or privileged over the other.
-
-Beats that cost you something are **invitations, not punishments**: in selecting one, you are directing your character's story, not playing your character. A character does not know they have beats.
-
-## The Downfall
-
-Every personal calling's endings include the **Downfall**: the specific collapse that this obsession was always pointing toward. It is never required, and it is not a failure state. In the Shackles, it is often the most honest ending available. The shared Piracy calling has its own pair of campaign-ending zeniths — and no downfall of its own, because the life does not end; people do.
-
-## What You Carry
-
-Each calling ends in a **d10 table of objects**. They are not equipment — no bonuses, no slots. They are evidence of the life that brought you here, and they should invite questions you do not have to answer yet. Roll, or choose.
+| Calling | The pull |
+|---|---|
+| **Hunger** | The wanting that the next prize never fills. |
+| **Monument** | Making something — a name, a power — that outlasts you. |
+| **Vendetta** | A single account that has to be settled. |
+| **Freedom** | You were owned once; every cage you meet is yours to break. |
+| **Cursed Tides** | The sea has marked you for its own. |
+| **Legacy** | A name that went to sea before you did. |
+| **Fellowship** | The crew is the only wealth you have ever counted. |
+| **Piracy** *(shared)* | The life you all chose, and the ledger it keeps. |
 
 ## Choosing Your Calling
 
@@ -277,11 +250,6 @@ When you create your character, answer these questions:
 - Arrive at last, and find someone got there first.
 - Get another PC to the thing they hunt, at real cost to you.
 
-### ZENITH BEATS
-
-- Claim the thing you have hunted, and pay whatever it asks.
-- Reach it at last — and turn away with empty hands.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Brass compass that doesn't point north
@@ -346,11 +314,6 @@ When you create your character, answer these questions:
 - Be offered legitimacy — marque, pardon, seat — and decide if it's a brick or a trap.
 - Win the thing you reached for, and feel the foundation crack beneath it.
 
-### ZENITH BEATS
-
-- Step back from what you built, and watch it stand without you.
-- Tear it down yourself, before anyone else can take it.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Flag of your own design, never yet flown
@@ -414,11 +377,6 @@ When you create your character, answer these questions:
 - Ally with someone you despise against the common enemy.
 - Win a real victory over them that changes nothing.
 
-### ZENITH BEATS
-
-- Face your target at last, and settle the account.
-- With your target finally in your power, let them go.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. A scar they gave you, never properly treated
@@ -481,11 +439,6 @@ When you create your character, answer these questions:
 - Buy another PC's freedom without being asked.
 - Learn your price has been bought by someone new.
 - Open a charted route that runaways can sail without you.
-
-### ZENITH BEATS
-
-- Bring down the person or institution that owned you, and stand in the ashes.
-- Sail beyond every claim on you — law, debt and name — and do not come back.
 
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
@@ -551,11 +504,6 @@ When you create your character, answer these questions:
 - Scuttle a safe anchorage because the tide required it.
 - Meet another who was called, and answered differently.
 
-### ZENITH BEATS
-
-- Answer the call in full: go beneath, and do not return as anything the world knows.
-- Tear the sea's claim out of yourself, and live with the silence it leaves.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Coral that grew around your wrist while you slept; it grows back
@@ -620,11 +568,6 @@ When you create your character, answer these questions:
 - Reclaim a family right, and find it dearer to hold than to win.
 - Begin something your own heirs will have to carry.
 
-### ZENITH BEATS
-
-- Become the one the line is remembered by, eclipsing all who came before.
-- Pay the line's last debt, burn its flag, and sail out from under the name.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. A signet that opens doors it shouldn't
@@ -688,11 +631,6 @@ When you create your character, answer these questions:
 - Take back someone who truly wronged you.
 - Refuse honours that would split the crew.
 - Build something with them that outlasts the voyage: a code, a tradition, a haunt of your own.
-
-### ZENITH BEATS
-
-- Give everything you have, in one moment, so the crew sails on.
-- Outlive them — scattered, sunk or sailed on — and carry what remains.
 
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
@@ -759,11 +697,6 @@ When you create your crew, answer these questions together:
 - Hear your deed told wrong in a port you've never visited.
 - Choose between the Code and your own judgement, lastingly.
 
-### ZENITH BEATS
-
-- Carve the crew into the Shackles for good — a council seat, a free port, a flag that sails on without you.
-- Lose the ship, the sea or each other, and scatter the way all crews end.
-
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. The crew's mark, tattooed somewhere you chose carefully
@@ -779,8 +712,7 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 
 # Classes — What You Can Do
 
-
-Your class is the reason you are not dead yet. It is your particular expertise — the toolkit that has kept you alive through everything the Shackles has thrown at you so far. Where your **calling** is why you sail, your **class** is how you survive it.
+Your class is the reason you are not dead yet — the hard-won expertise that has kept you alive through everything the Shackles has thrown at you. Pick one of the ten. You begin with its core skill and domain, a little gear, and one or two signature abilities; you grow new tricks as you sail.
 
 ## The Ten Classes
 
@@ -797,27 +729,12 @@ Your class is the reason you are not dead yet. It is your particular expertise �
 | **Sin Bosun** | Navigate · Faith | The ship's priest — found when someone is dying, and when the sky needs talking to |
 | **Tidecaller** | Command · Arcane | Bound by an unclear pact to something at the heart of the Eye |
 
-## How a Class Works
-
-Each class gives you a starting **skill**, **domain**, **resource**, and **equipment** (with a choice), then two **core abilities** you have from the start. As you hit calling beats, you take **advances** from your class:
-
-- **Minor abilities** — most of your growth; a deep list to pick from, several repeatable.
-- **Major abilities** — larger powers, each with sub-options (the indented `MINOR:` lines) you can take as later advances to deepen them.
-- **Zenith abilities** — endgame powers. Taking one signals your character's story is reaching its conclusion; several are activated by your character's death or retirement and reshape the world around them.
-
-## A Note on Balance (Version 5)
-
-These classes are the **Version 5** rebalance. Three rules were enforced across the whole set:
-
-- **The combat floor** — combat is a protected axis; *every* class fights at par. Piracy is steel, smoke, and blood, so no class is a non-combatant.
-- **Identity, not spikes** — each class has one clear proficiency and at most one neglect, unless an "extreme" is a deliberate, on-theme choice (the Powder Mage's glass-cannon gunnery; the Castaway's wordless feral edge; the Sharper's information web; the Chronicler's drowned-lore scholarship).
-- **Healing spread** — party medicine is shared across five classes (Castaway, Corsair, Tidecaller, Sin Bosun, and the Sawbone), rather than concentrated on one. The Sawbone has turned ship-ward — the vessel's surgeon-engineer.
-
 ## Castaway
 
 _The Shackles is a wild place, and it keeps the people it wrecks. Every island chain has its stories: the sailor who walked out of the interior two years after their ship went down, eating things no one could name, speaking a little less than they used to. These survivors are known as Castaways. The shipwreck was just how they arrived — what changed them was everything after. They ate what grew in the deep interior. They drank from springs beneath Ghol-Gan stonework. They slept in ruins because the stone held heat and the things in the trees did not come inside. And the wild Shackles, which does not care about names or flags or the Pirate Code, decided to keep them functional — remaking them, gradually and without explanation, into something more suitable. Castaways are prized aboard any ship that strays from the charted lanes. No chart, no pilot and no priest can tell you as much about an island as someone who has been eaten by one and come out the other side. They do not always come ashore willingly. But put them on a beach with a knife and a hungry interior ahead of them, and watch them become most completely themselves._
 
 ### Core Traits
+
 - SKILL: Endure
 - DOMAIN: Wilderness
 - RESOURCE: A twist of dried meat from something that has no name yet D6 Wilderness
@@ -882,52 +799,45 @@ _Your body has adapted to conditions that should have killed it several times ov
 
 #### BLOODBOUND BEAST
 _You are accompanied by a ragged creature of the interior that follows your commands — a scarred jungle cat, a monitor lizard the size of a longboat, or something the island made specially. You feed it your blood, and it fights for you._ You gain the Bloodbound tag on all weapons as you and your companion work in concert.
-- MINOR: PACK HUNTER. If you mark stress to Blood to activate the Bloodbound tag, roll with mastery when you use the Hunt and Vanish skills for the remainder of the current situation.
-- MINOR: POUNCE. Once per situation, select an adversary you can see. That adversary marks D6 stress as your companion leaps on them.
-- MINOR: FAITHFUL UNTIL THE END. If you take Critical fallout and would die, you do not die — instead, you are rescued by your companion and dragged to safety at the nearest landmark. Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.
+
+- **PACK HUNTER.** If you mark stress to Blood to activate the Bloodbound tag, roll with mastery when you use the Hunt and Vanish skills for the remainder of the current situation.
+- **POUNCE.** Once per situation, select an adversary you can see. That adversary marks D6 stress as your companion leaps on them.
+- **FAITHFUL UNTIL THE END.** If you take Critical fallout and would die, you do not die — instead, you are rescued by your companion and dragged to safety at the nearest landmark. Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.
 
 #### WHAT CAME BACK
 _With the sound of cracking muscle and twisting tendon, your body remembers what the island made of it._ When you activate this power, mark D4 stress to Tide. For the remainder of the current situation, all melee attacks you make gain the Brutal and Wyrd tags.
-- MINOR: CORAL-HIDED. When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and gain +2 Blood protection until the end of the current situation in addition to any other effects.
-- MINOR: RAZORTOOTHED. When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and increase your melee damage by 1 step until the end of the current situation, in addition to any other effects.
-- MINOR: FERAL. When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and ignore the effects of Blood fallout until the end of the situation. You fight on, heedless of the pain.
+
+- **CORAL-HIDED.** When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and gain +2 Blood protection until the end of the current situation in addition to any other effects.
+- **RAZORTOOTHED.** When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and increase your melee damage by 1 step until the end of the current situation, in addition to any other effects.
+- **FERAL.** When you activate WHAT CAME BACK, increase the Tide stress inflicted by 1 step and ignore the effects of Blood fallout until the end of the situation. You fight on, heedless of the pain.
 
 #### LEVIATHAN LANCE
 _You carry an enormous harpoon-thrower of wreck-iron and whale-bone, built for prey that could swallow a longboat — the mark of someone who has hunted the things the deep sends up._ When you take this ability, you gain access to (or build) an enormous ranged weapon with the following profile: (Hunt D10, Tiring, Ranged, Expensive.)
-- MINOR: FAST-LINE. Once per situation, when you inflict stress on an adversary with the LEVIATHAN LANCE, you attach yourself to them with a rope or chain. They can't flee while attached — and neither can you.
-- MINOR: HUNTER'S EYE. Once per situation, when you and your allies are in danger, point out a tactically useful element of the landscape. The first time an ally interacts with the element, they roll with mastery on their subsequent action.
-- MINOR: SPLINTER SHOT. Gain access to the following weapon: (Hunt D8, Spread, Ranged, One-Shot).
+
+- **FAST-LINE.** Once per situation, when you inflict stress on an adversary with the LEVIATHAN LANCE, you attach yourself to them with a rope or chain. They can't flee while attached — and neither can you.
+- **HUNTER'S EYE.** Once per situation, when you and your allies are in danger, point out a tactically useful element of the landscape. The first time an ally interacts with the element, they roll with mastery on their subsequent action.
+- **SPLINTER SHOT.** Gain access to the following weapon: (Hunt D8, Spread, Ranged, One-Shot).
 
 #### MONSTROUS APPETITE
 _When you eat, you unhinge your jaw and wolf down anything within reach until your belly is distended and you are resplendent with power._ When you use THE RED FEAST to consume a resource that has a domain you can access, remove stress from Blood or Tide equal to the amount rolled on the dice instead.
-- MINOR: REJUVENATION. Once per session, when you use MONSTROUS APPETITE to consume a resource that has a domain that you have access to — and the resource has a value of D8 or higher — you can remove a Minor Blood or Tide fallout entirely.
-- MINOR: TAINTED MEAT. Once per session, when you use MONSTROUS APPETITE to consume a resource with the Arcane domain with a value of D8 or higher, add 1 to the minimum protection provided by your ISLANDSBLOOD core ability instead of removing stress. This effect lasts until the end of the situation.
-- MINOR: HORRENDOUS BITE. Once per situation, when you inflict stress with an unarmed attack on an adversary, you may choose to lower their difficulty by one step to a minimum of Standard until the end of the situation.
+
+- **REJUVENATION.** Once per session, when you use MONSTROUS APPETITE to consume a resource that has a domain that you have access to — and the resource has a value of D8 or higher — you can remove a Minor Blood or Tide fallout entirely.
+- **TAINTED MEAT.** Once per session, when you use MONSTROUS APPETITE to consume a resource with the Arcane domain with a value of D8 or higher, add 1 to the minimum protection provided by your ISLANDSBLOOD core ability instead of removing stress. This effect lasts until the end of the situation.
+- **HORRENDOUS BITE.** Once per situation, when you inflict stress with an unarmed attack on an adversary, you may choose to lower their difficulty by one step to a minimum of Standard until the end of the situation.
 
 #### THE WILD HUNT
 _The wild Shackles sings of flesh and plenty; you echo that sickening song._ You may lead a group in communion with the wild places. This requires you to pass an Endure+Wilderness roll, and the check is Risky if you're in a civilised or settled location (tier 0–1). (If you fail the check, you can try again later this session.) Those who commune gain the Hunt skill if they don't already have it, and increase the stress they inflict on journeys by 1 step until the end of the current journey.
-- MINOR: VOICES OF THE INTERIOR. When you use THE WILD HUNT, instead of the Hunt skill, you may grant the Navigate skill to participants. Pick which skill you grant each time you use the ability.
-- MINOR: STORYTELLER. Once per session, when you're tracking a beast, you can declare it to be a renowned beast — you've heard tell of it before. Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.
-- MINOR: BOUNTY SHARED. When you complete a journey or hunt and kill a renowned beast (see above), everyone who took part in THE WILD HUNT may remove D6 stress from Luck or Gold.
 
-### ZENITH ABILITIES
-
-#### LEVIATHAN
-_You undergo the final change — you become something the deep trenches produce, vast and green-black and ruinous, and your approach empties harbours._ Following a transformation process that is either distressingly sudden or agonisingly slow, your flesh and bones burst and reform into those of a true leviathan of the deep. You are as powerful and ruinous as any terror the Eye has ever sent up, but you retain your will — for the remainder of the current situation, at least. After that, you slide beneath the water and are claimed by the deep, becoming another drowned god that will beset sailors in centuries to come.
-
-#### LEGENDARY BEAST
-_You shed what little remains of your human form and ascend into something many-limbed and majestic._ When you gain access to this ability, you begin your hunt to slay the Beast: the capital-B Beast, the oldest thing in the interior, a creature wrought from coral and muscle and petrified mangrove that was ancient when Ghol-Gan raised its first stone. You will kill the Beast, and in doing so, you understand it perfectly. You become the new Beast, an epitome of feral power and a legend whispered in every port. You become part of the wilderness of the Shackles; the interior grows around you more than ever, blossoming into patterns you dream of in the echoing recesses of your ancient gestalt mind. Create a new landmark — an island or interior that is your territory; here, you are lord and ruler, but you can no longer leave. One day, another Castaway will wash ashore, find you, kill you and become you.
-
-#### ROOT AND RUIN
-_Following the passing of a legendary survivor, sometimes the Interior — the green and waiting heart of every island, older than charts and indifferent to flags — surges out to claim their body as a prize._
-To activate this ability, die. The location you are currently occupying is overwhelmed by the wild: mangrove and strangler fig erupt through deck-planking and stonework, reefs rise where there was open water, swarms of bright and hungry creatures smash apart the world around them, and your body is subsumed into the black, fecund soil to be reborn. If you're on a journey, immediately establish a new landmark where you fell. This eruption will remain connected to the deep interior for a few hours before it is severed — then the growth will calcify into a dead garden of bleached coral, ill-auspiced and frequented only by gulls and ghosts.
-When you are reborn, you awaken in the Interior. You have an afterlife of hunting, feasting and listening to the green silence to look forward to.
+- **VOICES OF THE INTERIOR.** When you use THE WILD HUNT, instead of the Hunt skill, you may grant the Navigate skill to participants. Pick which skill you grant each time you use the ability.
+- **STORYTELLER.** Once per session, when you're tracking a beast, you can declare it to be a renowned beast — you've heard tell of it before. Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.
+- **BOUNTY SHARED.** When you complete a journey or hunt and kill a renowned beast (see above), everyone who took part in THE WILD HUNT may remove D6 stress from Luck or Gold.
 
 ## Chronicler
 
 _The Shackles has been drowning civilisations since before it had a name. Azlant sank whole. The cyclops empire of Ghol-Gan left its stonework on every island, geometries that do not quite resolve into sense. Lirgen, nation of astrologers, watched the sky for a thousand years and never saw the Eye coming. The sea swallows them all, and the Eye grinds what remains into something half-preserved and half-destroyed — and you read what they left behind. You learned early what the colonial universities refuse to admit: that the magic you practise and the history you study are the same subject. A dead tradition is not gone. Its workings are still down there in the wrecks and the ruin-chambers, written in scripts no living person was supposed to read, waiting for someone with the patience to recover them and the nerve to speak them aloud. The other scholars call what you do grave-robbery. The grave-robbers call it scholarship. They are both correct, and neither of them can do what you do: stand in a drowned temple, read the wall, and make the past pick its tools back up._
 
 ### Core Traits
+
 - SKILL: Reckon
 - DOMAIN: Ruins
 - RESOURCE: A coin from an empire no living person can name D6 Ruins
@@ -986,56 +896,52 @@ _There is always someone who will pay for what you know, and usually before the 
 
 #### THE SAOC STARMAPS
 _Lirgen's astrologers read the sky for a thousand years. You recovered their charts from the Sodden Lands, and they still work — for whatever that proved to be worth._ Roll Reckon+Ruins to cast this spell beneath an open sky. On a success, ask the GM what significant event will occur within the next session relating to a topic you specify. The answer is specific, accurate and literal — and occasionally misleading in implication. The Saoc Brethren were never wrong. They were also all drowned.
-- MINOR: THE BROAD VIEW. Once per campaign, your reading extends to the shape of the campaign itself.
-- MINOR: THE NARROW HOUR. Once per situation, you read one opponent's chart in miniature: the GM tells you the shape of what they intend, and you roll with mastery on your next action against them.
-- MINOR: THE INSCRIPTION REMAINS. After a reading, you may inscribe the vision. The GM adjusts one aspect of the predicted event in your favour. The stars are not changed; the margins are.
+
+- **THE BROAD VIEW.** Once per campaign, your reading extends to the shape of the campaign itself.
+- **THE NARROW HOUR.** Once per situation, you read one opponent's chart in miniature: the GM tells you the shape of what they intend, and you roll with mastery on your next action against them.
+- **THE INSCRIPTION REMAINS.** After a reading, you may inscribe the vision. The GM adjusts one aspect of the predicted event in your favour. The stars are not changed; the margins are.
 
 #### THE CYCLOPS CANTO
 _Ghol-Gan's war-chants were built for throats with more room than yours. Spoken correctly anyway, they still break things._ The canto functions as the following weapon: (Hunt D6, Spread, Debilitating, One-Shot). It is the sound of a siege happening to the people in front of you.
-- MINOR: THE BREAKING WORD. The canto gains the Brutal tag.
-- MINOR: THE WALL-CANTO. Once per situation, instead of attacking, you may speak the building-cantos: rubble, cargo and broken stone heave themselves into a rough rampart, providing cover for you and nearby allies until you move.
-- MINOR: ONE EYE OPEN. When you speak the canto, you glimpse the field as the cyclops seers did. Allies who act on what you tell them roll their first attack with mastery.
+
+- **THE BREAKING WORD.** The canto gains the Brutal tag.
+- **THE WALL-CANTO.** Once per situation, instead of attacking, you may speak the building-cantos: rubble, cargo and broken stone heave themselves into a rough rampart, providing cover for you and nearby allies until you move.
+- **ONE EYE OPEN.** When you speak the canto, you glimpse the field as the cyclops seers did. Allies who act on what you tell them roll their first attack with mastery.
 
 #### THE LIGHT OF DROWNED AZLANT
 _The first empire made light do things light does not do — and not all of it was for seeing by. The sea took them anyway, but it kept their lamps, and some of those lamps were built for war._ Roll Reckon+Ruins to call the cold, searing light of Azlant. It functions as a weapon: (Hunt D8, Ranged) — a lance of impossible brightness that burns where it lands.
-- MINOR: THE REVEALING BEAM. Instead of burning, spread the light across an area until the end of the situation: it illuminates as full daylight, and within it the invisible, the hidden and the disguised are revealed as what they are. Focus it on a single target and they lose all benefit of concealment, disguise or illusion.
-- MINOR: LIGHT BELOW. The light works perfectly underwater, and you can send it ahead of you — down a passage, into a wreck, through a hatch — and see what it touches.
-- MINOR: THE HONEST HOUR. While your light holds, lies discolour the air as they are spoken. You see the stain. So does everyone else.
+
+- **THE REVEALING BEAM.** Instead of burning, spread the light across an area until the end of the situation: it illuminates as full daylight, and within it the invisible, the hidden and the disguised are revealed as what they are. Focus it on a single target and they lose all benefit of concealment, disguise or illusion.
+- **LIGHT BELOW.** The light works perfectly underwater, and you can send it ahead of you — down a passage, into a wreck, through a hatch — and see what it touches.
+- **THE HONEST HOUR.** While your light holds, lies discolour the air as they are spoken. You see the stain. So does everyone else.
 
 #### THE ANCESTOR RITES
 _The islands' first peoples did not consider death a reason to stop talking to family._ Roll Reckon+Ruins to cast this spell at any place where people have died. On a success, you call up the dead of that place, and they answer your questions about what they saw, what they knew and what was done to them. They are not compelled to be kind. They are compelled to be honest.
-- MINOR: DEBTS REMEMBERED. The dead tell you where they left what they valued — the cache, the stash, the buried share. The GM confirms what is still there.
-- MINOR: THE GRATEFUL DEAD. Once per session, a spirit you have treated with proper rites does you one small favour in the physical world: a door unbarred, a candle snuffed, a word whispered to a sleeper.
-- MINOR: THE OLD QUARREL. Once per situation, you may point the dead at the living. The haunting is immediate and terrifying: one adversary treats every action as Risky until they leave the place the dead claim.
+
+- **DEBTS REMEMBERED.** The dead tell you where they left what they valued — the cache, the stash, the buried share. The GM confirms what is still there.
+- **THE GRATEFUL DEAD.** Once per session, a spirit you have treated with proper rites does you one small favour in the physical world: a door unbarred, a candle snuffed, a word whispered to a sleeper.
+- **THE OLD QUARREL.** Once per situation, you may point the dead at the living. The haunting is immediate and terrifying: one adversary treats every action as Risky until they leave the place the dead claim.
 
 #### RUIN SOVEREIGN
 _The things that guard the old places have categories: intruder, prey, and colleague._ Roll Reckon+Ruins when you enter a ruin or wreck to announce yourself in the old forms. On a success, the site's guardians — undead, bound spirits, guardian constructs — treat you as a colleague rather than an intruder unless you give them cause, and the GM gives you warning enough to act when the site's passive hazards would catch you.
-- MINOR: NAMED BY THE DEAD. The dead in a site know your name and speak to you voluntarily, offering its history and its current occupants without being summoned.
-- MINOR: CLAIMED SITE. Claim a site as yours — you may hold one at a time. Other factions cannot use it without your permission; attempts encounter inexplicable difficulties that you understand and they do not.
-- MINOR: THE LIVING RUIN. A site you have claimed begins to respond to you: lights that kindle, passages that open, mechanisms that turn over after centuries of stillness. The GM describes what becomes available.
+
+- **NAMED BY THE DEAD.** The dead in a site know your name and speak to you voluntarily, offering its history and its current occupants without being summoned.
+- **CLAIMED SITE.** Claim a site as yours — you may hold one at a time. Other factions cannot use it without your permission; attempts encounter inexplicable difficulties that you understand and they do not.
+- **THE LIVING RUIN.** A site you have claimed begins to respond to you: lights that kindle, passages that open, mechanisms that turn over after centuries of stillness. The GM describes what becomes available.
 
 #### THE SPELL BEYOND MEMORY
 _You recovered it from a tradition so old that no one alive has seen it cast. It does something current magic cannot._ Work with the GM to define your Spell Beyond Memory: unmake a curse permanently without knowing its origin; open a sealed divine space; speak across time to someone now dead; restore a broken thing to its original state. Casting it costs D8 Tide stress and can be done once per session.
-- MINOR: PRACTISED HAND. Deeper understanding reduces the cost to D4 Tide stress.
-- MINOR: SHARE THE KNOWLEDGE. You can teach the spell to one other character. Their version is real but unreliable — they roll to cast it. Yours simply works.
-- MINOR: THE SECOND RECOVERY. Your research yields a second Spell Beyond Memory, from a different tradition. Define it with the GM.
 
-### ZENITH ABILITIES
-
-#### THE COMPLETE RECORD
-_Not the pirate myths. Not the colonial propaganda. What actually happened._ You have assembled enough to write the true history of the Shackles, from the cyclops empire to the present hour, and you release it. The consequences are seismic: legitimacies collapse, claims dissolve, buried debts surface, and every power in these waters learns what its founding actually looked like. Work out with the GM what breaks and what is set free. You do not get to stand apart from it — the author of that book cannot stay in the Shackles, or cannot stay alive in it, or cannot stay the person who wrote it. Your arc ends in the reverberation.
-
-#### THE ARCHIVIST ETERNAL
-_You carried too much of the record, and the record has opinions about being put down._ You stop ageing. Your memory extends backward past your own birth, into the living history of these waters — every drowning, every founding, every name. A person cannot crew a ship carrying all of that; you take a seat instead. A lighthouse archive, a claimed ruin, a reading room in the back of a Port Peril chart-house: somewhere findable by those who truly need it. You are retired as a player character. Once per campaign, the surviving characters may consult you, and you will give them the truth — the whole of it, which is rarely the same thing as help.
-
-#### THE UNFINISHED WORKING
-_Every drowned tradition died mid-sentence. You have found the end of one._ Once, you perform the final working of a dead civilisation — the one its practitioners were building toward when the sea took them. Define it with the GM, at the scale of the people who attempted it: a drowned city raised for a single day; the Eye quieted for a season; every restless dead of a vanished people settled at once. The working is titanic, and it takes its caster — as it took theirs, which you knew, because you read it, because that is why the tradition died and the working was never finished until you. The tradition is complete. So is your story.
+- **PRACTISED HAND.** Deeper understanding reduces the cost to D4 Tide stress.
+- **SHARE THE KNOWLEDGE.** You can teach the spell to one other character. Their version is real but unreliable — they roll to cast it. Yours simply works.
+- **THE SECOND RECOVERY.** Your research yields a second Spell Beyond Memory, from a different tradition. Define it with the GM.
 
 ## Corsair
 
 _You have fought on more decks than you can count, in storms and calms, outnumbered and alone. Your body carries the testimony — the scars, the missing pieces, the things that healed wrong. You are not merely a fighter. You are a philosophy of controlled destruction, an argument made in blood and roaring iron that some people simply should not be crossed, and the Shackles has slowly come around to your point of view. Subtlety is for people who cannot afford to be seen coming; you have made yourself expensive to ignore. Every coin you take, you spend — on the crew, on the wake, on the night in port that becomes a story — because gold was never the point. The point is the moment when the grappling hooks bite, the rails come together, and everyone on both decks looks to see where you are standing. The sea made you this way. You have made your peace with it. The sea, as far as anyone can tell, is still deciding._
 
 ### Core Traits
+
 - SKILL: Brave
 - DOMAIN: Deepwater
 - RESOURCE: The tooth of something that nearly ate you D6 Deepwater
@@ -1098,55 +1004,50 @@ Gain access to one of the following domains: Deepwater, Shallows, Outlaw, Port, 
 
 #### THE UNSTOPPABLE
 _You are filled with every fight you have ever refused to lose._ When you are suffering from ongoing Blood fallout, increase the stress dice of your attacks by one step.
-- MINOR: LIMPING ONWARD. THE UNSTOPPABLE also increases the stress dice you inflict on journeys by one step.
-- MINOR: SCARS LIKE MEDALS. Gain +1 Blood protection while you have ongoing Blood or Reputation fallout; +2 while you have both.
-- MINOR: ON YOUR FEET. Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout.
+
+- **LIMPING ONWARD.** THE UNSTOPPABLE also increases the stress dice you inflict on journeys by one step.
+- **SCARS LIKE MEDALS.** Gain +1 Blood protection while you have ongoing Blood or Reputation fallout; +2 while you have both.
+- **ON YOUR FEET.** Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout.
 
 #### THE BLACK SPOT
 _The Code is older than any navy's law, and you have appointed yourself its instrument._ Once per session, when you find evidence of someone's (or something's) crimes, you can publicly mark them with the black spot. When you or any pirate who honours the Code tracks down a marked target, roll with mastery.
-- MINOR: JUDGE. When you track a marked target as part of a journey, increase your stress dice size by 1 step.
-- MINOR: JURY. You no longer need evidence to mark a target, but you do need a name, a likeness or a first-hand description.
-- MINOR: EXECUTIONER. When you attack a marked target, increase your stress dice size by 1 step.
+
+- **JUDGE.** When you track a marked target as part of a journey, increase your stress dice size by 1 step.
+- **JURY.** You no longer need evidence to mark a target, but you do need a name, a likeness or a first-hand description.
+- **EXECUTIONER.** When you attack a marked target, increase your stress dice size by 1 step.
 
 #### BOARDING ACTION
 _The rails come together and the chaos organises itself around you._ When you direct a boarding action or ship-to-ship engagement, allies acting under your direction roll with mastery on the first action they take.
-- MINOR: FIRING SOLUTION. Once per situation, direct cannon fire with precision: one ship takes D8 Hull stress directly, bypassing normal crew actions.
-- MINOR: NO QUARTER. When the engagement is going your way and the opposing ship attempts to disengage, roll Command+Deepwater to cut off their escape; on a success, they fight or surrender — they cannot simply run.
-- MINOR: AFTERMATH. After a successful boarding, roll Command+Deepwater to cow the captured crew; on a success, they comply without further violence. They know what the alternative looks like.
+
+- **FIRING SOLUTION.** Once per situation, direct cannon fire with precision: one ship takes D8 Hull stress directly, bypassing normal crew actions.
+- **NO QUARTER.** When the engagement is going your way and the opposing ship attempts to disengage, roll Command+Deepwater to cut off their escape; on a success, they fight or surrender — they cannot simply run.
+- **AFTERMATH.** After a successful boarding, roll Command+Deepwater to cow the captured crew; on a success, they comply without further violence. They know what the alternative looks like.
 
 #### DECK-FIGHTER
 _Cramped quarters, rolling footing, bodies underfoot — this is your parlour._ When you attack at close range, your attacks gain the Piercing tag, even if you're unarmed.
-- MINOR: THROUGH THE SMOKE. Gain +2 Blood protection against ranged attacks.
-- MINOR: FIRST INSULT. The first time you suffer Reputation stress in a situation, do not roll for fallout. One barb never bothers you; it's the accumulation that draws blood.
-- MINOR: HOMECOMING. When you enter a friendly port after a voyage, refresh stress according to the size and importance of the port — a three-shack anchorage is D4; Port Peril is D12.
+
+- **THROUGH THE SMOKE.** Gain +2 Blood protection against ranged attacks.
+- **FIRST INSULT.** The first time you suffer Reputation stress in a situation, do not roll for fallout. One barb never bothers you; it's the accumulation that draws blood.
+- **HOMECOMING.** When you enter a friendly port after a voyage, refresh stress according to the size and importance of the port — a three-shack anchorage is D4; Port Peril is D12.
 
 #### SHIPSHAPE AND BATTLE-READY
 _Never get into a fight you haven't drilled for._ Once per session, when you have an hour or two in port or at anchor, run preparations for the coming trouble. Pick one benefit; you and everyone who takes part gain it until you next make landfall:
+
 - Whetstone Drill: one weapon gains the Brutal tag.
 - Rig Check: one piece of Navigate or Tend equipment gains the Trusty tag.
 - Toughen Up: gain +1 Blood protection.
 - Steady Hearts: gain +1 Reputation protection.
 - Stow Smart: gain +1 Gold protection.
-- MINOR: DOUBLE DUTY. Choose two benefits when using this ability; participants gain both. You can't choose the same benefit twice.
-- MINOR: MID-WATCH DRILL. You may run preparations during a journey; add a D6 bane to the journey's resistance if you do.
-- MINOR: EMERGENCY ISSUE. With a few minutes to spare, grant one benefit to yourself or one ally by consuming a resource of D6 or higher value. This doesn't count as the per-session use.
-
-### ZENITH ABILITIES
-
-#### THE LAST STAND
-_Outnumbered, outgunned, cornered — finally, a fair fight._ Once, when retreat is impossible and surrender unthinkable, invoke the Last Stand. For the rest of the situation you cannot be killed, stopped or driven back; every attack you make inflicts maximum stress, and every attack against you inflicts the minimum. When the situation ends — one way or another — the reckoning arrives, and the GM determines what the sea finally claims. It has been waiting a long time, and it is owed.
-
-#### LIVING LEGEND
-_The Shackles has decided you belong to it permanently._ You retire as the unkillable old corsair: the one they name ships for, the one new captains are measured against, the one drinking quietly in the corner whom no one — no one — troubles. Your name becomes a unit of measurement for violence. Work out with the GM where you settle and what it takes to rouse you, because once per campaign, something will be foolish enough to try, and the surviving characters will get to see what the stories were underselling.
-
-#### DOWN WITH THE SHIP
-_To activate this ability, go down with your ship._ The sea takes you both, and the sea keeps what it takes. Your vessel becomes a ghost ship and you its master, sailing the Shackles forever — glimpsed off storm-heads, becalmed in impossible fog, running before winds that touch nothing else. Once per campaign, when the surviving characters are at sea and beyond hope, your sails appear: one broadside, one rescue, or one escort through water that should kill them. Then you are gone over the horizon, where the dead keep their own watch and the wake never closes.
+- **DOUBLE DUTY.** Choose two benefits when using this ability; participants gain both. You can't choose the same benefit twice.
+- **MID-WATCH DRILL.** You may run preparations during a journey; add a D6 bane to the journey's resistance if you do.
+- **EMERGENCY ISSUE.** With a few minutes to spare, grant one benefit to yourself or one ally by consuming a resource of D6 or higher value. This doesn't count as the per-session use.
 
 ## Daredevil
 
 _You learned what you know in places that don't appear on any map the respectable world keeps: the travelling circus that wintered in Bloodcove, the knife-throwing act that went wrong in ways you don't discuss, the year with the escapologists and fire-eaters who work the dockside crowds of Port Peril. You are not a planner. You are a mover. Your survival strategy has always been the same: be faster than what's coming, be gone before anyone works out what happened, and if you absolutely must fight, make it spectacular enough that the crowd forgets to stop you leaving. The Shackles is full of people who are very good at standing still and waiting — braced behind gunwales, dug in behind harbour walls, sitting on their reputations like dragons on gold. You have never understood why anyone would do that. Everything you own fits in your pockets, everything you owe is outrun, and every room you have ever entered had at least three ways out. You checked. You always check._
 
 ### Core Traits
+
 - SKILL: Vanish
 - DOMAIN: Outlaw
 - RESOURCE: A wanted poster bearing a bad likeness of you D6 Outlaw
@@ -1209,50 +1110,45 @@ _Bad luck has to catch you first._ Gain +2 Luck protection.
 
 #### ALL OR NOTHING
 _You forsake the safe footing for a single, decisive blow._ When you attack an adversary, you can choose to lose your Blood protection for the attack before you roll. If you do so and succeed or partially succeed, add your Blood protection value to the stress inflicted.
-- MINOR: INEXORABLE. If the first dice you roll to determine the stress inflicted shows 1 or 2, roll an additional dice of the same size and add the result to the stress inflicted.
-- MINOR: BLOODIED BUT UNBROKEN. When you have 4 or more stress marked to Blood or are suffering from ongoing Blood fallout, gain +2 Blood protection.
-- MINOR: SCYTHING BLOW. Once per situation, treat your weapon as though it has the Spread tag when you inflict stress on an adversary.
+
+- **INEXORABLE.** If the first dice you roll to determine the stress inflicted shows 1 or 2, roll an additional dice of the same size and add the result to the stress inflicted.
+- **BLOODIED BUT UNBROKEN.** When you have 4 or more stress marked to Blood or are suffering from ongoing Blood fallout, gain +2 Blood protection.
+- **SCYTHING BLOW.** Once per situation, treat your weapon as though it has the Spread tag when you inflict stress on an adversary.
 
 #### KNIFE STORM
 _More blades than you should reasonably be carrying._ Once per situation, gain access to the following weapon: (Hunt D6, Ranged, Spread). Where the knives came from is a question no one gets a satisfying answer to.
-- MINOR: SPECIALTY LOAD. Some of the knives are alchemical. Choose one effect when you use KNIFE STORM: affected targets catch fire (D4 stress per round until extinguished), are drowsy (their next action is Risky), or are poisoned (the knives gain the Degenerating tag).
-- MINOR: PINNED. Targets harmed by KNIFE STORM are pinned to whatever surface is behind them, restrained until they work free — which takes a full action.
-- MINOR: ENCORE. KNIFE STORM can be used twice per situation. The crowd demands it.
+
+- **SPECIALTY LOAD.** Some of the knives are alchemical. Choose one effect when you use KNIFE STORM: affected targets catch fire (D4 stress per round until extinguished), are drowsy (their next action is Risky), or are poisoned (the knives gain the Degenerating tag).
+- **PINNED.** Targets harmed by KNIFE STORM are pinned to whatever surface is behind them, restrained until they work free — which takes a full action.
+- **ENCORE.** KNIFE STORM can be used twice per situation. The crowd demands it.
 
 #### THE IMPOSSIBLE ROUTE
 _Across the burning deck, up the outside of the moving ship, through the crowd of armed opponents._ Once per situation, declare a path through an environment that should not exist and roll with mastery to take it; on a failure you still arrive, but something goes wrong along the way. The GM describes what it looks like from the outside. Anyone attempting to follow must roll at one difficulty step higher than normal.
-- MINOR: TAKE SOMEONE WITH YOU. One ally can follow THE IMPOSSIBLE ROUTE without rolling. They must stay right behind you and do exactly what you do.
-- MINOR: CANNONBALL. Once per session, a ship's cannon, catapult or comparable device counts as the start of an Impossible Route. You survive the launch. You land where you aimed, roughly. The enemy never expects this.
-- MINOR: THE IMPOSSIBLE RETURN. Once per session, THE IMPOSSIBLE ROUTE works in reverse: re-enter a location you escaped by the same path, arriving exactly where you want to be.
+
+- **TAKE SOMEONE WITH YOU.** One ally can follow THE IMPOSSIBLE ROUTE without rolling. They must stay right behind you and do exactly what you do.
+- **CANNONBALL.** Once per session, a ship's cannon, catapult or comparable device counts as the start of an Impossible Route. You survive the launch. You land where you aimed, roughly. The enemy never expects this.
+- **THE IMPOSSIBLE RETURN.** Once per session, THE IMPOSSIBLE ROUTE works in reverse: re-enter a location you escaped by the same path, arriving exactly where you want to be.
 
 #### THE READ
 _This is not magic. It is the pattern recognition of someone who has survived a great many rooms._ Roll Reckon+Outlaw after observing an environment or an ongoing fight for a few moments. On a success, the GM tells you how the next minute is likely to unfold — who moves where, what breaks, which route opens, which opponent overcommits — and you roll with mastery when acting on what you learned.
-- MINOR: THE OPENING. THE READ always identifies one moment of opening; an attack made in that moment increases its stress dice by one step.
-- MINOR: THE COUNTER. When an enemy attempts a prepared ambush or tactical surprise against you, invoke THE READ to reverse it: you anticipated this, and they are the ones who walked into something.
-- MINOR: THE AUDIENCE. Describe THE READ aloud to your allies: they roll with mastery on their first action taken on what you saw.
+
+- **THE OPENING.** THE READ always identifies one moment of opening; an attack made in that moment increases its stress dice by one step.
+- **THE COUNTER.** When an enemy attempts a prepared ambush or tactical surprise against you, invoke THE READ to reverse it: you anticipated this, and they are the ones who walked into something.
+- **THE AUDIENCE.** Describe THE READ aloud to your allies: they roll with mastery on their first action taken on what you saw.
 
 #### THE VANISHING ACT
 _You simply are not there anymore._ Once per session, roll Vanish+Outlaw to disappear completely — mid-conversation, mid-combat, mid-arrest. On a success you are simply gone, reappearing at the start of the next situation somewhere that makes sense, carrying everything you had. On a partial success you are gone, but you leave something behind — the GM chooses what.
-- MINOR: TAKE THE EVIDENCE. When you use THE VANISHING ACT, take one object from the area with you. It vanishes when you do.
-- MINOR: LEAVE A DOUBLE. Something remains in your place briefly — a coat, a hat, a silhouette that is not quite right. It buys a few precious seconds — until someone acts on it — before anyone realises you are gone.
-- MINOR: CROWD WORK. THE VANISHING ACT can remove one ally alongside you. They must be touching you when you go.
 
-### ZENITH ABILITIES
-
-#### THE GRAND EXIT
-_Not run. Leave._ Once, at a moment of your choosing, you make the most spectacular, inexplicable, impossible departure the Shackles has ever witnessed — the burning ship walked off, the blockade sailed through laughing, the prison no one saw you leave. You go where you choose, intact and free of every consequence that was chasing you, and the story is told in ports for years. Your character leaves the game the way they always intended to leave everything: perfectly, and on their own terms.
-
-#### UNKILLABLE
-_Cheating death has become a professional credential._ Ordinary violence, misfortune and circumstance can no longer end you — a rope frays, a pistol misfires, a jailer falls asleep, every single time. Play out the current situation untouchable, and then the character passes out of play and into legend: sighted everywhere, confirmed nowhere, reported dead at least annually and never accurately. The Shackles stops asking whether the stories are true, because the answer has stopped mattering. That might be what you were performing for all along. It might not be the same thing as freedom.
-
-#### THE LAST TRICK
-_To activate this ability, die — saving someone, mid-stunt, in front of witnesses._ The death is so audacious, so impossible, so perfectly timed that everyone who sees it is changed by it. All nearby allies remove all ongoing fallout and all stress marked to all resistances, and roll with mastery for the remainder of the situation: the crowd you played to your whole life finally moves the way you always moved. No body is ever recovered. No one who saw it can quite believe you're gone. Perhaps you aren't.
+- **TAKE THE EVIDENCE.** When you use THE VANISHING ACT, take one object from the area with you. It vanishes when you do.
+- **LEAVE A DOUBLE.** Something remains in your place briefly — a coat, a hat, a silhouette that is not quite right. It buys a few precious seconds — until someone acts on it — before anyone realises you are gone.
+- **CROWD WORK.** THE VANISHING ACT can remove one ally alongside you. They must be touching you when you go.
 
 ## Errant
 
 _You came from somewhere with rules. Not the Pirate Code — that is a contract between people who distrust each other, enforced by the threat of violence. You came from somewhere with forms: the bow before the engagement, the offered hilt, the understanding that violence conducted correctly is something distinct from violence conducted badly, and that the distinction matters. Maybe you were Chelish nobility before a political miscalculation. Maybe you trained in the duelling academies of Absalom, or swore vows to an order that no longer answers your letters, before whatever happened happened and the Shackles became the only place that would have you. You carry the form the way some people carry a language — not as an affectation, but as the structure through which you perceive things. When you look at a fight you see lines, angles and the grammar of engagement your tradition mapped out centuries before you were born. The pirates of the Shackles are dangerous, many of them, in ways that are real and serious. None of them were trained. None of them have a lineage. None of them spent ten years in a school learning to fight a problem before it arrived. This is not arrogance. It is simply a fact about what formal training does — and the Shackles is currently in the process of learning it._
 
 ### Core Traits
+
 - SKILL: Hunt
 - DOMAIN: Colonial
 - RESOURCE: A signet ring of a house that no longer claims you D6 Colonial
@@ -1314,50 +1210,45 @@ Gain access to one of the following domains: Deepwater, Shallows, Outlaw, Coloni
 
 #### DUELLIST'S GAZE
 _Some people only need to be looked at correctly._ Your gaze functions as a weapon (Hunt D6, Ranged). It only works when your target can see you and has the capacity to be afraid of you — so fighters, captains and officials are fair game, but sea monsters aren't. You can use this "weapon" in a port or aboard ship without causing a huge ruckus. Your gaze won't kill: if you reduce an opponent's resistance to 0 with it, they yield, bargain or withdraw with whatever dignity remains to them.
-- MINOR: LEGENDARY. Your gaze now works on things that shouldn't be scared of you.
-- MINOR: AT THE SALUTE. Your gaze gains the Point-Blank tag.
-- MINOR: NO SYMPATHY. Once per situation, your gaze functions as (Tend Blood D6, Ranged) as you give your allies a disapproving glance that spurs them into action.
+
+- **LEGENDARY.** Your gaze now works on things that shouldn't be scared of you.
+- **AT THE SALUTE.** Your gaze gains the Point-Blank tag.
+- **NO SYMPATHY.** Once per situation, your gaze functions as (Tend Blood D6, Ranged) as you give your allies a disapproving glance that spurs them into action.
 
 #### THE ORDER'S BLADE
 _You have been entrusted with a greatblade from your order's vaults — an ancient weapon designed for the things that colonial fleets pretend not to lose ships to._ A greatblade has two profiles: one when used against human-sized targets (Hunt D6, Tiring), and one when used against targets significantly larger than yourself (Hunt D10, Tiring).
-- MINOR: HUNTED. Name the creature that is coming after you. Once per session, you can declare that it replaces the opposition in a dangerous scene as it eats them, chases them off or causes a big distraction — the GM decides. You'll have to fight or evade it yourself now, of course. If you kill it, gain a minor advance and remove this ability.
-- MINOR: ENDURANCE TRAINING. Your greatblade no longer has the Tiring tag, and inflicts D8 stress against human-sized targets.
-- MINOR: APPLIED RESEARCH. Once per situation, when you inflict stress on an adversary, you can identify its weak spots. For the remainder of the situation, you treat that adversary's difficulty as one step lower (to a minimum of Standard) when acting against it.
+
+- **HUNTED.** Name the creature that is coming after you. Once per session, you can declare that it replaces the opposition in a dangerous scene as it eats them, chases them off or causes a big distraction — the GM decides. You'll have to fight or evade it yourself now, of course. If you kill it, gain a minor advance and remove this ability.
+- **ENDURANCE TRAINING.** Your greatblade no longer has the Tiring tag, and inflicts D8 stress against human-sized targets.
+- **APPLIED RESEARCH.** Once per situation, when you inflict stress on an adversary, you can identify its weak spots. For the remainder of the situation, you treat that adversary's difficulty as one step lower (to a minimum of Standard) when acting against it.
 
 #### THE COMMITTED BLADE
 _The form demands commitment: the difference between a duel and a gamble is the quality of your training._ When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.
-- MINOR: IMPLACABLE FORM. When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step.
-- MINOR: THE PERFECT EXCHANGE. Once per session, when you succeed at a Risky or Dangerous action, clear all stress marked against your resistances.
-- MINOR: THE OFFERED HILT. Once per situation, you may grant the benefits of THE COMMITTED BLADE to a nearby ally.
+
+- **IMPLACABLE FORM.** When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step.
+- **THE PERFECT EXCHANGE.** Once per session, when you succeed at a Risky or Dangerous action, clear all stress marked against your resistances.
+- **THE OFFERED HILT.** Once per situation, you may grant the benefits of THE COMMITTED BLADE to a nearby ally.
 
 #### THE PROTECTOR'S STANCE
 _You did not cross half the world to watch the people beside you die badly._ Any ally within arm's reach of you gains +1 Blood protection thanks to your interventions. Once per situation, you can bark a correction — footwork, guard, distance — and remove D4 Blood stress from a nearby ally.
-- MINOR: LAST-MINUTE INTERVENTION. Once per session, when an ally within arm's reach of you suffers Blood fallout, immediately downgrade it by one step (or remove it entirely if it's Minor fallout).
-- MINOR: BACK-TO-BACK. If there's only one ally within arm's reach of you, they gain +2 Blood protection instead of +1.
-- MINOR: THE BORROWED PARRY. Once per session, when an ally within arm's reach would mark Blood stress from a melee attack, the stress dice is reduced to D4. You were already there. You do not explain how.
+
+- **LAST-MINUTE INTERVENTION.** Once per session, when an ally within arm's reach of you suffers Blood fallout, immediately downgrade it by one step (or remove it entirely if it's Minor fallout).
+- **BACK-TO-BACK.** If there's only one ally within arm's reach of you, they gain +2 Blood protection instead of +1.
+- **THE BORROWED PARRY.** Once per session, when an ally within arm's reach would mark Blood stress from a melee attack, the stress dice is reduced to D4. You were already there. You do not explain how.
 
 #### THE REPUTATION OF THE BLADE
 _Your record — challenges accepted and resolved, the names of those you have fought, the tradition you represent — travels ahead of you._ In colonial-influenced territory, fighters who know your reputation find reasons to delay rather than engage you in single combat, unless something larger than fear compels them. Additionally, once per session, your name opens a door: a colonial official who will hear you out, a naval officer who stands down rather than escalate, a port that waves you through.
-- MINOR: THE INEVITABLE RESULT. NPCs aware of your full record do not challenge you to a fight they believe they will lose. They find other methods — which is often worse for everyone, and frequently more interesting.
-- MINOR: THE YOUNG ONES COME. Rising fighters seek you out to prove themselves against a named opponent. Every so often — the GM decides when — one arrives who is genuinely trained. Whether you defeat them, teach them, recruit them or send them away changed is yours to determine.
-- MINOR: COLONIAL WEIGHT. Once per session, in formal dealings with a colonial power, invoke your name and lineage to achieve an outcome that would require significant political capital from anyone without a formal fighting pedigree.
 
-### ZENITH ABILITIES
-
-#### THE LAST BOUT
-_The argument reaches its final form._ You face the opponent who represents the ultimate test of what you and your tradition have been building toward — the one person, institution or force whose defeat, or whose defeat of you, answers the question your arc has been asking. Win or lose, the exchange is perfect in form, and it removes you from the story: dead, or finished in the way that means there is nothing left to prove and no reason to stay. The Shackles will remember it one way. The colonial world will remember it another. Both will be partially right.
-
-#### THE HOMECOMING
-_You return to the place that exiled you, and conclude the argument with the institution itself._ Once, your challenge binds an entire colonial power — the house that disowned you, the academy that struck your name, the court that signed the warrant. They must answer it: their champion against you, everything staked, under forms so old that refusing them would unmake the institution's authority in front of everyone it rules. The outcome reshapes that institution permanently — work out with the GM what falls, what changes and what is restored. Win or lose, you do not return to the Shackles. The argument is over, and you were always going to finish it at home.
-
-#### THE SCHOOL FOUNDED
-_The tradition was carried across an ocean to arrive at this._ You formalise everything — the old form, and everything the Shackles taught you about what it was missing — into a living school: named, located, with students and a documented lineage that now ends in you. You retire as its master. For the remainder of the campaign, the school functions as a landmark and a faction: its students recognisable by form and footwork, its hall a place where formal challenge is sacrosanct, its doors open to the surviving player characters whenever they need shelter, instruction or a second who will not run. One day, long after you are gone, the colonial world will send its children here to train. You will not live to see it. You founded it anyway.
+- **THE INEVITABLE RESULT.** NPCs aware of your full record do not challenge you to a fight they believe they will lose. They find other methods — which is often worse for everyone, and frequently more interesting.
+- **THE YOUNG ONES COME.** Rising fighters seek you out to prove themselves against a named opponent. Every so often — the GM decides when — one arrives who is genuinely trained. Whether you defeat them, teach them, recruit them or send them away changed is yours to determine.
+- **COLONIAL WEIGHT.** Once per session, in formal dealings with a colonial power, invoke your name and lineage to achieve an outcome that would require significant political capital from anyone without a formal fighting pedigree.
 
 ## Powder Mage
 
 _Magic and gunpowder have one thing in common: they both kill you if you handle them carelessly. You have learned to handle both carefully enough that it is everyone else who dies. You channel arcane force through iron and smoke, stitching spellwork into the moment of firing, turning a pistol shot into something that defies physics and good sense. In the colonial navies they would have burned you for it; in the Shackles they just want to know what it costs to hire you. The answer is more than they think, because the real price is not paid in gold. The magic is eating through you — slowly, inexorably, a grain at a time, the way a slow match eats cord. You have decided the price is worth it. The power is undeniable; addictive, in fact. To hold the moment of detonation in your mind, to feel every charge and loaded barrel within thirty paces like sparks behind your eyes — there is nothing else like it, and safety, solvency and your own flesh have all become secondary to the next impossible shot._
 
 ### Core Traits
+
 - SKILL: Hunt
 - DOMAIN: Arcane
 - RESOURCE: A horn of powder cut with ground witch-salts D6 Arcane
@@ -1419,50 +1310,45 @@ Gain +1 Protection in the Blood, Tide, Luck or Gold resistance. You can take thi
 
 #### ARCANE LOAD
 _You stitch the working into the charge itself, and the shot carries it._ Roll Hunt+Arcane to lay a working into a loaded weapon; this takes a few minutes, and a weapon holds one working at a time. When the weapon is fired, the shot is Seeking: it bends toward its target, ignoring cover and intervening obstacles.
-- MINOR: SHATTERING LOAD. When you lay a working, you may choose this instead: on a hit, the target's Blood protection is reduced by 2 until the end of the situation.
-- MINOR: OVERCHARGE. When you lay a working, you may choose this instead: the shot's stress dice increases by two steps, and you mark D4 Blood stress when it is fired.
-- MINOR: TWO BARRELS. You may have two laden weapons at once, and you may lay workings into an ally's weapon as easily as your own.
+
+- **SHATTERING LOAD.** When you lay a working, you may choose this instead: on a hit, the target's Blood protection is reduced by 2 until the end of the situation.
+- **OVERCHARGE.** When you lay a working, you may choose this instead: the shot's stress dice increases by two steps, and you mark D4 Blood stress when it is fired.
+- **TWO BARRELS.** You may have two laden weapons at once, and you may lay workings into an ally's weapon as easily as your own.
 
 #### POWDER KEG
 _Everything within thirty paces is a bomb if you are standing near it._ Once per session, you may detonate a powder magazine, a cannon battery or a large alchemical store. The explosion inflicts D10 Blood stress on everyone in the area and Hull stress on any vessel present, destroys the source entirely, and renders the area uninhabitable for the rest of the situation. You mark D6 Blood stress from the expenditure.
-- MINOR: CONTROLLED BURN. Designate one person or object in the blast radius that takes no stress from the detonation. Everything else still burns.
-- MINOR: DISTANCE DETONATION. You can trigger POWDER KEG from anywhere, provided you have sensed the powder with POWDER BOND. You do not need to be nearby. You do not need to watch.
-- MINOR: CHAIN DETONATION. Every powder charge and loaded weapon within the blast radius detonates as well, potentially expanding the zone. The GM determines the cascade.
+
+- **CONTROLLED BURN.** Designate one person or object in the blast radius that takes no stress from the detonation. Everything else still burns.
+- **DISTANCE DETONATION.** You can trigger POWDER KEG from anywhere, provided you have sensed the powder with POWDER BOND. You do not need to be nearby. You do not need to watch.
+- **CHAIN DETONATION.** Every powder charge and loaded weapon within the blast radius detonates as well, potentially expanding the zone. The GM determines the cascade.
 
 #### SPARK IN THE CHAMBER
 _You snap your fingers and the air inside them remembers it wanted to be fire._ This spell functions as the following weapon: (Hunt D6, Piercing.) If the target is carrying powder or a loaded firearm, it inflicts D8 stress.
-- MINOR: THE SLOW BURN. Targets you harm with SPARK IN THE CHAMBER catch fire, marking D4 stress each round until extinguished.
-- MINOR: SMOKELESS. The spark leaves no flash, no smoke and no evident cause. Unless someone knows what a powder mage is and that one is present, the death reads as a terrible accident.
-- MINOR: COIN-GOLD BLOOD. You gain Protection 5 against stress marked due to flame or heat.
+
+- **THE SLOW BURN.** Targets you harm with SPARK IN THE CHAMBER catch fire, marking D4 stress each round until extinguished.
+- **SMOKELESS.** The spark leaves no flash, no smoke and no evident cause. Unless someone knows what a powder mage is and that one is present, the death reads as a terrible accident.
+- **COIN-GOLD BLOOD.** You gain Protection 5 against stress marked due to flame or heat.
 
 #### VEIL OF SMOKE
 _A battlefield is a text written in smoke, and you hold the pen._ Roll Vanish+Arcane to cast this spell. On a success, powder smoke floods an area roughly the size of a ship's deck and obeys you: all Vanish checks within it are made with mastery, and ranged attacks into or through it are Risky. The veil lasts until the end of the situation, or until you leave it.
-- MINOR: CHOKING CLOUD. Adversaries inside the veil who need to breathe treat every action as Risky until they leave it.
-- MINOR: SHAPES IN THE SMOKE. The smoke shows your enemies things that are not there. While the veil holds, the GM treats your allies' numbers and positions as unknown to adversaries, even ones who watched them enter.
-- MINOR: THE SIGNAL FIRE. A fire you kindle can be seen clearly for twenty miles, in any weather. What it says, and to whom, is up to you.
+
+- **CHOKING CLOUD.** Adversaries inside the veil who need to breathe treat every action as Risky until they leave it.
+- **SHAPES IN THE SMOKE.** The smoke shows your enemies things that are not there. While the veil holds, the GM treats your allies' numbers and positions as unknown to adversaries, even ones who watched them enter.
+- **THE SIGNAL FIRE.** A fire you kindle can be seen clearly for twenty miles, in any weather. What it says, and to whom, is up to you.
 
 #### THE HIDDEN MAGAZINE
 _Every coast in the Shackles holds a dry cache someone died before emptying. You can smell them._ Roll Reckon+Arcane to cast this spell. On a success, you find (or spontaneously discover) a path to a hidden powder store nearby — a smuggler's cache, a wrecked warship's intact hold, a battery abandoned with its magazine sealed. When you work there, remove D6 stress from Blood; your allies may use it the same way. The path seals after an hour or so — with warning, so you'll have time to leave.
-- MINOR: BENEVOLENT. You or any ally may remove D6 stress from Luck or Gold instead.
-- MINOR: OMNIPRESENT. You access the same magazine every time, no matter where you are. At the GM's discretion, Major Luck fallout could see it found and emptied by someone else.
-- MINOR: BOUNTIFUL. Once per session, when you access the magazine, you can locate a non-unique item of D8 value or lower.
 
-### ZENITH ABILITIES
-
-#### THE FINAL CHARGE
-_Every grain of arcane force your body has stored, released at once._ Once, you can let it all go. The detonation is apocalyptic at scale — a fortress, a fleet, a harbour. Everything within a wide radius takes maximum stress; what the GM rules destroyed is destroyed. You survive, barely, but your body will never hold arcane force again: every ability of this class burns out of you with the blast. You live. You are no longer a powder mage. Whether it was worth it is the question your arc was always asking.
-
-#### THE PERFECT SHOT
-_The universe finally agrees that you are right._ Once, at a moment of your choosing, you make a shot of impossible precision — through a fortress wall, across an ocean, backward into an old wound that never closed. It lands, and the target suffers its full consequence. There are no conditions and no defence. But the universe's agreement is purchased, not given, and the price is the one you have been paying all along, compounded: the recoil takes everything that is left of you. The shot is the last thing you do, and the best.
-
-#### THE UNDYING SPARK
-_You stop carrying the fire and become it._ At the heart of a great burning — a magazine, a fireship, a battery in full roar — you let the boundary go. Your body is unmade, and what you were disperses into every charge of powder in the Shackles. From now on, when desperate gunners pray over a wet charge that fires anyway, when a pistol misfires in the hand of a murderer at exactly the right moment, when a powder mage yet unborn feels the first tingle behind their eyes — that is you, or what you have become. The GM determines when and how the spark shows itself. It never speaks. It always burns.
+- **BENEVOLENT.** You or any ally may remove D6 stress from Luck or Gold instead.
+- **OMNIPRESENT.** You access the same magazine every time, no matter where you are. At the GM's discretion, Major Luck fallout could see it found and emptied by someone else.
+- **BOUNTIFUL.** Once per session, when you access the magazine, you can locate a non-unique item of D8 value or lower.
 
 ## Sawbone
 
 _The saw that opens a chest cavity and the saw that cuts a rotten plank are the same saw. The pins that hold a shattered femur together and the pins that splice a split timber are the same gauge. You worked out early that a ship's carpenter and a ship's surgeon are doing the same job — assess the damage, remove what cannot be saved, reinforce what can, return the patient to function — and the Shackles has spent your whole career confirming it. You have taken off arms below decks during a broadside and crawled into the bilge to patch shot-holes in the same afternoon, and the problems felt identical. The others aboard traffic in pacts and omens and reputations; you traffic in copper, tar, catgut and load. When the witch's familiar dies, when the god goes quiet, when the luck runs out — they bring it to you, because you are the only one aboard whose power does not have an opinion. And underneath the daily work there is the project: the thing you are building that the Shackles says is impossible. The hand that closes when the forearm flexes. The pump no flooding can outrun. The heart that beats without flesh to drive it. It will take years. It may not work. You are going to build it anyway._
 
 ### Core Traits
+
 - SKILL: Tend
 - DOMAIN: Deepwater
 - RESOURCE: A jar of copper pins and good tar D6 Deepwater
@@ -1525,55 +1411,50 @@ _You apprenticed where the standards were written down._ Gain the Colonial domai
 
 #### CANNIBALISED PARTS
 _Everything is parts, if you're honest about it — and parts can mend a hull, arm a trap, or come apart in someone's hands._ Once per session, consume a resource with the Port or Colonial domain by stripping it for materials. Roll the resource's dice and choose one:
+
 - Inflict stress on a journey or an adversary equal to the amount rolled, as you jury-rig exactly the wrong surprise for them.
 - Remove stress from a vessel's Hull equal to the amount rolled.
 - (D8 or higher) Gain access to a skill or domain for the rest of the session — the manual was in the crate.
 - (D8 or higher) Increase your Blood protection by 1 for the rest of the situation — armour the work.
 - Remove stress from a person's Blood equal to the amount rolled.
-- MINOR: ANYTHING'S PARTS. Resources with any domain qualify. A relic is brass and leverage; a holy text is paper and binding wire.
-- MINOR: THE GOOD STUFF. When you consume a resource of D8 or higher value, choose two benefits instead of one.
-- MINOR: TWICE OVER. You may use CANNIBALISED PARTS twice per session. The second time, mark D4 Luck stress — somewhere, something you stripped is missed.
+- **ANYTHING'S PARTS.** Resources with any domain qualify. A relic is brass and leverage; a holy text is paper and binding wire.
+- **THE GOOD STUFF.** When you consume a resource of D8 or higher value, choose two benefits instead of one.
+- **TWICE OVER.** You may use CANNIBALISED PARTS twice per session. The second time, mark D4 Luck stress — somewhere, something you stripped is missed.
 
 #### THE LIVING SHIP
 _You have mapped every weakness, tracked every repair, predicted every failure. The ship does not surprise you._ Once per session, the GM warns you of a threat to your vessel before it lands — the shot that will find the magazine, the reef that will open the hull, the plank that gives in the next storm. While you are aboard, your vessel counts as having +1 Hull protection.
-- MINOR: REPAIR IN MOTION. Once per situation, clear D4 Hull stress without it costing you your action. You were already down there.
-- MINOR: THE SOUL PERSISTS. If your ship is lost, salvage one essential piece of her from the wreckage. The next vessel you fit it to becomes your ship immediately — you know her weaknesses as if you'd served aboard a year.
-- MINOR: NO DEAD SHIPS. When weather, flooding or reef damage alone would sink a vessel you actively maintain, roll Tend+Deepwater; on a success, you find the solution just in time.
+
+- **REPAIR IN MOTION.** Once per situation, clear D4 Hull stress without it costing you your action. You were already down there.
+- **THE SOUL PERSISTS.** If your ship is lost, salvage one essential piece of her from the wreckage. The next vessel you fit it to becomes your ship immediately — you know her weaknesses as if you'd served aboard a year.
+- **NO DEAD SHIPS.** When weather, flooding or reef damage alone would sink a vessel you actively maintain, roll Tend+Deepwater; on a success, you find the solution just in time.
 
 #### ENGINEERING MIND
 _If it could exist, you can build it._ Roll Tend+Deepwater to improve a piece of equipment with moving parts using work that takes around half an hour. On a success, increase the equipment's quality by 1 step (standard becomes good, good becomes excellent) and give it the Dangerous and Unreliable tags; once you have improved a piece of equipment this way, you can't improve it again. Given time and materials set by the GM, you can also design and build devices the Shackles has never seen — pumps, fire-weapons, mechanical locks, prosthetics that restore full function.
-- MINOR: RAPID BUILD. A week's construction takes a day; a day's takes an hour. Your hands know the answer before your mind finishes articulating it.
-- MINOR: BREAKING POINT. You read where a thing fails — enemy ship, fortification, machine or human body — and exploit it. Roll with mastery to identify the weak point: against a structure or vessel your sabotage can be made to look like an accident; against a living target, your next attack reduces their Blood protection by 2 until the end of the situation, or finds the gap and gains the Piercing tag.
-- MINOR: THE PERFECT INSTRUMENT. Build items of exceptional quality: one additional tag of your choice, and it cannot break under normal use. You can maintain one such instrument at a time.
+
+- **RAPID BUILD.** A week's construction takes a day; a day's takes an hour. Your hands know the answer before your mind finishes articulating it.
+- **BREAKING POINT.** You read where a thing fails — enemy ship, fortification, machine or human body — and exploit it. Roll with mastery to identify the weak point: against a structure or vessel your sabotage can be made to look like an accident; against a living target, your next attack reduces their Blood protection by 2 until the end of the situation, or finds the gap and gains the Piercing tag.
+- **THE PERFECT INSTRUMENT.** Build items of exceptional quality: one additional tag of your choice, and it cannot break under normal use. You can maintain one such instrument at a time.
 
 #### THE MILESTONE
 _Progress is progress, whatever the context._ You complete one milestone of your grand project. Work out with the GM what was proven, sourced or built, and gain an immediate, concrete mechanical benefit related to the project's nature — a working prototype element, a tested technique, a processed material. Each subsequent major advance you take may represent a further milestone if you choose.
-- MINOR: WIDER APPLICATION. The milestone's benefit applies in one additional context beyond its obvious use. The prosthetic technique repairs rigging; the pump design drains a wound. The overlap was always there once you saw it.
-- MINOR: THE PROTOTYPE. Build a functional prototype from the milestone. It works at reduced capacity — but it works now, in the field, before the project is done. The GM sets its profile.
-- MINOR: COLLABORATOR. One character who has worked alongside you gains a benefit from the milestone as well — less refined than yours, but functional. The knowledge has transferred.
+
+- **WIDER APPLICATION.** The milestone's benefit applies in one additional context beyond its obvious use. The prosthetic technique repairs rigging; the pump design drains a wound. The overlap was always there once you saw it.
+- **THE PROTOTYPE.** Build a functional prototype from the milestone. It works at reduced capacity — but it works now, in the field, before the project is done. The GM sets its profile.
+- **COLLABORATOR.** One character who has worked alongside you gains a benefit from the milestone as well — less refined than yours, but functional. The knowledge has transferred.
 
 #### NOT TODAY
 _You are not performing a miracle. You are refusing the outcome, and you have the competence to make the refusal stick._ Once per campaign, save a ship or a person that should be lost: a vessel taking its killing blow stays functional for one more situation; a patient who should be dead is not. The bill for the materials, the labour and the nerve arrives later — when it lands, mark D6 stress to two different resistances of the GM's choice, and you pay it without comment.
-- MINOR: THE IMPOSSIBLE REPAIR. Once per session, clear D8 Hull stress from your vessel. You were working on it the whole time; you simply didn't mention it.
-- MINOR: THE IMPOSSIBLE SURGERY. Once per session, spend the situation operating: remove all Blood stress from one character and clear one of their Minor Blood fallouts. They are functional when it ends. Comfortable was never the service offered.
-- MINOR: RESURRECTION. Restore a destroyed ship, or a character who has suffered Critical Blood fallout but not yet been written out of the story, to full function. This takes months of in-fiction work, significant materials and problems worth playing through. What the patient remembers is between them and the GM.
 
-### ZENITH ABILITIES
-
-#### THE PROJECT COMPLETE
-_It works. Exactly as you designed it._ The grand project is finished: the hand that answers thought, the hull that will not drown, the heart that beats without flesh. Work with the GM to determine its full expression and what it does to the world — because things that work this well change the Shackles, and they attract everything that profits from change. Your character's story ends alongside the project's beginning: retire as the one who built the impossible thing, or be swallowed by the consequences of its existence. Either way, the Shackles now contains something it cannot un-know, and your name is on it.
-
-#### THE SHIP ETERNAL
-_To activate this ability, give yourself to the work completely._ One vessel — yours, or one you choose to save — becomes unsinkable, forever. You go into her the way everything you have goes into the work: your knowledge, your attention, and finally yourself. No body is recovered; there was no death anyone witnessed; there is simply a ship on which the pumps start themselves, fires gutter out before they catch, and sprung planks close overnight like wounds. She cannot be lost for the remainder of the campaign. Her crews swear the tools in the carpenter's walk are always warm, and that something below decks hums when the work is done right.
-
-#### EVERY PATIENT LIVES
-_To activate this ability, work yourself to death._ Once, when the dying outnumber the living — a battle's aftermath, a plague port, a fleet broken on a reef — you refuse all of it. You work through the night, the next day, the next night, performing surgery and salvage beyond what hands should manage, and at the end of it every patient brought to you survives: all nearby allies and every named character present recover all Blood stress and all Blood fallout. You do not. The Shackles' surgeons still argue about that night, and teach it. Every crew in these waters knows the toast: the sawbones pays the bill.
+- **THE IMPOSSIBLE REPAIR.** Once per session, clear D8 Hull stress from your vessel. You were working on it the whole time; you simply didn't mention it.
+- **THE IMPOSSIBLE SURGERY.** Once per session, spend the situation operating: remove all Blood stress from one character and clear one of their Minor Blood fallouts. They are functional when it ends. Comfortable was never the service offered.
+- **RESURRECTION.** Restore a destroyed ship, or a character who has suffered Critical Blood fallout but not yet been written out of the story, to full function. This takes months of in-fiction work, significant materials and problems worth playing through. What the patient remembers is between them and the GM.
 
 ## Sharper
 
 _Every Free Captain thinks they understand the game — raids, plunder, loyalty, fear. You understand the game that happens underneath that game. Who is sleeping with whom. Which Pirate Council member owes a debt to which merchant house. Which harbourmaster is on three separate payrolls, and which informant changed sides on Thursday. You have built an empire of knowledge that nobody can see, and you protect it the way a spider protects a web: by being invisible, and by ensuring that anything that touches it gets stuck. The cards, the dice, the cons — those are the visible trade, and you are very good at them, but they were only ever apprenticeship. The real game taught you its one true rule early: everything in the Shackles is a wager, every person is a hand to be read, and the house — given enough patience, enough ledgers, enough friends in enough back rooms — the house is you. You only bet on certainties. The trick is manufacturing them._
 
 ### Core Traits
+
 - SKILL: Deceive
 - DOMAIN: Port
 - RESOURCE: A marked deck of cards D6 Port
@@ -1635,50 +1516,45 @@ _A pistol in the cuff, a blade in the cane, a needle behind the lapel. The trick
 
 #### THE HOOK
 _Every mark already wants something. You just introduce them to it._ Roll Deceive+Port to work someone in conversation. On a success, you instil in them a fierce desire for something you have dangled — until the end of the current situation, they pursue it. If the desire is unusual for them, working the hook is Risky.
-- MINOR: THE DEEP HOOK. The desire lasts until the end of the session. If they don't get what they want by then, they descend into violence to acquire it or fall apart in despair — GM's choice.
-- MINOR: THE WHISPER CAMPAIGN. The desire spreads: anyone the mark talks to for more than a minute has a 1-in-6 chance of catching it. You are immune. Your allies are not.
-- MINOR: THE STANDING ARRANGEMENT. Mark D6 Luck stress to set the hook permanently: the first time the mark sees you each session, the desire rekindles, same as the day you planted it.
+
+- **THE DEEP HOOK.** The desire lasts until the end of the session. If they don't get what they want by then, they descend into violence to acquire it or fall apart in despair — GM's choice.
+- **THE WHISPER CAMPAIGN.** The desire spreads: anyone the mark talks to for more than a minute has a 1-in-6 chance of catching it. You are immune. Your allies are not.
+- **THE STANDING ARRANGEMENT.** Mark D6 Luck stress to set the hook permanently: the first time the mark sees you each session, the desire rekindles, same as the day you planted it.
 
 #### EVERYBODY OWES
 _Once you know what keeps someone awake at night, the rest is arithmetic._ Roll Reckon+Port on a target you can see and hear. On a success, you learn their deepest debt: the greatest thing they have ever taken from someone else — money, freedom, a name, a life. When you act on this information, roll with mastery.
-- MINOR: THE CREDITOR. You also learn who the debt is owed to, and where to find them. The thread is easy enough to follow.
-- MINOR: AN EVENING'S WORK. Once per session, a night spent in the right rooms reveals someone nearby with an outstanding debt worth knowing. The GM tells you who.
-- MINOR: THE BROKERED DEBT. Once per session, sell what you know: introduce creditor to debtor on your terms, and clear D6 stress from Gold or Reputation as the grateful parties settle up around you.
+
+- **THE CREDITOR.** You also learn who the debt is owed to, and where to find them. The thread is easy enough to follow.
+- **AN EVENING'S WORK.** Once per session, a night spent in the right rooms reveals someone nearby with an outstanding debt worth knowing. The GM tells you who.
+- **THE BROKERED DEBT.** Once per session, sell what you know: introduce creditor to debtor on your terms, and clear D6 stress from Gold or Reputation as the grateful parties settle up around you.
 
 #### THE WEB
 _You have a network, and the network has you._ Roll Deceive+Port to cultivate a contact in a port, faction or position, each with one type of information they can access — maritime traffic, colonial politics, criminal networks, arcane rumour. You can maintain three contacts at a time. Once per session, draw on a contact's information; each time you do, mark D4 stress to Gold or Reputation, or record a debt the GM may call in at the worst possible moment.
-- MINOR: WIDE WEB. You can maintain five contacts at a time.
-- MINOR: THE FRIGHTENED FRIEND. Once per session, a contact warns you of danger coming your way before it arrives — if anyone in your web could plausibly have seen it coming.
-- MINOR: SPIDER'S PATIENCE. When you act on a contact's information, roll with mastery.
+
+- **WIDE WEB.** You can maintain five contacts at a time.
+- **THE FRIGHTENED FRIEND.** Once per session, a contact warns you of danger coming your way before it arrives — if anyone in your web could plausibly have seen it coming.
+- **SPIDER'S PATIENCE.** When you act on a contact's information, roll with mastery.
 
 #### THE CHEAP SHOT
 _They were fools to have trusted you._ When you attack a target who is unaware of your position with a one-handed melee weapon, your attacks gain the Piercing tag.
-- MINOR: DEAD EYE. The benefit also applies to ranged weapons.
-- MINOR: NEVER SAW IT COMING. Mark D4 stress to Luck to activate this power for your next use of THE CHEAP SHOT: your attack dice increases in size by two steps. NEVER SAW IT COMING only functions against a living person.
-- MINOR: REMUNERATION. When you reduce a target to 0 resistance using THE CHEAP SHOT, remove stress from Gold equal to double the value of your current tier.
+
+- **DEAD EYE.** The benefit also applies to ranged weapons.
+- **NEVER SAW IT COMING.** Mark D4 stress to Luck to activate this power for your next use of THE CHEAP SHOT: your attack dice increases in size by two steps. NEVER SAW IT COMING only functions against a living person.
+- **REMUNERATION.** When you reduce a target to 0 resistance using THE CHEAP SHOT, remove stress from Gold equal to double the value of your current tier.
 
 #### THE BACK ROOM
 _As far as anyone knows, it's always been here._ When you are in a port, roll Deceive+Port to establish your back room — behind a gambling den, above a chart-house, beneath a counting floor. Inside it, meetings happen on your terms: you roll with mastery on all social actions within. Your back room acts as a bond (see Ports & Haunts) — if it suffers fallout, a guest has been fleeced too hard, a secret has slipped its walls, or the law has taken an interest.
-- MINOR: THE HOUSE ALWAYS WINS. Once per session, the room's games and ledgers clear D4 Gold stress.
-- MINOR: WHAT THE WALLS HEARD. Once per session, the room yields a secret a guest let slip — the GM tells you something true and useful about anyone who has been inside this session.
-- MINOR: NEVER WAS. On a night's notice, the room vanishes: furniture, records, staff, all of it. Patrons misremember the address. Investigators find a storeroom that has clearly been empty for years.
 
-### ZENITH ABILITIES
-
-#### THE WEB COMPLETES
-_It doesn't need you anymore._ Your network has become a force in the Shackles: it gathers, acts and remembers with or without your involvement. You may retire into being the spider at the centre, directing rather than doing — or burn the whole thing down in the most spectacular act of self-destruction these waters have seen, calling in every debt, exposing every secret, all at once. Either way, your character's story ends here: what you built is real, and the question of what it does without you watching now belongs to the campaign.
-
-#### THE NAME BEHIND THE NAME
-_Everything that appeared to be coincidence was arrangement._ You reveal — to the table and the Shackles at the same moment — that you have been the hidden hand behind this arc's events: every obstacle manufactured, every ally cultivated, every escape permitted. The revelation is total and irreversible. You pass out of play and into the setting's machinery: from now on, nothing significant happens in the Shackles that you do not know about first, and the surviving characters live in a world where one of the powers watching them used to share their table.
-
-#### THE GRIFT ETERNAL
-_You con death itself._ You stage your own death so perfectly that everyone is convinced — enemies, allies, creditors, the sea, and whatever keeps the ledgers beyond it. The Sharper everyone knew is mourned, buried, and settled into legend; every debt dies with the name. You walk away as someone new entirely — new face, new port, new game — and your character retires from play. The truth of where you went exists in exactly one place: a sealed file, held by the person at the table you trusted most. Whether they ever open it is up to them.
+- **THE HOUSE ALWAYS WINS.** Once per session, the room's games and ledgers clear D4 Gold stress.
+- **WHAT THE WALLS HEARD.** Once per session, the room yields a secret a guest let slip — the GM tells you something true and useful about anyone who has been inside this session.
+- **NEVER WAS.** On a night's notice, the room vanishes: furniture, records, staff, all of it. Patrons misremember the address. Investigators find a storeroom that has clearly been empty for years.
 
 ## Sin Bosun
 
 _Every ship has a sin bosun, whether the muster book records one or not. The crew might call them the padre, the holy, the god-botherer, the one who talks to the sky — what they mean is: the person you find when someone is dying, and also the person you find when you are lost. In the Shackles these have always been the same job, because the sea does not distinguish between a body it is killing and a ship it is sinking. You serve your god by moving through the world they made — Besmara who owns every plank that touches her water, Gozreh who is the wind in the sail and the storm against the hull, or something older and less named that speaks in current and depth. Your theology is practical: the god's domain is the sea, and to navigate it correctly — to read its weather, to know its routes, to bring ships and souls through it alive — is an act of worship. The chart is the scripture. The stars are the congregation. The passage completed is the prayer answered. You are not a soft priest. The sea is not kind, your god is not kind, and the mercy you offer is the specific, practical mercy of someone who has studied how to get people through things. You know the route. You know the rite. You know, better than most, that the difference between them is mostly a matter of what is doing the killing._
 
 ### Core Traits
+
 - SKILL: Navigate
 - DOMAIN: Faith
 - RESOURCE: A salt-stiffened prayer book interleaved with hand-drawn charts D6 Faith
@@ -1742,50 +1618,45 @@ _The best weather intelligence comes from the water itself: the temperature of t
 
 #### INTERCESSION
 _You beseech your god on another's behalf. The god is not charitable. The god is interested in you, which is different, and considerably more useful._ Roll Tend+Faith to cast this spell. On a success, remove D6 stress from any resistance (other than Tide) for one nearby character other than yourself.
-- MINOR: THE BOSUN TOO. INTERCESSION can now be used on yourself.
-- MINOR: TRANSFERRAL. Roll Tend+Faith to cast this spell; on a success, move a Minor fallout from any willing target other than yourself to any other willing target. Both targets must be within arm's reach of one another, and the receiving party must be able to bear the fallout.
-- MINOR: THE GOD DOES NOT DISTINGUISH. When you cast TRANSFERRAL, the target receiving the fallout does not have to be willing to receive it. Casting the spell in this way uses the target's difficulty instead of standard difficulty.
+
+- **THE BOSUN TOO.** INTERCESSION can now be used on yourself.
+- **TRANSFERRAL.** Roll Tend+Faith to cast this spell; on a success, move a Minor fallout from any willing target other than yourself to any other willing target. Both targets must be within arm's reach of one another, and the receiving party must be able to bear the fallout.
+- **THE GOD DOES NOT DISTINGUISH.** When you cast TRANSFERRAL, the target receiving the fallout does not have to be willing to receive it. Casting the spell in this way uses the target's difficulty instead of standard difficulty.
 
 #### THE HUNGRY CHURCH
 _Your faith has taken root: pirates, fisherfolk and dockworkers who acknowledge your god through you._ When in a port, roll Command+Faith to cast this spell as you consecrate a shrine and gather the faithful; on a success, add the port to your church. When you enter a port that is part of your church, gain a D4 (Faith) resource. Increase the dice size of this resource by one step for every additional port in the church after the first, to a maximum of D10.
-- MINOR: TITHE. The faithful contribute out of something between gratitude and insurance. Once per session, whilst at a port in your church, clear D4 Gold stress.
-- MINOR: EYES OF THE FAITHFUL. Your congregation notices things that feel wrong before they become things they can name. Once per session, whilst at a port in your church, ask the GM what your church has sensed that would be useful to you. They always know something. It is rarely comforting.
-- MINOR: RITE OF SAFE HARBOUR. Whilst you are at a port in your church, you and your allies gain +1 Tide protection, and attacking you on consecrated ground is a divine transgression — the aggressor immediately marks D4 Tide stress.
+
+- **TITHE.** The faithful contribute out of something between gratitude and insurance. Once per session, whilst at a port in your church, clear D4 Gold stress.
+- **EYES OF THE FAITHFUL.** Your congregation notices things that feel wrong before they become things they can name. Once per session, whilst at a port in your church, ask the GM what your church has sensed that would be useful to you. They always know something. It is rarely comforting.
+- **RITE OF SAFE HARBOUR.** Whilst you are at a port in your church, you and your allies gain +1 Tide protection, and attacking you on consecrated ground is a divine transgression — the aggressor immediately marks D4 Tide stress.
 
 #### THE NAME SPOKEN OVER WATER
 _You have learned one of the secret names of your god, and when you speak it across open water your enemies are struck senseless by its weight._ The name functions as the following weapon: (Brave D6, Spread, Debilitating, Maddening, One-Shot).
-- MINOR: THE WAVE'S WEIGHT. The weapon gains the Brutal tag.
-- MINOR: THE FOG'S QUIET. The weapon gains the Smoke tag (it manifests like fog rolling off cold water) and no longer creates noise — in fact, it dampens all nearby noise.
-- MINOR: THE TIDE'S MERCY. When you speak THE NAME SPOKEN OVER WATER, you and all nearby allies remove D4 stress from Blood.
+
+- **THE WAVE'S WEIGHT.** The weapon gains the Brutal tag.
+- **THE FOG'S QUIET.** The weapon gains the Smoke tag (it manifests like fog rolling off cold water) and no longer creates noise — in fact, it dampens all nearby noise.
+- **THE TIDE'S MERCY.** When you speak THE NAME SPOKEN OVER WATER, you and all nearby allies remove D4 stress from Blood.
 
 #### THE PERFECT COURSE
 _Complete navigational and spiritual preparation, meeting complete competency. The god clears the way for those who have done the work of being ready._ Once per session, roll Navigate+Faith to chart a course that accounts for everything — weather, current, spiritual hazard, divine attention. On a success, the chart functions as a D8 boon on the journey, and when the journey's worst peril arrives, you saw it coming: you and your crew roll with mastery against it.
-- MINOR: PURSUIT COURSE. Your course can be charted to intercept a named vessel. If you know roughly where it started, roll with mastery on rolls to run it down.
-- MINOR: ESCAPE COURSE. Your course can be charted to shake pursuit. Increase the stress you inflict on pursuing vessels by one step.
-- MINOR: THE IMPOSSIBLE PASSAGE. Once per campaign, THE PERFECT COURSE can take a ship through genuinely impassable waters — the edge of the Eye of Abendego, a divine boundary, waters the charts name as void. The god permits what the god permits. You have asked correctly.
+
+- **PURSUIT COURSE.** Your course can be charted to intercept a named vessel. If you know roughly where it started, roll with mastery on rolls to run it down.
+- **ESCAPE COURSE.** Your course can be charted to shake pursuit. Increase the stress you inflict on pursuing vessels by one step.
+- **THE IMPOSSIBLE PASSAGE.** Once per campaign, THE PERFECT COURSE can take a ship through genuinely impassable waters — the edge of the Eye of Abendego, a divine boundary, waters the charts name as void. The god permits what the god permits. You have asked correctly.
 
 #### STORM CALLING
 _This is not magic. This is asking the god to do what the god does, and having the relationship that means the god agrees._ Roll Endure+Faith and mark D8 Tide stress to call a storm in your god's name. It arrives within a few hours, is severe, and lasts until you release it or D6 hours pass, whichever comes first. You can direct it broadly: toward a fleet, away from a harbour, into a specific stretch of ocean. Ships caught in the storm mark D8 Hull stress whenever they fail or partially succeed on an action to sail, fight or free themselves within it — and whenever the GM judges the storm simply finds them.
-- MINOR: THE EYE. You can create a zone of calm within your storm where your vessel sails safely. Enemies who follow you into the calm mark D8 Hull stress for every action they take to do so.
-- MINOR: LIGHTNING. Once per situation within your storm, call a strike on a target you can see: D10 Blood or Hull stress. The god's aim is not always precise. It is always intentional.
-- MINOR: RIDER OF THE STORM. While within a storm you have called, you take no stress from weather effects and roll with mastery on all navigation and shipboard actions. You asked for this. You are ready for it.
 
-### ZENITH ABILITIES
-
-#### THE GOD'S CHAMPION
-_The god has been arranging this since before you were born._ Once, you may act in your god's name with their full power behind you. The effect is mythic: a storm that swallows a fleet, a passage opened through waters closed for a century, a blessing that turns a dying ship into something that refuses to sink. Afterwards, the god's agenda is yours, completely and without reservation — you sail where it sends you, beyond the edges of the campaign. Whether this is the highest expression of freedom — doing exactly what you were made for — or the final surrender of it, is the question your arc has been building toward.
-
-#### SAINT OF THE DROWNED
-_To activate this ability, die at sea, settling a debt the water was owed._ The place where you went down becomes holy: a sea-mark every sailor in the Shackles comes to know, where the water is calm when it has no right to be and no one drowns who does not deserve it. Over the following months, mariners leave offerings over the spot. For the remainder of the campaign, the sea-mark functions as a landmark with appropriate haunts. Once per campaign, when the surviving player characters sail over it, they can beseech your spirit for a true heading. You will deliver valuable wisdom.
-
-#### THE WAY THROUGH
-_The sea opens for you._ Once, you can navigate anywhere: through the heart of the Eye, into waters no chart has reached, to a place that exists only because your god made it and you are the only one who knows the way. Where you go and what you find is the final question your arc has been asking. The god promised passage to those who served it. You have served it. The passage is real. Whether coming back is part of it is a question the god has not answered, and may not answer until you arrive. Your character leaves the story.
+- **THE EYE.** You can create a zone of calm within your storm where your vessel sails safely. Enemies who follow you into the calm mark D8 Hull stress for every action they take to do so.
+- **LIGHTNING.** Once per situation within your storm, call a strike on a target you can see: D10 Blood or Hull stress. The god's aim is not always precise. It is always intentional.
+- **RIDER OF THE STORM.** While within a storm you have called, you take no stress from weather effects and roll with mastery on all navigation and shipboard actions. You asked for this. You are ready for it.
 
 ## Tidecaller
 
 _The Eye of Abendego did not form by accident. Something lives at the heart of that immortal storm — ancient, patient, and interested in very specific things. You found it, or it found you. The terms were unclear. They remain unclear. What is clear is what you got: the wild magic of the ocean and the bargained, familiar-haunted power of the witch tradition, braided into one trade — and what it is costing you, a little at a time. Your blood runs colder than it used to. Salt crusts where you sleep. There are mornings when your reflection takes a moment too long to do what you did. Crews fear you and captains court you, because a witch aboard is luck and weather and hexes turned aside, and everyone has heard what happens to ships that put one over the side. You are treated as something between an officer and an omen. They are right to do so. You are not entirely sure, anymore, which side of the bargain you are standing on — whether you are a person who commands the sea's power, or a place where the sea is slowly coming ashore._
 
 ### Core Traits
+
 - SKILL: Command
 - DOMAIN: Arcane
 - RESOURCE: A jar of storm-water from the Eye that never stops spinning D6 Arcane
@@ -1847,55 +1718,42 @@ _The sea is a pharmacopoeia for those it has claimed, and you have learned to sh
 
 #### BRINE CALLS TO BRINE
 _You call to the salt in their blood, and it answers by leaving._ This spell functions as a weapon with the following profile: (Hunt D6, Ranged). You can mark stress accrued as a result of using this spell to Tide.
-- MINOR: RETCH. The stress dice increases to D8.
-- MINOR: MAESTRO. The weapon gains the Piercing tag.
-- MINOR: AS ABOVE, SO BELOW. You do not need line of sight as long as you have a sympathetic token of your target — their hair, a carving in their shape, a favoured possession — but you are still limited to the usual distance of the Ranged tag.
+
+- **RETCH.** The stress dice increases to D8.
+- **MAESTRO.** The weapon gains the Piercing tag.
+- **AS ABOVE, SO BELOW.** You do not need line of sight as long as you have a sympathetic token of your target — their hair, a carving in their shape, a favoured possession — but you are still limited to the usual distance of the Ranged tag.
 
 #### THE SCRYING BOWL
 _You bleed into a bowl of seawater, and omens swim in the clouding._ Roll Reckon+Arcane to cast this spell before you embark on a voyage. On a success, you see three omens; describe them — the vaguer, the better. They are fated to come up on the voyage, and the first time you interact with whatever each omen concerns, you roll with mastery.
-- MINOR: SHARED VISIONS. Your allies also roll with mastery when they interact with the portentous things.
-- MINOR: SCARLET INSIGHT. Once per session, when you cast this spell, clear D8 stress from Tide or Luck.
-- MINOR: DIRE PORTENTS. Once per session, re-roll any dice that you or anyone else rolled — the original roll was a vision you received, and you shout the warning in time.
+
+- **SHARED VISIONS.** Your allies also roll with mastery when they interact with the portentous things.
+- **SCARLET INSIGHT.** Once per session, when you cast this spell, clear D8 stress from Tide or Luck.
+- **DIRE PORTENTS.** Once per session, re-roll any dice that you or anyone else rolled — the original roll was a vision you received, and you shout the warning in time.
 
 #### GREAT AND TERRIBLE
 _The sea stops borrowing your shape and starts wearing it proudly._ You are no longer forced into your SEA-CHANGE form when you take Major fallout. When you choose to enter your true form, all adversaries who can see you mark D4 stress.
-- MINOR: ENTHRALL. When you enter your true form, you may mark D4 Tide stress; all who see you transform are stunned into inaction, and you have time to make a single action entirely unopposed.
-- MINOR: SLOUGH. Once per session, when you assume your true form, downgrade one Blood fallout you are suffering by one step — the wound stays behind on the shed skin.
-- MINOR: UNION. Once per situation, when you are in your true form and an action would be Risky, treat it as Standard instead.
+
+- **ENTHRALL.** When you enter your true form, you may mark D4 Tide stress; all who see you transform are stunned into inaction, and you have time to make a single action entirely unopposed.
+- **SLOUGH.** Once per session, when you assume your true form, downgrade one Blood fallout you are suffering by one step — the wound stays behind on the shed skin.
+- **UNION.** Once per situation, when you are in your true form and an action would be Risky, treat it as Standard instead.
 
 #### THE TIDE COMES IN
 _You sing the sea into the space around you._ Roll Command+Arcane to cast this spell and draw the ocean's attention into the area: tide-pools where there was dry deck, fog that moves against the wind, barnacles blooming on stone. The area gains the Arcane domain and reacts appropriately until the end of the current situation.
-- MINOR: BYPASS. The first time you cast this spell on a voyage, it functions as a D6 boon.
-- MINOR: BLOOD CALLS FOR BLOOD. All weapons used in the area increase their stress dice by 1 step — for adversaries and player characters alike.
-- MINOR: REFUGE. Clear D6 Luck stress from yourself or an ally each time you cast this spell.
+
+- **BYPASS.** The first time you cast this spell on a voyage, it functions as a D6 boon.
+- **BLOOD CALLS FOR BLOOD.** All weapons used in the area increase their stress dice by 1 step — for adversaries and player characters alike.
+- **REFUGE.** Clear D6 Luck stress from yourself or an ally each time you cast this spell.
 
 #### THE SEA'S MANY BODIES
 _The pact does not much care which body you use._ Roll Command+Arcane to send your spirit into a sea creature you can see — a shark, an octopus, a gull riding the same wind. On a success, you direct it to perform basic tasks, though the control is imperfect. Your body slumps where you left it, and you come to when your spirit returns. At the end of the situation, the creature dies; the sea collects its fee.
-- MINOR: THE BORROWED MOUTH. The creature can speak with your voice — negotiate, threaten, deliver a message from somewhere no one expected.
-- MINOR: THE SHOAL. You can ride a shoal, swarm or flock as a single body, moving as a cloud of eyes and teeth.
-- MINOR: LEVIATHAN VESSEL. Once per campaign, the vessel can be something truly vast. The GM determines what the deep sends when you ask.
 
-### ZENITH ABILITIES
-
-#### THE PACT FULFILLED
-_The entity calls in everything, and at last you understand the terms._ You may accept or refuse. If you accept: the working is titanic — a storm that swallows a fleet, a sea-change that redraws a coastline, a hex that lays a city low — and you cease to be entirely human; how much of you remains is a question the table answers together. If you refuse: the pact shatters, you lose every ability of this class permanently, and you are free — truly, completely free — of every supernatural claim on you. Both answers end your arc. There was never a third.
-
-#### SOVEREIGN OF THE DROWNED
-_The Eye itself acknowledges you._ Once, you may speak a permanent working into the world — a change to the Shackles that outlasts you: a new current, a dead reef come alive, an island that appears only for those who need it, a named ship that sails forever without a crew. The GM incorporates it as a permanent truth of the setting. You retire into legend — the witch the working is named for, spoken of in the same breath as the weather.
-
-#### WHAT THE EYE KEEPS
-_You sail into the Eye of Abendego and do not come out. Something else happens instead._ Choose a stretch of sea — a strait, a reef-maze, the waters around one island. You are omnipresent within it: while the situation lasts, you choose who lives and who drowns inside its borders. When the situation ends, the water is stained with you forever: it counts as one tier stranger than it was, its weather answers to no chart, and sailors learn to speak kindly when crossing it. You live on as the thing the locals leave offerings for. In a generation, someone desperate will stand at its edge and ask for terms. You will be interested in very specific things.
+- **THE BORROWED MOUTH.** The creature can speak with your voice — negotiate, threaten, deliver a message from somewhere no one expected.
+- **THE SHOAL.** You can ride a shoal, swarm or flock as a single body, moving as a cloud of eyes and teeth.
+- **LEVIATHAN VESSEL.** Once per campaign, the vessel can be something truly vast. The GM determines what the deep sends when you ask.
 
 # Ancestries — Who You Are
 
-
-Your ancestry is who you are *before the dice hit the table*. It tells the crew where you come from, how the world has treated you, and what ghosts you carry onto a pirate deck. It is the third pillar of a character, beside your **Class** (what you can do) and your **Calling** (why you sail) — and unlike those two, it is **purely narrative**.
-
-> **An ancestry answers: who are you? Where do you come from? Why are you here? It never answers: what can you do?**
-
-## Ancestries grant no mechanics
-
-No bonuses, no abilities, no protection, no modifiers — none. The storm does not care whether you are a Bonuwat free-diver or a brass automaton; the sea drowns everyone the same. What an ancestry gives you is *texture*: a place in the Shackles' web of power, a reason you ended up at the edge of the world, and a fistful of objects that imply a life. Everything you can *do* comes from your class and your calling. This is a deliberate inheritance from the Resistance system: a question about *who you are* should never become a question about *which combination is strongest*.
+Your ancestry is who you are before the dice hit the table — where you come from, how the world has treated you, what ghosts you carry onto a pirate deck. It grants no rules; it is who you are, not what you can do.
 
 ## Two kinds of ancestry
 
@@ -1924,20 +1782,7 @@ The peoples of the Shackles fall into two groups, and they answer the "who are y
 | **Beast-folk** | Tengu, catfolk, ratfolk, merfolk, naga | Animal shape, animal instinct, thinking mind |
 | **Planetouched** | Tieflings, aasimars, the elemental-blooded | Marked by a heritage they did not choose |
 
-## How to use an ancestry
-
-At character creation (Part Eight, Step 4):
-
-1. **Read** your culture's or kindred's lore.
-2. **Answer one** of its three background questions, out loud, at the table. Each names real places, factions, and people of the Shackles — engaging with the world is the point.
-3. **Choose a name** (each lists examples and how names work).
-4. **Roll twice on the d20 trinkets table** and keep both. They are not equipment — they are evidence.
-
-## Building your own — and what's coming
-
-Ancestries are mechanics-free, so making one with your GM is easy: follow the Ancestry Design Guide (lore block · three world-anchored questions · names · a d20 trinkets table). Add a **culture** by naming a new upbringing (the inland **Mwangi**, the elf-courts of the **Mordant Spire**, a **Vudrani** or **Tian** trade-diaspora). Add another **kindred** by naming a people apart, or a **culture** by naming a new upbringing.
-
-> **One deliberate omission:** there is no "drowned" or deep-folk ancestry. Being claimed by the sea and coming back as something not-quite-human is the gravest stake of the **Tide** track and the **Cursed Tides** calling. If you could simply *start* as one of the deep's own, that fate would stop being frightening. The drowned remain a destination, never a starting point.
+To make a character: read your culture's or kindred's lore, **answer one** of its three questions out loud at the table, **choose a name**, and **roll twice** on its trinkets table.
 
 ## Shackleborn
 
@@ -2371,7 +2216,7 @@ Your class is your competence. Pick one of the ten (Part Six) and take everythin
 3. Its **equipment** — take the listed gear, and **pick one** from the choice the class offers.
 4. Both of its **core abilities** — the powers that define the class. You have these from the start.
 
-You do **not** take any minor, major, or zenith abilities yet — those are *advances*, earned in play (see Advancement, below). You begin lean and grow into the legend.
+You do **not** take any minor, major, or zenith abilities yet — those come in play. You begin lean and grow into the legend.
 
 ## Step 3 — Choose a Calling
 
@@ -2412,21 +2257,6 @@ Piracy is not a solo act. As a table, build the thing you all share:
 ## Step 8 — Finishing Touches
 
 Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your **character sheet** and you are ready to sail.
-
----
-
-## Advancement — How You Grow
-
-You grow by **hitting beats**, not by killing things or banking experience.
-
-- At the end of each session you choose **two active beats** from your personal calling or the shared Piracy calling (the pools combine). You can hold only two at a time, and cannot hit more than one in a single situation.
-- When you hit a beat, take an **advance** from your class at the matching level:
-  - **Minor beat → minor advance.** Most of your growth: a new skill, a new domain, +2 protection, or a named minor ability. Three of each class's minor advances are *generic and repeatable* (pick a skill, pick a domain, or +1 protection).
-  - **Major beat → major advance.** A larger power. Each major ability has **three sub-options** you can take as later advances to deepen it.
-  - **Zenith beat → zenith advance.** An endgame power. Taking one signals your character's story is reaching its end — often a single, world-changing act, sometimes triggered by your death or retirement.
-- **Gaining a skill or domain a second time grants a knack** (Part Three) — roll that narrow thing with mastery.
-
-The shape of advancement *is* the shape of the story. Minor advances are the texture of the good years; majors are the turning points; the zeniths — and the calling's **Downfall** — are where it all comes due. In the Shackles, the good times are real, and so is what comes after.
 
 ---
 
@@ -2503,11 +2333,3 @@ Roll the dice on the gear; **no suitable gear = D4.** Ladder: **D4** improvised 
 **Domains (9):** Deepwater · Shallows · Port · Outlaw · Colonial · Arcane · Faith · Ruins · Wilderness.
 
 *A skill is what you can do; a domain is where you know it. Gain either a second time → a **knack** (roll that narrow thing with mastery).*
-
-## Beats & Advancement
-
-End of session: choose **two active beats** from your **calling** or the shared **Piracy** pool (hold two; one hit per situation). Hit a beat → take a class **advance** at its tier: **minor** (good years) · **major** (turning points) · **zenith** (the ending). The calling's **Downfall** is where the bill comes due.
-
----
-
-Contents · *Full rules: Part Two — The System, Part Four — Stress Tracks*
