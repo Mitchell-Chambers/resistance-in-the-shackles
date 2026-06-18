@@ -61,6 +61,7 @@ add("# The World\n"+drop_h1(strip_nav(read("01-the-world.md"))))
 # ---------- HOW TO PLAY (02, trimmed) ----------
 sys=drop_h1(strip_nav(read("02-the-system.md")))
 sys=cut_from_to(sys, "## Equipment, Resources & Tags", None)
+sys=sys.replace(" Where a zenith grants the surviving party a once-per-campaign effect, that single use belongs to the party.","")
 add("# How to Play\n"+sys)
 add("""## Reading Your Gear
 
@@ -133,6 +134,7 @@ mk=drop_h1(strip_nav(read("08-character-creation.md")))
 mk=cut_from_to(mk, "## Advancement — How You Grow", "## Quick Reference — The Build")
 mk=mk.replace(" (see Advancement, below)","")
 mk=mk.replace("those are *advances*, earned in play","those come in play")
+mk=mk.replace("any minor, major, or zenith abilities","its other abilities")
 add("# Make Your Pirate\n"+mk)
 
 # ---------- QUICK REFERENCE (drop the beats/zenith/Downfall reveal) ----------

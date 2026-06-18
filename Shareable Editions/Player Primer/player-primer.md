@@ -136,7 +136,7 @@ Every recurring ability is limited by exactly one of these — no other gating c
 - **Once per situation** — a single contiguous scene of pressure (a fight, a storm, a negotiation, a delicate job). It ends when the pressure breaks; the GM calls the boundary.
 - **Once per session** — one real-world sitting of play.
 - **Once per journey** — the whole passage between two landmarks, however many sessions it takes.
-- **Once per campaign** — a single use across the entire campaign, never refreshed. Where a zenith grants the surviving party a once-per-campaign effect, that single use belongs to the party.
+- **Once per campaign** — a single use across the entire campaign, never refreshed.
 
 ### Legal Durations
 
@@ -2216,7 +2216,7 @@ Your class is your competence. Pick one of the ten (Part Six) and take everythin
 3. Its **equipment** — take the listed gear, and **pick one** from the choice the class offers.
 4. Both of its **core abilities** — the powers that define the class. You have these from the start.
 
-You do **not** take any minor, major, or zenith abilities yet — those come in play. You begin lean and grow into the legend.
+You do **not** take its other abilities yet — those come in play. You begin lean and grow into the legend.
 
 ## Step 3 — Choose a Calling
 
