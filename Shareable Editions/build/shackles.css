@@ -126,3 +126,6 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
  blockquote,.tcard,.dchip,.schip,table,li{break-inside:avoid}
  a{border:0; color:var(--ink)}
 }
+
+.redacted{ font-family:"Courier New",ui-monospace,monospace; color:var(--ink); letter-spacing:-1px; line-height:1.25; opacity:.9; word-break:break-all; user-select:none; margin:.25rem 0 .7rem; }
+.redacted::after{ content:" REDACTED"; font-family:"Cinzel",serif; font-size:.6rem; letter-spacing:.15em; color:var(--oxblood); opacity:.8; }

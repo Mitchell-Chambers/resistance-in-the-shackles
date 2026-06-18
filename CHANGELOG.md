@@ -8,6 +8,17 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 - _Nothing yet._
 
+## [0.13.0] — 2026-06-17
+
+Zeniths obscured, not cut, in the player primer.
+
+### Changed
+
+- **Calling zenith beats restored** in the primer (they read as evocative story prompts, not a labelled "downfall").
+- **Class zenith abilities shown as names only**, with their descriptions **redacted** — rendered as censor bars under a "sealed until you arrive" caption (new `.redacted` style in the design CSS and the reusable build tool). Players learn that zeniths exist and their evocative names, but not what they do.
+- **Added a "Zeniths" explanation** in two places — the Callings intro (main text) and a restored, reworded **Advancement** section in *Make Your Pirate* — framed as the legendary summit of a character's story. No mention of downfalls, death, or "the end" anywhere in the primer.
+- Rebuilt `player-primer.{md,html,pdf}` and refreshed the `designed-document` skill.
+
 ## [0.12.0] — 2026-06-17
 
 Reworked the player primer to read as a surface-level mystery, and fixed sub-ability formatting.
@@ -202,6 +213,7 @@ First version-controlled build. The old 145-page PDF player reference was rebuil
 - Ship-scale systems (Hull, Journeys, Ship Combat, Ships of the Shackles), Ports & Haunts, Location Tiers, and the full Equipment & Resources document remain in the wider project and are referenced from the reference where relevant.
 
 [Unreleased]: #unreleased
+[0.13.0]: #0130--2026-06-17
 [0.12.0]: #0120--2026-06-17
 [0.11.0]: #0110--2026-06-17
 [0.10.0]: #0100--2026-06-17

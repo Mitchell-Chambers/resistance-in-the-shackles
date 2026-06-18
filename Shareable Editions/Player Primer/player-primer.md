@@ -182,6 +182,8 @@ Your calling is your reason for sailing — the obsession that keeps you from a 
 | **Fellowship** | The crew is the only wealth you have ever counted. |
 | **Piracy** *(shared)* | The life you all chose, and the ledger it keeps. |
 
+**Zeniths.** The grandest beats a calling offers are its **zeniths** — the height a character's story can climb to. Most pirates sail a long while before they ever reach for one. They are written plainly in each calling below; what it *means* to reach one, you will understand only when you do.
+
 ## Choosing Your Calling
 
 If you are torn between two callings, the question tells you which one fits.
@@ -250,6 +252,11 @@ When you create your character, answer these questions:
 - Arrive at last, and find someone got there first.
 - Get another PC to the thing they hunt, at real cost to you.
 
+### ZENITH BEATS
+
+- Claim the thing you have hunted, and pay whatever it asks.
+- Reach it at last — and turn away with empty hands.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Brass compass that doesn't point north
@@ -314,6 +321,11 @@ When you create your character, answer these questions:
 - Be offered legitimacy — marque, pardon, seat — and decide if it's a brick or a trap.
 - Win the thing you reached for, and feel the foundation crack beneath it.
 
+### ZENITH BEATS
+
+- Step back from what you built, and watch it stand without you.
+- Tear it down yourself, before anyone else can take it.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Flag of your own design, never yet flown
@@ -377,6 +389,11 @@ When you create your character, answer these questions:
 - Ally with someone you despise against the common enemy.
 - Win a real victory over them that changes nothing.
 
+### ZENITH BEATS
+
+- Face your target at last, and settle the account.
+- With your target finally in your power, let them go.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. A scar they gave you, never properly treated
@@ -439,6 +456,11 @@ When you create your character, answer these questions:
 - Buy another PC's freedom without being asked.
 - Learn your price has been bought by someone new.
 - Open a charted route that runaways can sail without you.
+
+### ZENITH BEATS
+
+- Bring down the person or institution that owned you, and stand in the ashes.
+- Sail beyond every claim on you — law, debt and name — and do not come back.
 
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
@@ -504,6 +526,11 @@ When you create your character, answer these questions:
 - Scuttle a safe anchorage because the tide required it.
 - Meet another who was called, and answered differently.
 
+### ZENITH BEATS
+
+- Answer the call in full: go beneath, and do not return as anything the world knows.
+- Tear the sea's claim out of yourself, and live with the silence it leaves.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. Coral that grew around your wrist while you slept; it grows back
@@ -568,6 +595,11 @@ When you create your character, answer these questions:
 - Reclaim a family right, and find it dearer to hold than to win.
 - Begin something your own heirs will have to carry.
 
+### ZENITH BEATS
+
+- Become the one the line is remembered by, eclipsing all who came before.
+- Pay the line's last debt, burn its flag, and sail out from under the name.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. A signet that opens doors it shouldn't
@@ -631,6 +663,11 @@ When you create your character, answer these questions:
 - Take back someone who truly wronged you.
 - Refuse honours that would split the crew.
 - Build something with them that outlasts the voyage: a code, a tradition, a haunt of your own.
+
+### ZENITH BEATS
+
+- Give everything you have, in one moment, so the crew sails on.
+- Outlive them — scattered, sunk or sailed on — and carry what remains.
 
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
@@ -697,6 +734,11 @@ When you create your crew, answer these questions together:
 - Hear your deed told wrong in a port you've never visited.
 - Choose between the Code and your own judgement, lastingly.
 
+### ZENITH BEATS
+
+- Carve the crew into the Shackles for good — a council seat, a free port, a flag that sails on without you.
+- Lose the ship, the sea or each other, and scatter the way all crews end.
+
 Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:
 
 1. The crew's mark, tattooed somewhere you chose carefully
@@ -713,6 +755,8 @@ Roll 1d10 on the following table or choose to determine what you carry with you 
 # Classes — What You Can Do
 
 Your class is the reason you are not dead yet — the hard-won expertise that has kept you alive through everything the Shackles has thrown at you. Pick one of the ten. You begin with its core skill and domain, a little gear, and one or two signature abilities; you grow new tricks as you sail.
+
+Each class also holds **zenith abilities** — legendary powers at the summit of its path. You will find their *names* below, but not what they do: those stay sealed until a character's story reaches that height.
 
 ## The Ten Classes
 
@@ -832,6 +876,22 @@ _The wild Shackles sings of flesh and plenty; you echo that sickening song._ You
 - **STORYTELLER.** Once per session, when you're tracking a beast, you can declare it to be a renowned beast — you've heard tell of it before. Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.
 - **BOUNTY SHARED.** When you complete a journey or hunt and kill a renowned beast (see above), everyone who took part in THE WILD HUNT may remove D6 stress from Luck or Gold.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### LEVIATHAN
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### LEGENDARY BEAST
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### ROOT AND RUIN
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Chronicler
 
 _The Shackles has been drowning civilisations since before it had a name. Azlant sank whole. The cyclops empire of Ghol-Gan left its stonework on every island, geometries that do not quite resolve into sense. Lirgen, nation of astrologers, watched the sky for a thousand years and never saw the Eye coming. The sea swallows them all, and the Eye grinds what remains into something half-preserved and half-destroyed — and you read what they left behind. You learned early what the colonial universities refuse to admit: that the magic you practise and the history you study are the same subject. A dead tradition is not gone. Its workings are still down there in the wrecks and the ruin-chambers, written in scripts no living person was supposed to read, waiting for someone with the patience to recover them and the nerve to speak them aloud. The other scholars call what you do grave-robbery. The grave-robbers call it scholarship. They are both correct, and neither of them can do what you do: stand in a drowned temple, read the wall, and make the past pick its tools back up._
@@ -935,6 +995,22 @@ _You recovered it from a tradition so old that no one alive has seen it cast. It
 - **PRACTISED HAND.** Deeper understanding reduces the cost to D4 Tide stress.
 - **SHARE THE KNOWLEDGE.** You can teach the spell to one other character. Their version is real but unreliable — they roll to cast it. Yours simply works.
 - **THE SECOND RECOVERY.** Your research yields a second Spell Beyond Memory, from a different tradition. Define it with the GM.
+
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE COMPLETE RECORD
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE ARCHIVIST ETERNAL
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE UNFINISHED WORKING
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
 
 ## Corsair
 
@@ -1042,6 +1118,22 @@ _Never get into a fight you haven't drilled for._ Once per session, when you hav
 - **MID-WATCH DRILL.** You may run preparations during a journey; add a D6 bane to the journey's resistance if you do.
 - **EMERGENCY ISSUE.** With a few minutes to spare, grant one benefit to yourself or one ally by consuming a resource of D6 or higher value. This doesn't count as the per-session use.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE LAST STAND
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### LIVING LEGEND
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### DOWN WITH THE SHIP
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Daredevil
 
 _You learned what you know in places that don't appear on any map the respectable world keeps: the travelling circus that wintered in Bloodcove, the knife-throwing act that went wrong in ways you don't discuss, the year with the escapologists and fire-eaters who work the dockside crowds of Port Peril. You are not a planner. You are a mover. Your survival strategy has always been the same: be faster than what's coming, be gone before anyone works out what happened, and if you absolutely must fight, make it spectacular enough that the crowd forgets to stop you leaving. The Shackles is full of people who are very good at standing still and waiting — braced behind gunwales, dug in behind harbour walls, sitting on their reputations like dragons on gold. You have never understood why anyone would do that. Everything you own fits in your pockets, everything you owe is outrun, and every room you have ever entered had at least three ways out. You checked. You always check._
@@ -1143,6 +1235,22 @@ _You simply are not there anymore._ Once per session, roll Vanish+Outlaw to disa
 - **LEAVE A DOUBLE.** Something remains in your place briefly — a coat, a hat, a silhouette that is not quite right. It buys a few precious seconds — until someone acts on it — before anyone realises you are gone.
 - **CROWD WORK.** THE VANISHING ACT can remove one ally alongside you. They must be touching you when you go.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE GRAND EXIT
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### UNKILLABLE
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE LAST TRICK
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Errant
 
 _You came from somewhere with rules. Not the Pirate Code — that is a contract between people who distrust each other, enforced by the threat of violence. You came from somewhere with forms: the bow before the engagement, the offered hilt, the understanding that violence conducted correctly is something distinct from violence conducted badly, and that the distinction matters. Maybe you were Chelish nobility before a political miscalculation. Maybe you trained in the duelling academies of Absalom, or swore vows to an order that no longer answers your letters, before whatever happened happened and the Shackles became the only place that would have you. You carry the form the way some people carry a language — not as an affectation, but as the structure through which you perceive things. When you look at a fight you see lines, angles and the grammar of engagement your tradition mapped out centuries before you were born. The pirates of the Shackles are dangerous, many of them, in ways that are real and serious. None of them were trained. None of them have a lineage. None of them spent ten years in a school learning to fight a problem before it arrived. This is not arrogance. It is simply a fact about what formal training does — and the Shackles is currently in the process of learning it._
@@ -1243,6 +1351,22 @@ _Your record — challenges accepted and resolved, the names of those you have f
 - **THE YOUNG ONES COME.** Rising fighters seek you out to prove themselves against a named opponent. Every so often — the GM decides when — one arrives who is genuinely trained. Whether you defeat them, teach them, recruit them or send them away changed is yours to determine.
 - **COLONIAL WEIGHT.** Once per session, in formal dealings with a colonial power, invoke your name and lineage to achieve an outcome that would require significant political capital from anyone without a formal fighting pedigree.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE LAST BOUT
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE HOMECOMING
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE SCHOOL FOUNDED
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Powder Mage
 
 _Magic and gunpowder have one thing in common: they both kill you if you handle them carelessly. You have learned to handle both carefully enough that it is everyone else who dies. You channel arcane force through iron and smoke, stitching spellwork into the moment of firing, turning a pistol shot into something that defies physics and good sense. In the colonial navies they would have burned you for it; in the Shackles they just want to know what it costs to hire you. The answer is more than they think, because the real price is not paid in gold. The magic is eating through you — slowly, inexorably, a grain at a time, the way a slow match eats cord. You have decided the price is worth it. The power is undeniable; addictive, in fact. To hold the moment of detonation in your mind, to feel every charge and loaded barrel within thirty paces like sparks behind your eyes — there is nothing else like it, and safety, solvency and your own flesh have all become secondary to the next impossible shot._
@@ -1342,6 +1466,22 @@ _Every coast in the Shackles holds a dry cache someone died before emptying. You
 - **BENEVOLENT.** You or any ally may remove D6 stress from Luck or Gold instead.
 - **OMNIPRESENT.** You access the same magazine every time, no matter where you are. At the GM's discretion, Major Luck fallout could see it found and emptied by someone else.
 - **BOUNTIFUL.** Once per session, when you access the magazine, you can locate a non-unique item of D8 value or lower.
+
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE FINAL CHARGE
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE PERFECT SHOT
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE UNDYING SPARK
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
 
 ## Sawbone
 
@@ -1449,6 +1589,22 @@ _You are not performing a miracle. You are refusing the outcome, and you have th
 - **THE IMPOSSIBLE SURGERY.** Once per session, spend the situation operating: remove all Blood stress from one character and clear one of their Minor Blood fallouts. They are functional when it ends. Comfortable was never the service offered.
 - **RESURRECTION.** Restore a destroyed ship, or a character who has suffered Critical Blood fallout but not yet been written out of the story, to full function. This takes months of in-fiction work, significant materials and problems worth playing through. What the patient remembers is between them and the GM.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE PROJECT COMPLETE
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE SHIP ETERNAL
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### EVERY PATIENT LIVES
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Sharper
 
 _Every Free Captain thinks they understand the game — raids, plunder, loyalty, fear. You understand the game that happens underneath that game. Who is sleeping with whom. Which Pirate Council member owes a debt to which merchant house. Which harbourmaster is on three separate payrolls, and which informant changed sides on Thursday. You have built an empire of knowledge that nobody can see, and you protect it the way a spider protects a web: by being invisible, and by ensuring that anything that touches it gets stuck. The cards, the dice, the cons — those are the visible trade, and you are very good at them, but they were only ever apprenticeship. The real game taught you its one true rule early: everything in the Shackles is a wager, every person is a hand to be read, and the house — given enough patience, enough ledgers, enough friends in enough back rooms — the house is you. You only bet on certainties. The trick is manufacturing them._
@@ -1548,6 +1704,22 @@ _As far as anyone knows, it's always been here._ When you are in a port, roll De
 - **THE HOUSE ALWAYS WINS.** Once per session, the room's games and ledgers clear D4 Gold stress.
 - **WHAT THE WALLS HEARD.** Once per session, the room yields a secret a guest let slip — the GM tells you something true and useful about anyone who has been inside this session.
 - **NEVER WAS.** On a night's notice, the room vanishes: furniture, records, staff, all of it. Patrons misremember the address. Investigators find a storeroom that has clearly been empty for years.
+
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE WEB COMPLETES
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE NAME BEHIND THE NAME
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE GRIFT ETERNAL
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
 
 ## Sin Bosun
 
@@ -1651,6 +1823,22 @@ _This is not magic. This is asking the god to do what the god does, and having t
 - **LIGHTNING.** Once per situation within your storm, call a strike on a target you can see: D10 Blood or Hull stress. The god's aim is not always precise. It is always intentional.
 - **RIDER OF THE STORM.** While within a storm you have called, you take no stress from weather effects and roll with mastery on all navigation and shipboard actions. You asked for this. You are ready for it.
 
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE GOD'S CHAMPION
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### SAINT OF THE DROWNED
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### THE WAY THROUGH
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 ## Tidecaller
 
 _The Eye of Abendego did not form by accident. Something lives at the heart of that immortal storm — ancient, patient, and interested in very specific things. You found it, or it found you. The terms were unclear. They remain unclear. What is clear is what you got: the wild magic of the ocean and the bargained, familiar-haunted power of the witch tradition, braided into one trade — and what it is costing you, a little at a time. Your blood runs colder than it used to. Salt crusts where you sleep. There are mornings when your reflection takes a moment too long to do what you did. Crews fear you and captains court you, because a witch aboard is luck and weather and hexes turned aside, and everyone has heard what happens to ships that put one over the side. You are treated as something between an officer and an omen. They are right to do so. You are not entirely sure, anymore, which side of the bargain you are standing on — whether you are a person who commands the sea's power, or a place where the sea is slowly coming ashore._
@@ -1750,6 +1938,22 @@ _The pact does not much care which body you use._ Roll Command+Arcane to send yo
 - **THE BORROWED MOUTH.** The creature can speak with your voice — negotiate, threaten, deliver a message from somewhere no one expected.
 - **THE SHOAL.** You can ride a shoal, swarm or flock as a single body, moving as a cloud of eyes and teeth.
 - **LEVIATHAN VESSEL.** Once per campaign, the vessel can be something truly vast. The GM determines what the deep sends when you ask.
+
+### ZENITH ABILITIES
+
+*The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*
+
+#### THE PACT FULFILLED
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### SOVEREIGN OF THE DROWNED
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+#### WHAT THE EYE KEEPS
+
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
 
 # Ancestries — Who You Are
 
@@ -2257,6 +2461,21 @@ Piracy is not a solo act. As a table, build the thing you all share:
 ## Step 8 — Finishing Touches
 
 Name, look, voice, the flag you sail under. Write your two starting **active beats** (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your **character sheet** and you are ready to sail.
+
+---
+
+## Advancement — How You Grow
+
+You grow by **hitting beats**, not by killing things or banking experience.
+
+- At the end of each session you choose **two active beats** from your personal calling or the shared Piracy calling (the pools combine). You can hold only two at a time, and cannot hit more than one in a single situation.
+- When you hit a beat, take an **advance** from your class at the matching level:
+  - **Minor beat → minor advance.** Most of your growth: a new skill, a new domain, +2 protection, or a named minor ability. Three of each class's minor advances are *generic and repeatable* (pick a skill, pick a domain, or +1 protection).
+  - **Major beat → major advance.** A larger power. Each major ability has **three sub-options** you can take as later advances to deepen it.
+  - **Zenith beat → zenith advance.** A legendary, transformative power — the summit your character can reach. Rare, and never taken lightly; reaching for one tells the table your pirate's legend is cresting.
+- **Gaining a skill or domain a second time grants a knack** (Part Three) — roll that narrow thing with mastery.
+
+The shape of advancement *is* the shape of the story. Minor advances are the texture of the good years; majors are the turning points; the **zeniths** are the summit — the moment a pirate becomes a tale the Shackles tells long after. What waits at that height, you will learn only by climbing to it.
 
 ---
 

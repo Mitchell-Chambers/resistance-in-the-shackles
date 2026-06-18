@@ -36,6 +36,20 @@ def ensure_blank_before_lists(t):
         out.append(l)
     return "\n".join(out)
 
+def redact_zeniths_class(t):
+    """Keep the ZENITH ABILITIES heading and each ability's NAME; redact the descriptive text."""
+    i=t.find("## ZENITH ABILITIES")
+    if i==-1: return t
+    head=t[:i].rstrip()
+    names=re.findall(r'(?m)^### (.+)$', t[i:])
+    bar=("\u2588"*8+" "+"\u2588"*11+" "+"\u2588"*4+" "+"\u2588"*10+" "+"\u2588"*12+" "
+         +"\u2588"*3+" "+"\u2588"*10+" "+"\u2588"*8+" "+"\u2588"*14+" "+"\u2588"*4+" "+"\u2588"*15)
+    out=[head,"","## ZENITH ABILITIES","",
+         "*The summit of this path \u2014 legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.*",""]
+    for n in names:
+        out += ["### "+n, "", '<p class="redacted" aria-hidden="true">'+bar+'</p>', ""]
+    return "\n".join(out).rstrip()+"\n"
+
 OUT=[]
 def add(s): OUT.append(s.rstrip()+"\n")
 
@@ -99,23 +113,26 @@ Your calling is your reason for sailing — the obsession that keeps you from a 
 | **Cursed Tides** | The sea has marked you for its own. |
 | **Legacy** | A name that went to sea before you did. |
 | **Fellowship** | The crew is the only wealth you have ever counted. |
-| **Piracy** *(shared)* | The life you all chose, and the ledger it keeps. |""")
+| **Piracy** *(shared)* | The life you all chose, and the ledger it keeps. |
+
+**Zeniths.** The grandest beats a calling offers are its **zeniths** \u2014 the height a character's story can climb to. Most pirates sail a long while before they ever reach for one. They are written plainly in each calling below; what it *means* to reach one, you will understand only when you do.""")
 cov=strip_nav(read("05-callings/README.md"))
 add(section(cov, "## Choosing Your Calling"))   # the in-fiction "if torn between two" guide
 for c in ["hunger","monument","vendetta","freedom","cursed-tides","legacy","fellowship","piracy"]:
     t=strip_nav(read(f"05-callings/{c}.md"))
-    t=cut_from_to(t, "## ZENITH BEATS", "Roll 1d10")   # hide the endings; keep the carry table
-    add(demote(t))
+    add(demote(t))   # full beats, zeniths included
 
 # ---------- CLASSES (player-facing intro + entries, zeniths cut) ----------
 add("""# Classes — What You Can Do
 
-Your class is the reason you are not dead yet — the hard-won expertise that has kept you alive through everything the Shackles has thrown at you. Pick one of the ten. You begin with its core skill and domain, a little gear, and one or two signature abilities; you grow new tricks as you sail.""")
+Your class is the reason you are not dead yet — the hard-won expertise that has kept you alive through everything the Shackles has thrown at you. Pick one of the ten. You begin with its core skill and domain, a little gear, and one or two signature abilities; you grow new tricks as you sail.
+
+Each class also holds **zenith abilities** \u2014 legendary powers at the summit of its path. You will find their *names* below, but not what they do: those stay sealed until a character's story reaches that height.""")
 cr=strip_nav(read("06-classes/README.md"))
 add(section(cr, "## The Ten Classes", "## How a Class Works"))   # the one-line table only
 for c in ["castaway","chronicler","corsair","daredevil","errant","powder-mage","sawbone","sharper","sin-bosun","tidecaller"]:
     t=strip_nav(read(f"06-classes/{c}.md"))
-    t=cut_from_to(t, "## ZENITH ABILITIES", None)      # hide the mythic endgame
+    t=redact_zeniths_class(t)                          # zenith ability names kept, descriptions redacted
     t=re.sub(r'(?m)^- MINOR: ([^.\n]+?)\.', r'- **\1.**', t)   # sub-abilities: bold name, drop jargon
     add(demote(t))
 
@@ -131,10 +148,15 @@ for c in ["shackleborn","bonuwat","chelaxian","small-folk","goblinkin","big-folk
 
 # ---------- MAKE YOUR PIRATE (08, drop Advancement internals) ----------
 mk=drop_h1(strip_nav(read("08-character-creation.md")))
-mk=cut_from_to(mk, "## Advancement — How You Grow", "## Quick Reference — The Build")
 mk=mk.replace(" (see Advancement, below)","")
 mk=mk.replace("those are *advances*, earned in play","those come in play")
 mk=mk.replace("any minor, major, or zenith abilities","its other abilities")
+mk=mk.replace(
+ "**Zenith beat \u2192 zenith advance.** An endgame power. Taking one signals your character's story is reaching its end \u2014 often a single, world-changing act, sometimes triggered by your death or retirement.",
+ "**Zenith beat \u2192 zenith advance.** A legendary, transformative power \u2014 the summit your character can reach. Rare, and never taken lightly; reaching for one tells the table your pirate's legend is cresting.")
+mk=mk.replace(
+ "the zeniths \u2014 and the calling's **Downfall** \u2014 are where it all comes due. In the Shackles, the good times are real, and so is what comes after.",
+ "the **zeniths** are the summit \u2014 the moment a pirate becomes a tale the Shackles tells long after. What waits at that height, you will learn only by climbing to it.")
 add("# Make Your Pirate\n"+mk)
 
 # ---------- QUICK REFERENCE (drop the beats/zenith/Downfall reveal) ----------

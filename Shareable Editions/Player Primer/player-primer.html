@@ -67,6 +67,8 @@ blockquote{ margin:.9rem 0; padding:.6rem .9rem; background:rgba(245,230,204,.55
  border:1px solid var(--rule); border-left:4px solid var(--oxblood); border-radius:2px}
 blockquote p{margin:.25rem 0}
 blockquote strong:first-child{font-family:'Cinzel',serif; letter-spacing:.03em}
+.redacted{ font-family:"Courier New",ui-monospace,monospace; color:var(--ink); letter-spacing:-1px; line-height:1.25; opacity:.9; word-break:break-all; user-select:none; margin:.25rem 0 .7rem; }
+.redacted::after{ content:" REDACTED"; font-family:"Cinzel",serif; font-size:.6rem; letter-spacing:.15em; color:var(--oxblood); opacity:.8; }
 code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.85em}
 
 /* cover */
@@ -403,6 +405,7 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 </tr>
 </tbody>
 </table>
+<p><strong>Zeniths.</strong> The grandest beats a calling offers are its <strong>zeniths</strong> — the height a character's story can climb to. Most pirates sail a long while before they ever reach for one. They are written plainly in each calling below; what it <em>means</em> to reach one, you will understand only when you do.</p>
 <h2 id="choosing-your-calling">Choosing Your Calling</h2>
 <p>If you are torn between two callings, the question tells you which one fits.</p>
 <ul>
@@ -466,6 +469,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Arrive at last, and find someone got there first.</li>
 <li>Get another PC to the thing they hunt, at real cost to you.</li>
 </ul>
+<h3 id="zenith-beats">ZENITH BEATS</h3>
+<ul>
+<li>Claim the thing you have hunted, and pay whatever it asks.</li>
+<li>Reach it at last — and turn away with empty hands.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>Brass compass that doesn't point north</li>
@@ -526,6 +534,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Be offered legitimacy — marque, pardon, seat — and decide if it's a brick or a trap.</li>
 <li>Win the thing you reached for, and feel the foundation crack beneath it.</li>
 </ul>
+<h3 id="zenith-beats_1">ZENITH BEATS</h3>
+<ul>
+<li>Step back from what you built, and watch it stand without you.</li>
+<li>Tear it down yourself, before anyone else can take it.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>Flag of your own design, never yet flown</li>
@@ -585,6 +598,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Ally with someone you despise against the common enemy.</li>
 <li>Win a real victory over them that changes nothing.</li>
 </ul>
+<h3 id="zenith-beats_2">ZENITH BEATS</h3>
+<ul>
+<li>Face your target at last, and settle the account.</li>
+<li>With your target finally in your power, let them go.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>A scar they gave you, never properly treated</li>
@@ -643,6 +661,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Buy another PC's freedom without being asked.</li>
 <li>Learn your price has been bought by someone new.</li>
 <li>Open a charted route that runaways can sail without you.</li>
+</ul>
+<h3 id="zenith-beats_3">ZENITH BEATS</h3>
+<ul>
+<li>Bring down the person or institution that owned you, and stand in the ashes.</li>
+<li>Sail beyond every claim on you — law, debt and name — and do not come back.</li>
 </ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
@@ -704,6 +727,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Scuttle a safe anchorage because the tide required it.</li>
 <li>Meet another who was called, and answered differently.</li>
 </ul>
+<h3 id="zenith-beats_4">ZENITH BEATS</h3>
+<ul>
+<li>Answer the call in full: go beneath, and do not return as anything the world knows.</li>
+<li>Tear the sea's claim out of yourself, and live with the silence it leaves.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>Coral that grew around your wrist while you slept; it grows back</li>
@@ -764,6 +792,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Reclaim a family right, and find it dearer to hold than to win.</li>
 <li>Begin something your own heirs will have to carry.</li>
 </ul>
+<h3 id="zenith-beats_5">ZENITH BEATS</h3>
+<ul>
+<li>Become the one the line is remembered by, eclipsing all who came before.</li>
+<li>Pay the line's last debt, burn its flag, and sail out from under the name.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>A signet that opens doors it shouldn't</li>
@@ -823,6 +856,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Take back someone who truly wronged you.</li>
 <li>Refuse honours that would split the crew.</li>
 <li>Build something with them that outlasts the voyage: a code, a tradition, a haunt of your own.</li>
+</ul>
+<h3 id="zenith-beats_6">ZENITH BEATS</h3>
+<ul>
+<li>Give everything you have, in one moment, so the crew sails on.</li>
+<li>Outlive them — scattered, sunk or sailed on — and carry what remains.</li>
 </ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
@@ -886,6 +924,11 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li>Hear your deed told wrong in a port you've never visited.</li>
 <li>Choose between the Code and your own judgement, lastingly.</li>
 </ul>
+<h3 id="zenith-beats_7">ZENITH BEATS</h3>
+<ul>
+<li>Carve the crew into the Shackles for good — a council seat, a free port, a flag that sails on without you.</li>
+<li>Lose the ship, the sea or each other, and scatter the way all crews end.</li>
+</ul>
 <p>Roll 1d10 on the following table or choose to determine what you carry with you to mark your calling:</p>
 <ol>
 <li>The crew's mark, tattooed somewhere you chose carefully</li>
@@ -902,6 +945,7 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 </section>
 <section class="chapter ch-classes"><h1 id="classes" id="classes-what-you-can-do">Classes — What You Can Do</h1>
 <p>Your class is the reason you are not dead yet — the hard-won expertise that has kept you alive through everything the Shackles has thrown at you. Pick one of the ten. You begin with its core skill and domain, a little gear, and one or two signature abilities; you grow new tricks as you sail.</p>
+<p>Each class also holds <strong>zenith abilities</strong> — legendary powers at the summit of its path. You will find their <em>names</em> below, but not what they do: those stay sealed until a character's story reaches that height.</p>
 <h2 id="the-ten-classes">The Ten Classes</h2>
 <table>
 <thead>
@@ -1052,6 +1096,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>STORYTELLER.</strong> Once per session, when you're tracking a beast, you can declare it to be a renowned beast — you've heard tell of it before. Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.</li>
 <li><strong>BOUNTY SHARED.</strong> When you complete a journey or hunt and kill a renowned beast (see above), everyone who took part in THE WILD HUNT may remove D6 stress from Luck or Gold.</li>
 </ul>
+<h3 id="zenith-abilities">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="leviathan">LEVIATHAN</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="legendary-beast">LEGENDARY BEAST</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="root-and-ruin">ROOT AND RUIN</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="chronicler">Chronicler</h2>
 <p><em>The Shackles has been drowning civilisations since before it had a name. Azlant sank whole. The cyclops empire of Ghol-Gan left its stonework on every island, geometries that do not quite resolve into sense. Lirgen, nation of astrologers, watched the sky for a thousand years and never saw the Eye coming. The sea swallows them all, and the Eye grinds what remains into something half-preserved and half-destroyed — and you read what they left behind. You learned early what the colonial universities refuse to admit: that the magic you practise and the history you study are the same subject. A dead tradition is not gone. Its workings are still down there in the wrecks and the ruin-chambers, written in scripts no living person was supposed to read, waiting for someone with the patience to recover them and the nerve to speak them aloud. The other scholars call what you do grave-robbery. The grave-robbers call it scholarship. They are both correct, and neither of them can do what you do: stand in a drowned temple, read the wall, and make the past pick its tools back up.</em></p>
 <h3 id="core-traits_1">Core Traits</h3>
@@ -1139,6 +1194,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>SHARE THE KNOWLEDGE.</strong> You can teach the spell to one other character. Their version is real but unreliable — they roll to cast it. Yours simply works.</li>
 <li><strong>THE SECOND RECOVERY.</strong> Your research yields a second Spell Beyond Memory, from a different tradition. Define it with the GM.</li>
 </ul>
+<h3 id="zenith-abilities_1">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-complete-record">THE COMPLETE RECORD</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-archivist-eternal">THE ARCHIVIST ETERNAL</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-unfinished-working">THE UNFINISHED WORKING</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="corsair">Corsair</h2>
 <p><em>You have fought on more decks than you can count, in storms and calms, outnumbered and alone. Your body carries the testimony — the scars, the missing pieces, the things that healed wrong. You are not merely a fighter. You are a philosophy of controlled destruction, an argument made in blood and roaring iron that some people simply should not be crossed, and the Shackles has slowly come around to your point of view. Subtlety is for people who cannot afford to be seen coming; you have made yourself expensive to ignore. Every coin you take, you spend — on the crew, on the wake, on the night in port that becomes a story — because gold was never the point. The point is the moment when the grappling hooks bite, the rails come together, and everyone on both decks looks to see where you are standing. The sea made you this way. You have made your peace with it. The sea, as far as anyone can tell, is still deciding.</em></p>
 <h3 id="core-traits_2">Core Traits</h3>
@@ -1229,6 +1295,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>MID-WATCH DRILL.</strong> You may run preparations during a journey; add a D6 bane to the journey's resistance if you do.</li>
 <li><strong>EMERGENCY ISSUE.</strong> With a few minutes to spare, grant one benefit to yourself or one ally by consuming a resource of D6 or higher value. This doesn't count as the per-session use.</li>
 </ul>
+<h3 id="zenith-abilities_2">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-last-stand">THE LAST STAND</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="living-legend">LIVING LEGEND</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="down-with-the-ship">DOWN WITH THE SHIP</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="daredevil">Daredevil</h2>
 <p><em>You learned what you know in places that don't appear on any map the respectable world keeps: the travelling circus that wintered in Bloodcove, the knife-throwing act that went wrong in ways you don't discuss, the year with the escapologists and fire-eaters who work the dockside crowds of Port Peril. You are not a planner. You are a mover. Your survival strategy has always been the same: be faster than what's coming, be gone before anyone works out what happened, and if you absolutely must fight, make it spectacular enough that the crowd forgets to stop you leaving. The Shackles is full of people who are very good at standing still and waiting — braced behind gunwales, dug in behind harbour walls, sitting on their reputations like dragons on gold. You have never understood why anyone would do that. Everything you own fits in your pockets, everything you owe is outrun, and every room you have ever entered had at least three ways out. You checked. You always check.</em></p>
 <h3 id="core-traits_3">Core Traits</h3>
@@ -1314,6 +1391,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>LEAVE A DOUBLE.</strong> Something remains in your place briefly — a coat, a hat, a silhouette that is not quite right. It buys a few precious seconds — until someone acts on it — before anyone realises you are gone.</li>
 <li><strong>CROWD WORK.</strong> THE VANISHING ACT can remove one ally alongside you. They must be touching you when you go.</li>
 </ul>
+<h3 id="zenith-abilities_3">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-grand-exit">THE GRAND EXIT</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="unkillable">UNKILLABLE</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-last-trick">THE LAST TRICK</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="errant">Errant</h2>
 <p><em>You came from somewhere with rules. Not the Pirate Code — that is a contract between people who distrust each other, enforced by the threat of violence. You came from somewhere with forms: the bow before the engagement, the offered hilt, the understanding that violence conducted correctly is something distinct from violence conducted badly, and that the distinction matters. Maybe you were Chelish nobility before a political miscalculation. Maybe you trained in the duelling academies of Absalom, or swore vows to an order that no longer answers your letters, before whatever happened happened and the Shackles became the only place that would have you. You carry the form the way some people carry a language — not as an affectation, but as the structure through which you perceive things. When you look at a fight you see lines, angles and the grammar of engagement your tradition mapped out centuries before you were born. The pirates of the Shackles are dangerous, many of them, in ways that are real and serious. None of them were trained. None of them have a lineage. None of them spent ten years in a school learning to fight a problem before it arrived. This is not arrogance. It is simply a fact about what formal training does — and the Shackles is currently in the process of learning it.</em></p>
 <h3 id="core-traits_4">Core Traits</h3>
@@ -1396,6 +1484,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>THE YOUNG ONES COME.</strong> Rising fighters seek you out to prove themselves against a named opponent. Every so often — the GM decides when — one arrives who is genuinely trained. Whether you defeat them, teach them, recruit them or send them away changed is yours to determine.</li>
 <li><strong>COLONIAL WEIGHT.</strong> Once per session, in formal dealings with a colonial power, invoke your name and lineage to achieve an outcome that would require significant political capital from anyone without a formal fighting pedigree.</li>
 </ul>
+<h3 id="zenith-abilities_4">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-last-bout">THE LAST BOUT</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-homecoming">THE HOMECOMING</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-school-founded">THE SCHOOL FOUNDED</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="powder-mage">Powder Mage</h2>
 <p><em>Magic and gunpowder have one thing in common: they both kill you if you handle them carelessly. You have learned to handle both carefully enough that it is everyone else who dies. You channel arcane force through iron and smoke, stitching spellwork into the moment of firing, turning a pistol shot into something that defies physics and good sense. In the colonial navies they would have burned you for it; in the Shackles they just want to know what it costs to hire you. The answer is more than they think, because the real price is not paid in gold. The magic is eating through you — slowly, inexorably, a grain at a time, the way a slow match eats cord. You have decided the price is worth it. The power is undeniable; addictive, in fact. To hold the moment of detonation in your mind, to feel every charge and loaded barrel within thirty paces like sparks behind your eyes — there is nothing else like it, and safety, solvency and your own flesh have all become secondary to the next impossible shot.</em></p>
 <h3 id="core-traits_5">Core Traits</h3>
@@ -1478,6 +1577,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>OMNIPRESENT.</strong> You access the same magazine every time, no matter where you are. At the GM's discretion, Major Luck fallout could see it found and emptied by someone else.</li>
 <li><strong>BOUNTIFUL.</strong> Once per session, when you access the magazine, you can locate a non-unique item of D8 value or lower.</li>
 </ul>
+<h3 id="zenith-abilities_5">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-final-charge">THE FINAL CHARGE</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-perfect-shot">THE PERFECT SHOT</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-undying-spark">THE UNDYING SPARK</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="sawbone">Sawbone</h2>
 <p><em>The saw that opens a chest cavity and the saw that cuts a rotten plank are the same saw. The pins that hold a shattered femur together and the pins that splice a split timber are the same gauge. You worked out early that a ship's carpenter and a ship's surgeon are doing the same job — assess the damage, remove what cannot be saved, reinforce what can, return the patient to function — and the Shackles has spent your whole career confirming it. You have taken off arms below decks during a broadside and crawled into the bilge to patch shot-holes in the same afternoon, and the problems felt identical. The others aboard traffic in pacts and omens and reputations; you traffic in copper, tar, catgut and load. When the witch's familiar dies, when the god goes quiet, when the luck runs out — they bring it to you, because you are the only one aboard whose power does not have an opinion. And underneath the daily work there is the project: the thing you are building that the Shackles says is impossible. The hand that closes when the forearm flexes. The pump no flooding can outrun. The heart that beats without flesh to drive it. It will take years. It may not work. You are going to build it anyway.</em></p>
 <h3 id="core-traits_6">Core Traits</h3>
@@ -1568,6 +1678,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>THE IMPOSSIBLE SURGERY.</strong> Once per session, spend the situation operating: remove all Blood stress from one character and clear one of their Minor Blood fallouts. They are functional when it ends. Comfortable was never the service offered.</li>
 <li><strong>RESURRECTION.</strong> Restore a destroyed ship, or a character who has suffered Critical Blood fallout but not yet been written out of the story, to full function. This takes months of in-fiction work, significant materials and problems worth playing through. What the patient remembers is between them and the GM.</li>
 </ul>
+<h3 id="zenith-abilities_6">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-project-complete">THE PROJECT COMPLETE</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-ship-eternal">THE SHIP ETERNAL</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="every-patient-lives">EVERY PATIENT LIVES</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="sharper">Sharper</h2>
 <p><em>Every Free Captain thinks they understand the game — raids, plunder, loyalty, fear. You understand the game that happens underneath that game. Who is sleeping with whom. Which Pirate Council member owes a debt to which merchant house. Which harbourmaster is on three separate payrolls, and which informant changed sides on Thursday. You have built an empire of knowledge that nobody can see, and you protect it the way a spider protects a web: by being invisible, and by ensuring that anything that touches it gets stuck. The cards, the dice, the cons — those are the visible trade, and you are very good at them, but they were only ever apprenticeship. The real game taught you its one true rule early: everything in the Shackles is a wager, every person is a hand to be read, and the house — given enough patience, enough ledgers, enough friends in enough back rooms — the house is you. You only bet on certainties. The trick is manufacturing them.</em></p>
 <h3 id="core-traits_7">Core Traits</h3>
@@ -1650,6 +1771,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>WHAT THE WALLS HEARD.</strong> Once per session, the room yields a secret a guest let slip — the GM tells you something true and useful about anyone who has been inside this session.</li>
 <li><strong>NEVER WAS.</strong> On a night's notice, the room vanishes: furniture, records, staff, all of it. Patrons misremember the address. Investigators find a storeroom that has clearly been empty for years.</li>
 </ul>
+<h3 id="zenith-abilities_7">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-web-completes">THE WEB COMPLETES</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-name-behind-the-name">THE NAME BEHIND THE NAME</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-grift-eternal">THE GRIFT ETERNAL</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="sin-bosun">Sin Bosun</h2>
 <p><em>Every ship has a sin bosun, whether the muster book records one or not. The crew might call them the padre, the holy, the god-botherer, the one who talks to the sky — what they mean is: the person you find when someone is dying, and also the person you find when you are lost. In the Shackles these have always been the same job, because the sea does not distinguish between a body it is killing and a ship it is sinking. You serve your god by moving through the world they made — Besmara who owns every plank that touches her water, Gozreh who is the wind in the sail and the storm against the hull, or something older and less named that speaks in current and depth. Your theology is practical: the god's domain is the sea, and to navigate it correctly — to read its weather, to know its routes, to bring ships and souls through it alive — is an act of worship. The chart is the scripture. The stars are the congregation. The passage completed is the prayer answered. You are not a soft priest. The sea is not kind, your god is not kind, and the mercy you offer is the specific, practical mercy of someone who has studied how to get people through things. You know the route. You know the rite. You know, better than most, that the difference between them is mostly a matter of what is doing the killing.</em></p>
 <h3 id="core-traits_8">Core Traits</h3>
@@ -1735,6 +1867,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>LIGHTNING.</strong> Once per situation within your storm, call a strike on a target you can see: D10 Blood or Hull stress. The god's aim is not always precise. It is always intentional.</li>
 <li><strong>RIDER OF THE STORM.</strong> While within a storm you have called, you take no stress from weather effects and roll with mastery on all navigation and shipboard actions. You asked for this. You are ready for it.</li>
 </ul>
+<h3 id="zenith-abilities_8">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-gods-champion">THE GOD'S CHAMPION</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="saint-of-the-drowned">SAINT OF THE DROWNED</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="the-way-through">THE WAY THROUGH</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 <h2 id="tidecaller">Tidecaller</h2>
 <p><em>The Eye of Abendego did not form by accident. Something lives at the heart of that immortal storm — ancient, patient, and interested in very specific things. You found it, or it found you. The terms were unclear. They remain unclear. What is clear is what you got: the wild magic of the ocean and the bargained, familiar-haunted power of the witch tradition, braided into one trade — and what it is costing you, a little at a time. Your blood runs colder than it used to. Salt crusts where you sleep. There are mornings when your reflection takes a moment too long to do what you did. Crews fear you and captains court you, because a witch aboard is luck and weather and hexes turned aside, and everyone has heard what happens to ships that put one over the side. You are treated as something between an officer and an omen. They are right to do so. You are not entirely sure, anymore, which side of the bargain you are standing on — whether you are a person who commands the sea's power, or a place where the sea is slowly coming ashore.</em></p>
 <h3 id="core-traits_9">Core Traits</h3>
@@ -1817,6 +1960,17 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 <li><strong>THE SHOAL.</strong> You can ride a shoal, swarm or flock as a single body, moving as a cloud of eyes and teeth.</li>
 <li><strong>LEVIATHAN VESSEL.</strong> Once per campaign, the vessel can be something truly vast. The GM determines what the deep sends when you ask.</li>
 </ul>
+<h3 id="zenith-abilities_9">ZENITH ABILITIES</h3>
+<p><em>The summit of this path — legendary powers a character reaches only at the height of their story. Their names are known; what they do is sealed until you arrive.</em></p>
+<h4 id="the-pact-fulfilled">THE PACT FULFILLED</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="sovereign-of-the-drowned">SOVEREIGN OF THE DROWNED</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
+<h4 id="what-the-eye-keeps">WHAT THE EYE KEEPS</h4>
+<p class="redacted" aria-hidden="true">████████ ███████████ ████ ██████████ ████████████ ███ ██████████ ████████ ██████████████ ████ ███████████████</p>
+
 </section>
 <section class="chapter ch-ancestries"><h1 id="ancestries" id="ancestries-who-you-are">Ancestries — Who You Are</h1>
 <p>Your ancestry is who you are before the dice hit the table — where you come from, how the world has treated you, what ghosts you carry onto a pirate deck. It grants no rules; it is who you are, not what you can do.</p>
@@ -2896,6 +3050,18 @@ code{background:rgba(122,31,18,.08); padding:.05em .3em; border-radius:3px; font
 </ol>
 <h2 id="step-8-finishing-touches">Step 8 — Finishing Touches</h2>
 <p>Name, look, voice, the flag you sail under. Write your two starting <strong>active beats</strong> (one or two — chosen each session thereafter from your calling or the Piracy pool; see Part Five). Then fill in your <strong>character sheet</strong> and you are ready to sail.</p>
+<hr>
+<h2 id="advancement-how-you-grow">Advancement — How You Grow</h2>
+<p>You grow by <strong>hitting beats</strong>, not by killing things or banking experience.</p>
+<ul>
+<li>At the end of each session you choose <strong>two active beats</strong> from your personal calling or the shared Piracy calling (the pools combine). You can hold only two at a time, and cannot hit more than one in a single situation.</li>
+<li>When you hit a beat, take an <strong>advance</strong> from your class at the matching level:</li>
+<li><strong>Minor beat → minor advance.</strong> Most of your growth: a new skill, a new domain, +2 protection, or a named minor ability. Three of each class's minor advances are <em>generic and repeatable</em> (pick a skill, pick a domain, or +1 protection).</li>
+<li><strong>Major beat → major advance.</strong> A larger power. Each major ability has <strong>three sub-options</strong> you can take as later advances to deepen it.</li>
+<li><strong>Zenith beat → zenith advance.</strong> A legendary, transformative power — the summit your character can reach. Rare, and never taken lightly; reaching for one tells the table your pirate's legend is cresting.</li>
+<li><strong>Gaining a skill or domain a second time grants a knack</strong> (Part Three) — roll that narrow thing with mastery.</li>
+</ul>
+<p>The shape of advancement <em>is</em> the shape of the story. Minor advances are the texture of the good years; majors are the turning points; the <strong>zeniths</strong> are the summit — the moment a pirate becomes a tale the Shackles tells long after. What waits at that height, you will learn only by climbing to it.</p>
 <hr>
 <h2 id="quick-reference-the-build">Quick Reference — The Build</h2>
 <ol>
