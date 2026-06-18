@@ -19,7 +19,7 @@ Your class is the reason you are not dead yet. It is your particular expertise �
 
 ## How a Class Works
 
-Each class gives you a starting **skill**, **domain**, **resource**, and **equipment** (with a choice), then two **core abilities** you have from the start. As you hit calling beats, you take **advances** from your class:
+Each class gives you a starting **skill**, **domain**, **resource**, and **equipment** (with a choice), then its **core abilities** you have from the start — usually two, though a class built around a single signature engine (like the Sawbone) may have one. As you hit calling beats, you take **advances** from your class:
 
 - **Minor abilities** — most of your growth; a deep list to pick from, several repeatable.
 - **Major abilities** — larger powers, each with sub-options (the indented `MINOR:` lines) you can take as later advances to deepen them.
