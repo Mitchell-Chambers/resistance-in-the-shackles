@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch *)",
+      "Bash(git rev-list *)",
+      "Bash(git ls-remote *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Read(//Users/mitchell_rd/**)",
+      "Bash(ssh -T git@github.com -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8)",
+      "Bash(ssh-keygen -t ed25519 -C \"mitchchambers@gmail.com\" -f ~/.ssh/id_ed25519 -N \"\")"
+    ]
+  }
+}
